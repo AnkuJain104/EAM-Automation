@@ -1,0 +1,72 @@
+{
+  "name": "EAM Automation",
+  "projectId": "81352ece-ea91-4b62-8d79-6a09b2aea924",
+  "description": "EAM Regression test case Automation",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ReporterForUiPath.Activities": "[3.0.1]",
+    "UiPath.System.Activities": "[24.10.6]",
+    "UiPath.Testing.Activities": "[24.10.3]",
+    "UiPath.UIAutomation.Activities": "[24.10.6]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.6.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "babae8f9-09e6-4e6f-a0b3-410cf4faa080",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "fbddc0c3-c2c7-48dc-bea6-d333a655a7c4",
+        "testCaseType": "TestCase",
+        "fileName": "Testcase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "de4be529-e8f1-472f-8a21-2654cd796e5f",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18511_Create Work Order (Control Centre - in Maximo).xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
