@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.6.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.189610303",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -59,7 +59,6 @@
         "editingStatus": "InProgress",
         "testCaseId": "de4be529-e8f1-472f-8a21-2654cd796e5f",
         "testCaseType": "TestCase",
-        "fileName": "WorkOrderCreation.xaml"
         "fileName": "OAMP-T18511_Create Work Order (Control Centre - in Maximo).xaml"
       },
       {
@@ -91,6 +90,24 @@
         "testCaseId": "04c297d2-ed6d-4933-84e1-e0a3201b19ea",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18535.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1dd5217d-81cd-427b-a22e-f6b4cf5f36eb",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18512.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "164d492d-ba45-4b60-a313-b9ecb3df0ac2",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_01.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "6a775e6d-28a2-4702-8696-58497e9ec915",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_02.xaml"
       }
     ],
     "saveToCloud": false
