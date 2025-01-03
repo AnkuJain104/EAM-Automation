@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m96AhdHgCUO_DYNGuGO2kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d71cf348-b4c5-4a16-bac2-cf3525333add" CvElementArea="525, 412, 414, 44" CvType="InputBox" DesignTimeRectangle="525, 412, 414, 44" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="436e63b9-b55e-4876-a9cd-bca57f3ff040" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d71cf348-b4c5-4a16-bac2-cf3525333add" CvTextArea="541, 426, 137, 16" CvTextArgument="KML Test - Site Hygiene" CvType="Text" DesignTimeRectangle="541, 426, 137, 16" ElementType="Text" Guid="e22b29bc-e740-4f61-ab09-185b42c35598" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3cadc15b0d8fb053eb10f26233e3541e.png" xmlns="">0mcgH2_gwaUWfAFgd4Ti7BA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PbFCFMfmvUuejFtNXXwT6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c7de8101-38a4-4851-9684-912d36aecc99" CvTextArea="766, 667, 66, 12" CvTextArgument="Select Value" CvType="Text" DesignTimeRectangle="766, 667, 66, 12" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="e04a156a-e597-4b75-9fba-758214aaa425" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7de8101-38a4-4851-9684-912d36aecc99" CvElementArea="736, 663, 21, 21" CvType="Icon" DesignTimeRectangle="734, 661, 25, 25" ElementType="Icon" Guid="e4ce2058-fbbf-4e98-b9ed-6263189ceaac" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGVSURBVEhL7ZOhjsJAEIb7HgRRUcET3JlTd8nd5XoJFwQ46ivaykokggSHA1xfoKICgeARKioQiIqKior6ufyTbNLssqUkQE6c+LJhprsfMztr1HVN98aQA/fgX3IVf1NSVZUSu0QnSZ7nFMcxbbdbWi6XvO52O47L357jouRwOJDv+zQcDmkymZDjOLzats3xNE2VPTKtEghGoxG5rkv7/Z6yLKPT6cRrkiQ0Ho/p++OdiqJQ9naSoBWe57EAh8p5cDwe6eX5icIwVHJNtBLcwY/9xRXIuSZoV7/fZ6GcE2gl6/Wa26GroslgMKAoipS4QCtZLBY0nU75DuSczOfbK38vxwVayTWVWJZFm81GiQu0ErwD3AmmSM41wd1B0jbKWgmmKwgCrkZ3qTgYgtlspuSaaCUArcI7wJjK/1RUYBhGa6tAqwTgoeEd9Ho9niJcMg4XFUBgmiavZVkq+ztJBGgZxhRThAObleE3qsV67vV3lrSBCiBAa1erlSK6iQTgYAjm87nytm4mARDJAnBTiY6HSH4B/+jud2jGl98AAAAASUVORK5CYII=" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="c7de8101-38a4-4851-9684-912d36aecc99" CvTextArea="766, 702, 64, 12" CvTextArgument="Go To Labor" CvType="Text" DesignTimeRectangle="766, 702, 64, 12" ElementType="Text" Guid="1c15f2de-8abc-4b8c-85f9-173dc746736f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="c7de8101-38a4-4851-9684-912d36aecc99" CvTextArea="787, 595, 28, 12" CvTextArgument="Crew" CvType="Text" DesignTimeRectangle="787, 595, 28, 12" ElementType="Text" Guid="79e0e7ac-4d63-4008-9560-a052a11a9efc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dcfaba41a94280e87c147c3f8e8cd541.png" xmlns="">0KDtXt3KZjUmuZd7oT_zFeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

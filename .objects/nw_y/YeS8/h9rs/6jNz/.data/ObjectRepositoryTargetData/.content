@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b3snX6tcj0qHn3ckZnRDvA" Reference="Xc-565InekWGf1ajPaNvWg/6jNzoPekP0K0bybM5umwng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d849d8b8-57cf-4a0d-a08e-864f0f15f45c" CvTextArea="544, 420, 74, 13" CvTextArgument="Select Value" CvType="Text" DesignTimeRectangle="544, 420, 74, 13" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="de672949-bdec-4568-bf9f-3114c8358f64" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d849d8b8-57cf-4a0d-a08e-864f0f15f45c" CvElementArea="512, 416, 23, 23" CvType="Icon" DesignTimeRectangle="510, 414, 27, 27" ElementType="Icon" Guid="b5f03269-b5b2-4345-89e7-9db003f3a991" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAACN1PRVAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFYSURBVEhL7ZVBaoNAFIb1FOo9PISLrAWvIHgCyd4LVK9hjhDwApZewNKFlizdv/INBGTG0WkwpZQuPkzew3y8/43Gm+dZfgpPLzyTf9kh/G7ZMAxGzRUn2fV6lSRJJAxD8X1fEcexnMvzt+S7sjzPxfM8SdNUmvpFuq6Ttm2VCDlQ0+9bY1OGKAgCuVwuRg+maZIsy5TQZUKrjOiYyCZaQqSn08mo61hl7Ijo9Poafd+rPXLVe0usMuJrmsao2yBKdqrXl6zKyJ8IiVLv2SDGoiiM+pJVmWo47usOe3tYxs1lWRp1G+zsoRgBEXv7nG5GT6eqKomiSMZxNHpLrLL34UPJ9k4kDzRTIdR7OlYZcEAQEulr/2b0EdxfX3VdG32dTRkwIc8cB4aoOHXIEfAdISIX4a7sDpPxY5w44PNyRy5CZ5kLe8JDZbAlPFwGiNb+dp4is/F3ZV8N71dJgPzm5gAAAABJRU5ErkJggg==" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a1cc393c21f7ebd866924dd88fdcae06.png" xmlns="">07Em8naCL0Umyel1qkXpB0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

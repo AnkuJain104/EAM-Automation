@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hU4snZca4k-9qzzshEyX8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c4d7a1ae-f2e1-4d6f-8378-b66d119d1a2a" CvTextArea="320, 406, 72, 12" CvTextArgument="2000417487" CvType="Text" DesignTimeRectangle="320, 406, 72, 12" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="2283c0df-f52f-4690-afda-922e70f77cd1" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4b6195a27a34795a3b8abde1b18a1273.png" xmlns="">08yoi21yK-UanZEffYSwX-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">DragAndDrop</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

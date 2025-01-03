@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New Work(1)",
+  "Type": "Element",
+  "Id": "jPg4aQ2jnEigeKHgkh_98w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/jPg4aQ2jnEigeKHgkh_98w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
+  "Created": "2024-12-18T13:35:11.2897288Z",
+  "Updated": "2024-12-18T13:35:11.2897288Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jtCsmezM_E25eAAcKBs8DA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="23e830ad-d50e-4864-8508-fe53e688f1e7" CvTextArea="214, 507, 64, 13" CvTextArgument="KML-JP-03" CvType="Text" DesignTimeRectangle="214, 507, 64, 13" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="cc5b7621-244f-477f-b69d-4eaeb29c4ccc" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="23e830ad-d50e-4864-8508-fe53e688f1e7" CvTextArea="202, 603, 54, 15" CvTextArgument="1-4of4" CvType="Text" DesignTimeRectangle="202, 603, 54, 15" ElementType="Text" Guid="b2b3cd65-325a-46ef-854b-a2f0581ceab1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="298135aa673b444d43d1adc6a220744c.png" xmlns="">0CMzaqfwGXkqvY4rZbcXEGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

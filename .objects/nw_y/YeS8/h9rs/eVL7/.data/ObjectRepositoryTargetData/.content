@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f0ANyKnTkkyfgDmcZ97_UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="da5d6b16-adb4-42df-b474-58f1fbbbd1e4" CvTextArea="273, 437, 490, 22" CvTextArgument="Show Job Plans for the Work Order's Asset and Location Only?" CvType="Text" DesignTimeRectangle="273, 437, 490, 22" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="7ecc10a1-c200-4134-9cbd-efc1bfc94ac5" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b2ed95043e2ac888efb0ab2c08126002.png" xmlns="">023NnD9vAp0umuAb7n3DY1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
