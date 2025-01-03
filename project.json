@@ -60,6 +60,12 @@
         "testCaseId": "de4be529-e8f1-472f-8a21-2654cd796e5f",
         "testCaseType": "TestCase",
         "fileName": "WorkOrderCreation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e0a92aa2-48a8-4fdb-ab9e-10a4c2f6188b",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18512.xaml"
       }
     ],
     "saveToCloud": false

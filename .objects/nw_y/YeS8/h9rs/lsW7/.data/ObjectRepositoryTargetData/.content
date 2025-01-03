@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r9a1Y6aJ6EK_bPhADpU8RQ" Reference="Xc-565InekWGf1ajPaNvWg/lsW7-UeS7EmP90HZfvJn2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="449c09a6-2f84-4b08-8325-75f872c92c72" CvElementArea="26, 303, 20, 20" CvType="Icon" DesignTimeRectangle="24, 301, 24, 24" DesignTimeScaleFactor="1.5" ElementType="Icon" Guid="e9f272f2-c440-46cb-8c25-d2ce11915edb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADaSURBVEhL7ZExCoUwEES9j3YWlhbewMLCIlfxALmKvfdIJRYhlUUusZ8J5LPEJCp8q+/CQDKzw8NYlGVJT6qoqoqe1As41Z8Buq6jbduccA7zmC4DhBBkraVpmpxwhhfuhboEkFLSvu80juPXwxkesnCfKwuo65qWZSGlFLVte8jhIcMOdsM8C/DvPc9zsgwhw07qv0QBfd+7z8eEWUoYdNDlfhTQNA0Nw3AbgA663I8CeInftdbOw+BJcrtetwD8nsu4XkDy7pUFGGNc8cqs63ronwJ+oRdwqg+4AOzah/AwbwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="449c09a6-2f84-4b08-8325-75f872c92c72" CvTextArea="68, 232, 201, 16" CvTextArgument="IBM Maximo Application Suite" CvType="Text" DesignTimeRectangle="68, 232, 201, 16" ElementType="Text" Guid="7e6254dd-051d-4a8a-ad37-d0e1775dcae8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="449c09a6-2f84-4b08-8325-75f872c92c72" CvElementArea="74, 277, 90, 45" CvTextArea="95, 292, 52, 15" CvTextArgument="Planner" CvType="Button" DesignTimeRectangle="74, 277, 90, 45" ElementType="Button" Guid="07c2e58a-f51c-4c00-b723-3e41fc345e23" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7a454a34a5743639f5c1b11c10a1ac9a.png" xmlns="">0GsfPozhdH0-X5arGFIn3Hg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

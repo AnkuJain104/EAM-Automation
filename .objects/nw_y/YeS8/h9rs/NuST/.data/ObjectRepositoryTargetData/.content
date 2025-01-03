@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0_0Yi39HXUaGQnFaN4zm7Q" Reference="Xc-565InekWGf1ajPaNvWg/NuSTW7P5uEidK0TcDM6YHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="592, 570, 141, 18" CvTextArgument="Southern Water" CvType="Text" DesignTimeRectangle="592, 570, 141, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="5fb1d506-d2a9-4be6-98c5-0a514604ee0a" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="1102, 570, 109, 18" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="1102, 570, 109, 18" ElementType="Text" Guid="5cdd24b8-be44-41c4-87cf-e7030b4dea6d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="346, 570, 42, 18" CvTextArgument="SWS" CvType="Text" DesignTimeRectangle="346, 570, 42, 18" ElementType="Text" Guid="87bc638b-afb1-4ec3-aae8-573fad1e5230" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="18981bb5a7ee9f1a623bfa4bafbdc9fe.png" xmlns="">0dIlYwBErGk6HenrI7ZNCVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

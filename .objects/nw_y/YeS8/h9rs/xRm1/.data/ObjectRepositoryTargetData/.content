@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kwCV_E4ZHki414i48W2N6A" Reference="Xc-565InekWGf1ajPaNvWg/xRm1r7sVeEeglFGrNgUilQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="3c7297ce-856c-4713-94c1-ed177923cc72" CvTextArea="799, 694, 67, 12" CvTextArgument="Select Value" CvType="Text" DesignTimeRectangle="799, 694, 67, 12" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="20e69ba4-71ce-40bf-bd19-16971ba784cd" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3c7297ce-856c-4713-94c1-ed177923cc72" CvTextArea="799, 729, 64, 12" CvTextArgument="Go To Labor" CvType="Text" DesignTimeRectangle="799, 729, 64, 12" ElementType="Text" Guid="786dcedc-befa-4113-aa53-f7f3fd480419" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="3c7297ce-856c-4713-94c1-ed177923cc72" CvTextArea="611, 645, 33, 13" CvTextArgument="Labor" CvType="Text" DesignTimeRectangle="611, 645, 33, 13" ElementType="Text" Guid="8bf2c949-384f-4ec6-b640-ccfb8e785646" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f4c0a92885326a0b73a9b39f24bebf9b.png" xmlns="">0pXodnk_8NEKEm3eOrpe8xw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

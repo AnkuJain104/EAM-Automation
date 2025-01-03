@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dx1hvq2VhkmlnD-xQgrVAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0686c74f-a7b6-4421-b96a-e428db56fd55" CvElementArea="494, 630, 22, 22" CvType="Icon" DesignTimeRectangle="492, 628, 26, 26" DesignTimeScaleFactor="1.5" ElementType="Icon" Guid="9218da10-6dc4-406a-9de3-348e90ae07c2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGrSURBVEhL7ZShjsJAEIZ5AASSR0CgkYiKyiYI0hCCrCAEi6hAIHGICsQJBAKBuJJQ2aQCgahCIBAIBAKHQCDm8k9SAhO6Cxe4XC73JU02nXS/mdnZZuiHyMgX7+Jf9G1+t+h4PNL5fJavlTws2m63NBqNyXVdarVa1Ol0yPOGFIYhi3VoRcg8CAKybZssy2JJv9+nbrdL9XqdSqUSr5GICq1oNptRuVzmStbrNR0OB64AT1Il4pCpKlOKsFGlUuFNdrudDDOoGDLDMGgymcrwBaUIG1SrVVoulzJ0A6pEMs1mk9f3UIp6vR5/rOs/GA4/uPrVaiVDTKoI/ca5INO0LK9B22q1Gi0WCxliUkUA0/X2isB0+kmmadJ8PpehG5CI4zic1H6/l2FGKUqmDi3BaN/jdDrxxUVCvu/L8AWlCERRxKOLu4L1NUgE55jP51mUdj5AKwJoR7vdplwuR9lsljctFou8LhQKfJaoGn+OtMofEiVsNhsajyc8iRh9nF0ykRA0Gg1+4jiWnz4n0nEtk218qQhAhgkcDDwelISXiwBaLO/eW0T3+HuiL6VC8ynOP5doAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0686c74f-a7b6-4421-b96a-e428db56fd55" CvTextArea="421, 610, 76, 12" CvTextArgument="* Return Code" CvType="Text" DesignTimeRectangle="421, 610, 76, 12" ElementType="Text" Guid="63803393-5111-43b0-83ba-5ea9481a3e41" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="49572d4302880b3ff4e1669b5ac7c046.png" xmlns="">0U8Yr1ac6wUSX92a6X4I6kA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
