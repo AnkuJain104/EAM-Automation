@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Today's work, waiting o…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VKDHzTH4y02cNMXCsLZDiQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/VKDHzTH4y02cNMXCsLZDiQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
+  "Created": "2024-12-23T12:47:34.9857469Z",
+  "Updated": "2024-12-23T12:47:34.9857469Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
