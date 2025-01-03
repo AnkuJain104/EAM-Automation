@@ -5,7 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "ReporterForUiPath.Activities": "[3.0.1]",
-    "UiPath.System.Activities": "[24.10.6]",
+    "UiPath.System.Activities": "24.10.7",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.6]"
   },
@@ -60,6 +60,37 @@
         "testCaseId": "de4be529-e8f1-472f-8a21-2654cd796e5f",
         "testCaseType": "TestCase",
         "fileName": "WorkOrderCreation.xaml"
+        "fileName": "OAMP-T18511_Create Work Order (Control Centre - in Maximo).xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "812d2efe-163d-4fb4-a0c6-6ed597c48991",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18532.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "da14a496-bfb2-4131-923a-507dda51db4c",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18540.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bd82b7ca-03fd-4383-a81b-c0211d3bf305",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18536.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8818f031-1671-4909-9587-2e247579d71e",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18533.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "04c297d2-ed6d-4933-84e1-e0a3201b19ea",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18535.xaml"
       }
     ],
     "saveToCloud": false
