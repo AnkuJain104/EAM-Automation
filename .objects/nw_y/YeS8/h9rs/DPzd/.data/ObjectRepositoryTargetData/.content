@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jn3jqR2fuEyJXzJIrKB1wg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0722bc4e-7511-474e-9fac-7eb4519eb08c" CvTextArea="614, 393, 67, 13" CvTextArgument="Work Order" CvType="Text" DesignTimeRectangle="614, 393, 67, 13" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="f6e64c90-88ab-48a5-a2d7-ddda98bed627" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="12" Y="19" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="883601c31cc0367c2ff0635977c35bdb.png" xmlns="">0Bp5VXx34lEC9gU39gbG8Og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

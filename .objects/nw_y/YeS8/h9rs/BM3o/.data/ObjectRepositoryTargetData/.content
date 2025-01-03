@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5IoJIO0qYEKM0qAEj3oNbQ" Reference="Xc-565InekWGf1ajPaNvWg/BM3ouVb6z0OJ1sM56Gzibg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="712a739f-4e44-4c02-a347-4eb3a31b3507" CvElementArea="426, 548, 311, 36" CvType="InputBox" DesignTimeRectangle="426, 548, 311, 36" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="9d686752-2310-4651-8472-7aa2265f7aa6" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="712a739f-4e44-4c02-a347-4eb3a31b3507" CvTextArea="427, 528, 43, 10" CvTextArgument="* Memo" CvType="Text" DesignTimeRectangle="427, 528, 43, 10" ElementType="Text" Guid="b472c1b5-c779-466e-9d22-449d5e90047d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="883ca19955c28d1016eedc436a1b9966.png" xmlns="">0-zFnGWpdzE2HYwP1IGHdVw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

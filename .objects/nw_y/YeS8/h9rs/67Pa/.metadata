@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mouse Scroll(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "67PaR2a_w0mfxP4k6xZUsQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/67PaR2a_w0mfxP4k6xZUsQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
+  "Created": "2024-12-18T08:52:28.9809892Z",
+  "Updated": "2024-12-18T08:52:28.9809892Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9o1NABd58E2lQLEhErD5YA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="388c7dc6-9dcc-4697-9358-57a14d022cf7" CvElementArea="28, 313, 21, 22" CvType="Icon" DesignTimeRectangle="26, 311, 25, 26" DesignTimeScaleFactor="1.5" ElementType="Icon" Guid="ec64b9bd-07ce-4bab-b0df-64594c3bb80e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAYAAABCfffNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFZSURBVEhL7ZSvboNQFIf7PoUEJI+AwFZAgqjgJRAIBAKFQCAqEAgEWbJkWTK3LOv+NJnqA1QgkQhEk7Ock9yGXU4ZbM0yUfHlcvidez/gAovlcgk/RVXVSfxKoijKJK53QnALcvxPieM4sN290sgtyLHgTp7D931omgbiOKYRa65PZrIkz3M4HA5gmibVOGK92WwGvTLfSgzDgOf3F9jv93QsZ3j+cfs0yPqMSizLgrqu4e7hnt53rkfXdcr7dylzVuJ5HrRtC1mWsbkM9mE/zpMzVuK6LhyPR+i6Dlar1SDnwD7sx3m2bX/JWImmaSTCRzVHgv2yABndE1kShiFdqSAIglMmJKLuM0tSVRWUZQnr9RqKoqBaZJeT3N5AFEV0jCPWIrtKaBJuLr5pCH7ZuBdiT7AWGfbhB8mtMypJ05R+KX3ePnYn5CxJEnadUcmluEpm8QcSBT4BbflzTaQ3y+8AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b07e7621ab13e060ee0cc6e274f21816.png" xmlns="">0zc3UI7uACkKTTT9Ce8aflw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

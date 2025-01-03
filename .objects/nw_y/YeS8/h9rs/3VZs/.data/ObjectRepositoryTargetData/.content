@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-T62oFKfeE-oWOJhYCbDLg" Reference="ca1pA65B0kSvFr35lXS4qQ/5Gs90OpW4EWYL78AMUs8rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f6dfeb1a-6791-47c4-959c-8f33a13722ac" CvElementArea="305, 393, 117, 39" CvTextArea="320, 406, 72, 12" CvTextArgument="2000417490" CvType="Button" DesignTimeRectangle="305, 393, 117, 39" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="c73443b0-e67f-4a79-b02a-493091198030" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c77f6b50aa3ffce53f4ab7f9f773ec5a.png" xmlns="">0Tp3ucCvL9EOlX4nXFj_o_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

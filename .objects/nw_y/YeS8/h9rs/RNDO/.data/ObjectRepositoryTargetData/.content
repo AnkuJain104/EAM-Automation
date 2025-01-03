@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SUUcRj1eLU-6bu4svXP_3Q" Reference="Xc-565InekWGf1ajPaNvWg/RNDO-ZlbD0y6q9QhEMgIew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e522344d-d028-47a6-91da-825b6c21368b" CvTextArea="833, 459, 67, 12" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="833, 459, 67, 12" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="d808e5b6-89e0-4970-b591-c6043ac49086" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e522344d-d028-47a6-91da-825b6c21368b" CvTextArea="826, 373, 27, 13" CvTextArgument="Type" CvType="Text" DesignTimeRectangle="826, 373, 27, 13" ElementType="Text" Guid="16b2e14f-ade4-4257-978f-d00dc19d1340" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e522344d-d028-47a6-91da-825b6c21368b" CvTextArea="454, 459, 105, 12" CvTextArgument="FACILITY SUPPORT" CvType="Text" DesignTimeRectangle="454, 459, 105, 12" ElementType="Text" Guid="594cddef-e003-4483-8f33-d6144cfeb6ab" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e522344d-d028-47a6-91da-825b6c21368b" CvTextArea="982, 459, 27, 12" CvTextArgument="SWS" CvType="Text" DesignTimeRectangle="982, 459, 27, 12" ElementType="Text" Guid="9283e716-6bb8-4c65-a297-e7de41b22d05" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bd08728623112040c934d65ba02f1472.png" xmlns="">08ncT6cNWpEmGdNLpJvUNJg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Value(7)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kPFRjk5JE06tkXqumlec7w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/kPFRjk5JE06tkXqumlec7w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
+  "Created": "2024-12-18T08:23:45.2848523Z",
+  "Updated": "2024-12-18T08:23:45.2848523Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

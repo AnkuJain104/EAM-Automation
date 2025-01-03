@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Waiting on plant cond",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OWdCo35YYE26-UXi3LU0Fg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/OWdCo35YYE26-UXi3LU0Fg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
+  "Created": "2025-01-02T09:36:24.5386486Z",
+  "Updated": "2025-01-02T09:36:24.5386486Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ezuiu3YaokG5x8QiZ1Dhcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5b29caf6-2c29-4cef-b6dd-352596c4fea9" CvTextArea="62, 616, 86, 13" CvTextArgument="Service Desk" CvType="Text" DesignTimeRectangle="62, 616, 86, 13" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="2972c6c9-f37e-4bed-8d2f-94d923e6e130" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5b29caf6-2c29-4cef-b6dd-352596c4fea9" CvElementArea="26, 612, 24, 24" CvType="Icon" DesignTimeRectangle="24, 610, 28, 28" ElementType="Icon" Guid="f289d123-5338-46fa-b29c-21e2951540c5" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGGSURBVEhL7ZQxa4NAFID7gxwcMmYM+AeELEIyODpkcMgQN7M5GEj2/IAMbk1pC0IpbWlLLbXg4CCZglNGHeSVd8mlZ3I5gpFMPviWe3fvu+fdeSNJElyTRlg7jbB2LhZqmgY0kiThzmG5WNhut8F1XViv16DrOncOi1DY6XRgs9ns9v8ftPB0OoUsy8D3fZjP5xAEAURRRNYd1qIIhY7jkGIoYMGuBoMBxHF8VNwwDDLearVK4xShED/VYrEgYjZQGoYhqKrKXYed27bNzQmFk8mECG8f7sDzPOj3+wTssCiKnZ4fOJ9X82zhbDbbj2OHaZruN3DIeDyGn+gXFEUp1UMqCfGCvHy8CXkPPmE4HJbqIZWEpzBNE7rdLjdHqVV47z+CZVncHEUopFxduFwuya1j36IsyyTX6/X2Y3huo9HoaD3LWUI8mzzPdxd+G/jgsTgbq9WKezNZzhLywMK4CdwML3+KysKv8BueXp+5ORGVhHh+eK6in/QpKndYlUZYO1cWSvAHNodjy6u9rNMAAAAASUVORK5CYII=" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6b6aa73c06b44886d978c3e7611d4dc2.png" xmlns="">0TL3o4GVisUGy1G-f0-u0BA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
