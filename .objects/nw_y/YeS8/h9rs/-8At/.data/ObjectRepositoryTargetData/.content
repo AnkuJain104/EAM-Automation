@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="aaWj1CQQV0KnOFWzqPxDag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c6ce50b0-0f00-49f9-9a23-e5437576b2ff" CvElementArea="1298, 276, 21, 21" CvType="Icon" DesignTimeRectangle="1296, 274, 25, 25" DesignTimeScaleFactor="1.5" ElementType="Icon" Guid="01ae0be1-89e8-4751-9285-274fb1817609" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAIKSURBVEhL7ZTLq6lRFMDvH2DIQDLBUJI8SuQRioEMzBADA2MDIwNjczKgKEmSmQgDBkSSAY667tCrjjrdPKbrtlb58jmcjuvewX0Mfn3f3vZav2/vtewvp9MJ9vs9A46vORwOT/Ff8hD/gOTt+ysMh0NoNBpQr9c/pNVqwWKxuClA7kpevn0Fq9UKMpkM1Go1cLlcEAgEoFQqaYwoFAqa43A4EAqFYDKZPCbp9/skKJfLMBgMwOFwQCAQoK/GMdJut8Hv95NIr9fT+y3RhxKNRgPj8ZgWYoJIJAKbzYYJxnecs9lskM/nwWw2047m8zmzBnlI4vF4oFQqMbXAXXq9XnC5XCRMp9N0hJVK5eckyWSSEohEIhYSiQTi8TitwSPEYysUCu8llxNner0eFRllx+MRVqsVjEYj6Ha7LDDxcrmkGPzdaDRCsVhk5fq05JpbMU9LcrkcqFQq4PP5BHYUPqVSKZP0aYnP56M2TiQSkMlkSJpKpcDpdILb7aaYXyLBdsXanI9ru91CNBolOY5/myQWi/0BEixqNpuFTqcDdrsdgsEgtS0mQ7B9w+EwWCwWmM1mUKvVQKvVfl4ynU5Bp9OBXC6nruLxeCAUCunPhhgMBnqKxWK6PE0mE4ExzWaTleuuZLfb0VHh9VGtVt+BX32+Xi7Bna7Xa1auu5JLsAbX3Fp3j79FcoAfaOBbV1didNcAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="d53efb73b78bbaa6e15513bd859e128f.png" xmlns="">08Hvm0OHrzkqUsFhdjLg3mA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

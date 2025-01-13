@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="0_0Yi39HXUaGQnFaN4zm7Q" Reference="Xc-565InekWGf1ajPaNvWg/NuSTW7P5uEidK0TcDM6YHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="uVTGieAJjEank_uWB2VAlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="592, 570, 141, 18" CvTextArgument="Southern Water" CvType="Text" DesignTimeRectangle="592, 570, 141, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="5fb1d506-d2a9-4be6-98c5-0a514604ee0a" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="1183, 636, 109, 19" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="1183, 636, 109, 19" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="b6d1615a-f547-446d-a4a4-30b3288fa7d6" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="1102, 570, 109, 18" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="1102, 570, 109, 18" ElementType="Text" Guid="5cdd24b8-be44-41c4-87cf-e7030b4dea6d" SearchSteps="CV" TargetType="ComputerVisionBased" />
-          <Target CVScreenId="11e69aa8-d733-4e4b-9c5a-6e1453c98289" CvTextArea="346, 570, 42, 18" CvTextArgument="SWS" CvType="Text" DesignTimeRectangle="346, 570, 42, 18" ElementType="Text" Guid="87bc638b-afb1-4ec3-aae8-573fad1e5230" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="220, 342, 168, 25" CvTextArgument="Select Value" CvType="Text" DesignTimeRectangle="220, 342, 168, 25" ElementType="Text" Guid="9228430f-510c-4046-9d33-f0131f843746" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="511, 636, 617, 21" CvTextArgument="MOTOR CONTROL CENTRE (M.C.C.) \ HIGH WORKS - LOW LIFT PUMPS" CvType="Text" DesignTimeRectangle="511, 636, 617, 21" ElementType="Text" Guid="35b50e7d-53c1-4b6a-87e5-4c8cb345c012" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="18981bb5a7ee9f1a623bfa4bafbdc9fe.png" xmlns="">0dIlYwBErGk6HenrI7ZNCVg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="452d9316e47cbf685f019697030f06e2.png" xmlns="">0CHKTco3640idkypXicQP-Q</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

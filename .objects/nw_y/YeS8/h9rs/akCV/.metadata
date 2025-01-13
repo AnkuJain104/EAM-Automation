@@ -1,14 +1,17 @@
 ﻿{
-  "Name": "Completed",
+  "Name": "NewStatusValue_WaitingforInfo",
   "Type": "Element",
   "TaxonomyType": "Label",
   "Id": "akCVIb0C-02BEZ-rcfFfOQ",
   "Reference": "Xc-565InekWGf1ajPaNvWg/akCVIb0C-02BEZ-rcfFfOQ",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
   "Created": "2025-01-02T19:09:25.392342Z",
-  "Updated": "2025-01-02T19:09:25.392342Z",
+  "Updated": "2025-01-08T06:32:56.8598191Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }
