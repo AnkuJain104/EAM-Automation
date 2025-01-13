@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <Activity mc:Ignorable="sap sap2010" x:Class="TestCase" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ra="clr-namespace:ReporterForUiPath.Activities;assembly=ReporterForUiPath.Activities" xmlns:s="clr-namespace:System;assembly=System.Private.CoreLib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="In_SuiteID" Type="InArgument(x:String)" />
@@ -218,7 +217,7 @@
       <AssemblyReference>Microsoft.CodeAnalysis.VisualBasic</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="658,9385" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="658,10094" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="TestCase_ID" />
     </Sequence.Variables>
@@ -227,7 +226,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="Searches (Scheduler)" sap:VirtualizedContainerService.HintSize="658,9362" sap2010:WorkflowViewState.IdRef="Sequence_5">
+    <Sequence DisplayName="Searches (Scheduler)" sap:VirtualizedContainerService.HintSize="658,10071" sap2010:WorkflowViewState.IdRef="Sequence_5">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -242,7 +241,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </ra:StartTest>
-      <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="624,9162" sap2010:WorkflowViewState.IdRef="Sequence_6">
+      <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="624,9871" sap2010:WorkflowViewState.IdRef="Sequence_6">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -273,13 +272,13 @@
             </Sequence>
           </ui:CommentOut.Body>
         </ui:CommentOut>
-        <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" sap:VirtualizedContainerService.HintSize="590,8778" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V2">
+        <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" sap:VirtualizedContainerService.HintSize="590,9487" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V2">
           <uix:NApplicationCard.Body>
             <ActivityAction x:TypeArguments="x:Object">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
               </ActivityAction.Argument>
-              <Sequence sap:VirtualizedContainerService.HintSize="556,8464" sap2010:WorkflowViewState.IdRef="Sequence_8">
+              <Sequence sap:VirtualizedContainerService.HintSize="556,9173" sap2010:WorkflowViewState.IdRef="Sequence_8">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -297,7 +296,7 @@
                     </Sequence>
                   </ui:CommentOut.Body>
                 </ui:CommentOut>
-                <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="522,8183" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+                <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="522,8892" sap2010:WorkflowViewState.IdRef="TryCatch_1">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -314,7 +313,7 @@
                     </Sequence>
                   </TryCatch.Finally>
                   <TryCatch.Try>
-                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520,7966" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520,8675" sap2010:WorkflowViewState.IdRef="Sequence_7">
                       <Sequence.Variables>
                         <Variable x:TypeArguments="x:String" Default="https://auth.preprod.apps.swppocpclu101.sws.int.southernwater.co.uk/login/" Name="Application_Url" />
                         <Variable x:TypeArguments="x:String" Default="seralag" Name="SchedulerUser" />
@@ -677,16 +676,19 @@
                           </uix:TargetAnchorable>
                         </uix:NTypeInto.Target>
                       </uix:NTypeInto>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_5" ReportId="[In_ReportID]" Status="Compare" StepDescription="User should be able to enter WO Description" StepName="User enters Work Order Description" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NGetText DisplayName="Get Text 'ReturnedWork_WONumber'" sap:VirtualizedContainerService.HintSize="486,189" sap2010:WorkflowViewState.IdRef="NGetText_8" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" TextString="[WO_Number]" Version="V4">
                         <uix:NGetText.Target>
-                          <uix:TargetAnchorable CVScreenId="442324d5-d272-4c67-920c-9f076989f4aa" ContentHash="4RrQ_1IUMkuq7HupAVHUww" CvTextArea="646, 441, 495, 15" CvTextArgument="2000417649" CvType="Text" DesignTimeRectangle="646, 441, 79, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="de3e616d-422f-4df2-b1ed-d6069950685f" ImageBase64="" InformativeScreenshot="d71c56b0122b63c8387a2bd33434f0bc.png" Reference="Xc-565InekWGf1ajPaNvWg/nb5buOrvY0uyizMXDMNtcw" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+                          <uix:TargetAnchorable CVScreenId="a124f550-0b7f-4662-89a9-0db2e2123441" ContentHash="EYnXUfyuB0KcGArCOQHbyw" CvElementArea="735, 390, 138, 41" CvType="InputBox" DesignTimeRectangle="734, 390, 138, 41" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="06e73add-bbd0-45ab-a75b-768eccba90df" InformativeScreenshot="b6dbdf66048be21cf07adeb3d814c73b.png" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/nb5buOrvY0uyizMXDMNtcw" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
                             <uix:TargetAnchorable.Anchors>
-                              <scg:List x:TypeArguments="uix:ITarget" Capacity="3">
-                                <uix:Target CVScreenId="442324d5-d272-4c67-920c-9f076989f4aa" CvTextArea="639, 328, 98, 13" CvTextArgument="Returned Work" CvType="Text" DesignTimeRectangle="639, 328, 98, 13" ElementType="Text" Guid="d4401361-9134-45b5-8b17-50cd343504e1" SearchSteps="CV" TargetType="ComputerVisionBased" />
-                                <uix:Target CVScreenId="442324d5-d272-4c67-920c-9f076989f4aa" CvTextArea="644, 367, 77, 13" CvTextArgument="Work Order" CvType="Text" DesignTimeRectangle="644, 367, 77, 13" ElementType="Text" Guid="f802a9f1-db32-491f-a3dd-ed2706d2e4e8" SearchSteps="CV" TargetType="ComputerVisionBased" />
-                                <uix:Target CVScreenId="442324d5-d272-4c67-920c-9f076989f4aa" CvTextArea="734, 367, 74, 16" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="734, 367, 74, 16" ElementType="Text" Guid="db17e302-1660-4f8f-971f-671e1e809186" SearchSteps="CV" TargetType="ComputerVisionBased" />
+                              <scg:List x:TypeArguments="uix:ITarget" Capacity="2">
+                                <uix:Target CVScreenId="a124f550-0b7f-4662-89a9-0db2e2123441" CvTextArea="734, 363, 74, 16" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="734, 363, 74, 16" ElementType="Text" Guid="5ccc2f1f-f107-4158-8787-e5d05a03803c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+                                <uix:Target CVScreenId="a124f550-0b7f-4662-89a9-0db2e2123441" CvTextArea="644, 362, 77, 14" CvTextArgument="Work Order" CvType="Text" DesignTimeRectangle="644, 362, 77, 14" ElementType="Text" Guid="5829aa86-32cf-4c37-9381-a46222dd2a4c" SearchSteps="CV" TargetType="ComputerVisionBased" />
                               </scg:List>
                             </uix:TargetAnchorable.Anchors>
+                            <uix:TargetAnchorable.PointOffset>
+                              <uix:PointOffset Position="BottomLeft" X="-37" Y="9" />
+                            </uix:TargetAnchorable.PointOffset>
                           </uix:TargetAnchorable>
                         </uix:NGetText.Target>
                       </uix:NGetText>
@@ -711,6 +713,7 @@
                           </uix:VerifyExecutionOptions>
                         </uix:NClick.VerifyOptions>
                       </uix:NClick>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_6" ReportId="[In_ReportID]" Status="Compare" StepDescription="Open Results page should be displayed" StepName="User clicks on Open Results icon" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NGetText DisplayName="Get Text 'Searched_WONumber'" sap:VirtualizedContainerService.HintSize="486,189" sap2010:WorkflowViewState.IdRef="NGetText_9" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" TextString="[Searched_WO_Number]" Version="V4">
                         <uix:NGetText.Target>
                           <uix:TargetAnchorable CVScreenId="711f0027-537f-4e4f-86b5-a8525d32a9aa" ContentHash="hTyc4bXYsUim6LVRFKm5Mw" CvTextArea="385, 466, 80, 12" CvType="AnyWordGroup" DesignTimeRectangle="385, 466, 79, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="7ba3d96e-59a0-42ef-8a52-44595c75a6dd" InformativeScreenshot="f89737948fa24fa009c220499955fb0c.png" Reference="Xc-565InekWGf1ajPaNvWg/-M5sHsSrvUyfNNPdlf0u2w" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
@@ -724,29 +727,28 @@
                           </uix:TargetAnchorable>
                         </uix:NGetText.Target>
                       </uix:NGetText>
-                      <If Condition="[WO_Number = Searched_WO_Number]" sap:VirtualizedContainerService.HintSize="486,590" sap2010:WorkflowViewState.IdRef="If_2">
+                      <If Condition="[WO_Number = Searched_WO_Number]" sap:VirtualizedContainerService.HintSize="486,474" sap2010:WorkflowViewState.IdRef="If_2">
                         <If.Then>
-                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,226" sap2010:WorkflowViewState.IdRef="Sequence_23">
+                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="Sequence_23">
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,166" sap2010:WorkflowViewState.IdRef="LogMessage_11" Message="[&quot;As Expected&quot;]" />
+                            <ra:LogMessage ContinueOnError="{x:Null}" Text="{x:Null}" DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,108" sap2010:WorkflowViewState.IdRef="LogMessage_13" Message="Searched WO number is displayed on Results page" MessageType="Info" ReportId="[In_ReportID]" TestId="[TestCase_ID]" />
                           </Sequence>
                         </If.Then>
                         <If.Else>
-                          <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="416,226" sap2010:WorkflowViewState.IdRef="Sequence_24">
+                          <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="Sequence_24">
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,166" sap2010:WorkflowViewState.IdRef="LogMessage_12" Message="[&quot;Not as Expected&quot;]" />
+                            <ra:LogMessage ContinueOnError="{x:Null}" Text="{x:Null}" DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="382,108" sap2010:WorkflowViewState.IdRef="LogMessage_14" Message="Searched WO number is not displayed on Results page" MessageType="Error" ReportId="[In_ReportID]" TestId="[TestCase_ID]" />
                           </Sequence>
                         </If.Else>
                       </If>
-                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_4" ReportId="[In_ReportID]" Status="Compare" StepDescription="Returned work order results page should be displayed" StepName="Click on Return work Order Open Result Icon" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="20" DisplayName="Click Unfilter Icon" sap:VirtualizedContainerService.HintSize="486,225" sap2010:WorkflowViewState.IdRef="NClick_79" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V4">
                         <uix:NClick.Target>
                           <uix:TargetAnchorable CVScreenId="a349159e-7811-4991-a1c0-a372163c29a5" ContentHash="bDOYlNU66ESY2HXirBPIlw" CvElementArea="1132, 316, 22, 20" CvType="Icon" DesignTimeRectangle="1130, 314, 26, 24" DesignTimeScaleFactor="1" ElementType="Icon" Guid="f5acd046-6e1c-40ea-97d5-600be1f72840" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAYAAADkgu3FAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACkSURBVEhL7ZTLDYAgDEA5MgAzMIonLgzEga1YxpODVEswIcRKqcaD+hJCIYUXvgoe4heJ+ZDITQ6UUqyCuT1IEU7AhZNLZmitYZmX0roOKYoxgrWWlHnvIaVUWpBj7KM4XXMIgZThxMaYXNcxRXdzObKeBOmf4sYua7ldhLQ3a5dgXccUYtGtl6Fm5F0dIRJJpOwR9ZfE+XJaru3HAL9IzNtEACt3IDWAItb5OwAAAABJRU5ErkJggg==" InformativeScreenshot="81f0a230453a5e284f5b81025c98f5ab.png" Reference="Xc-565InekWGf1ajPaNvWg/1JVifrF_cE2bMr5vXezVLQ" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
@@ -769,6 +771,7 @@
                           </uix:VerifyExecutionOptions>
                         </uix:NClick.VerifyOptions>
                       </uix:NClick>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_4" ReportId="[In_ReportID]" Status="Compare" StepDescription="Results should be cleared" StepName="Click on Unfilter Icon" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DelayAfter="10" DisplayName="Type Into 'Work Order_InputBox'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="486,250" sap2010:WorkflowViewState.IdRef="NTypeInto_5" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Text="[Searched_WO_Number + &quot;[k(Enter)]&quot;]" Version="V4">
                         <uix:NTypeInto.Target>
                           <uix:TargetAnchorable CVScreenId="f170fbac-1180-462f-984f-4217c0faea49" ContentHash="vkA5uiiMcUqLNgOKYv4t0A" CvElementArea="372, 400, 130, 43" CvType="InputBox" DesignTimeRectangle="374, 402, 126, 41" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="30a6dab7-e1c3-48c6-86ed-1e772209f824" InformativeScreenshot="ff14f80a4aa25223de53b4eec5796db2.png" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/K0oNZR7ulk6t_jl9vvllMg" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
@@ -782,6 +785,7 @@
                           </uix:TargetAnchorable>
                         </uix:NTypeInto.Target>
                       </uix:NTypeInto>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_7" ReportId="[In_ReportID]" Status="Compare" StepDescription="Searched WO should be displayed" StepName="User enters WO number in Work Order Search field" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Work Order_InputBox'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="486,250" sap2010:WorkflowViewState.IdRef="NTypeInto_8" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V4">
                         <uix:NTypeInto.Target>
                           <uix:TargetAnchorable CVScreenId="f170fbac-1180-462f-984f-4217c0faea49" ContentHash="vkA5uiiMcUqLNgOKYv4t0A" CvElementArea="372, 400, 130, 43" CvType="InputBox" DesignTimeRectangle="374, 402, 126, 41" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="30a6dab7-e1c3-48c6-86ed-1e772209f824" InformativeScreenshot="ff14f80a4aa25223de53b4eec5796db2.png" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/K0oNZR7ulk6t_jl9vvllMg" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
@@ -834,6 +838,7 @@
                           </uix:TargetAnchorable>
                         </uix:NTypeInto.Target>
                       </uix:NTypeInto>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_8" ReportId="[In_ReportID]" Status="Compare" StepDescription="Results should be displayed based on selected location" StepName="User enters Location value in Location Search field" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Location_InputBox'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="486,250" sap2010:WorkflowViewState.IdRef="NTypeInto_9" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V4">
                         <uix:NTypeInto.Target>
                           <uix:TargetAnchorable CVScreenId="06168181-fa1a-433d-859c-7e065d0887e0" ContentHash="eOX4bBk3zE6ng6hx6EgUwA" CvElementArea="1142, 399, 130, 44" CvType="InputBox" DesignTimeRectangle="1142, 399, 130, 44" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="87dc837b-970a-4beb-8e96-36f9b2d07aa6" InformativeScreenshot="58f705a8cdd5b45d67241e9c8efe862b.png" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/FmIsC-7oSk-dn__pnZqTcg" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
@@ -865,12 +870,13 @@
                           </uix:TargetAnchorable>
                         </uix:NTypeInto.Target>
                       </uix:NTypeInto>
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,165" sap2010:WorkflowViewState.IdRef="StepStatus_9" ReportId="[In_ReportID]" Status="Compare" StepDescription="Results should be diaplayed in Status search field" StepName="User enters value in Status search field" TakeScreenshot="True" TestId="[TestCase_ID]" />
                       <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="LogoutFunctionality - Invoke Workflow File (LogoutFunctionality.xaml)" sap:VirtualizedContainerService.HintSize="486,177" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Reusable Workflows\LogoutFunctionality.xaml">
                         <ui:InvokeWorkflowFile.Arguments>
                           <scg:Dictionary x:TypeArguments="x:String, Argument" />
                         </ui:InvokeWorkflowFile.Arguments>
                       </ui:InvokeWorkflowFile>
-                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" ReportId="{x:Null}" TestId="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,156" sap2010:WorkflowViewState.IdRef="StepStatus_1" Status="Compare" StepDescription="User should be successfully logged out" StepName="User logs out" TakeScreenshot="True" />
+                      <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486,156" sap2010:WorkflowViewState.IdRef="StepStatus_1" ReportId="[In_ReportID]" Status="Compare" StepDescription="User should be successfully logged out" StepName="User logs out" TakeScreenshot="True" TestId="[TestCase_ID]" />
                     </Sequence>
                   </TryCatch.Try>
                 </TryCatch>
