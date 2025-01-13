@@ -123,12 +123,6 @@
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "1dd5217d-81cd-427b-a22e-f6b4cf5f36eb",
-        "testCaseType": "TestCase",
-        "fileName": "OAMP-T18512.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
         "testCaseId": "164d492d-ba45-4b60-a313-b9ecb3df0ac2",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18514_01.xaml"
