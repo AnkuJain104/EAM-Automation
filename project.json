@@ -59,6 +59,61 @@
         "editingStatus": "InProgress",
         "testCaseId": "de4be529-e8f1-472f-8a21-2654cd796e5f",
         "testCaseType": "TestCase",
+        "fileName": "WorkOrderCreation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e0a92aa2-48a8-4fdb-ab9e-10a4c2f6188b",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18512.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "830a8032-7c36-4b98-9505-ab40f1d507ed",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_01.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ee475e04-6eaa-4504-bd9e-111042f43746",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_02.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bc59ce30-2310-4fa9-baf1-0b31bfa014e5",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_03.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d52b460a-1d1a-47f5-9390-591bac686676",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_04.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "6406b0d0-06e2-4259-9f45-0a2429939655",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_05.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ef2b517f-f5e0-4495-bd60-791f815bbde8",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18520.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8c58a69d-19a3-4452-ac5b-bdb93fcf0b54",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18516.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "05f2ac34-4ea9-4231-a7cd-bb80356914c1",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_06.xaml"
         "fileName": "OAMP-T18511_Create Work Order (Control Centre - in Maximo).xaml"
       },
       {

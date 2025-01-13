@@ -1,14 +1,17 @@
 ﻿{
-  "Name": "Job Plan",
+  "Name": "Click JobPlan field",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Id": "TW7u6sTik0aEK7K22mEUMA",
   "Reference": "Xc-565InekWGf1ajPaNvWg/TW7u6sTik0aEK7K22mEUMA",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
   "Created": "2024-12-17T11:41:09.5978966Z",
-  "Updated": "2024-12-17T11:41:09.5978966Z",
+  "Updated": "2025-01-08T06:30:58.6752238Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

@@ -1,14 +1,17 @@
 ﻿{
-  "Name": "K01S(1)",
+  "Name": "PersonGroup Value",
   "Type": "Element",
   "TaxonomyType": "Label",
   "Id": "uBC1DKJxSkePNGmDKFafzA",
   "Reference": "Xc-565InekWGf1ajPaNvWg/uBC1DKJxSkePNGmDKFafzA",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
   "Created": "2024-12-18T07:31:59.0104117Z",
-  "Updated": "2024-12-18T07:31:59.0104117Z",
+  "Updated": "2025-01-06T15:26:46.5133711Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

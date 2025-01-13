@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uVTGieAJjEank_uWB2VAlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="1183, 636, 109, 19" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="1183, 636, 109, 19" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="b6d1615a-f547-446d-a4a4-30b3288fa7d6" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="220, 342, 168, 25" CvTextArgument="Select Value" CvType="Text" DesignTimeRectangle="220, 342, 168, 25" ElementType="Text" Guid="9228430f-510c-4046-9d33-f0131f843746" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="ba210e31-5965-48a2-9022-8e6aae2f25f4" CvTextArea="511, 636, 617, 21" CvTextArgument="MOTOR CONTROL CENTRE (M.C.C.) \ HIGH WORKS - LOW LIFT PUMPS" CvType="Text" DesignTimeRectangle="511, 636, 617, 21" ElementType="Text" Guid="35b50e7d-53c1-4b6a-87e5-4c8cb345c012" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="452d9316e47cbf685f019697030f06e2.png" xmlns="">0CHKTco3640idkypXicQP-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

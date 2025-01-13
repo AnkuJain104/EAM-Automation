@@ -1,14 +1,17 @@
 ﻿{
-  "Name": "Plans(1)",
+  "Name": "Plans Tab",
   "Type": "Element",
   "TaxonomyType": "Button",
   "Id": "V7XW1M52pUyvGjHqYDJcOQ",
   "Reference": "Xc-565InekWGf1ajPaNvWg/V7XW1M52pUyvGjHqYDJcOQ",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/h9rsGha12kOsvl6s4z_Diw",
   "Created": "2025-01-03T09:47:20.9792182Z",
-  "Updated": "2025-01-03T09:47:20.9792182Z",
+  "Updated": "2025-01-07T07:25:38.9176129Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }
