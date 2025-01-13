@@ -1,0 +1,15 @@
+﻿{
+  "Name": "SW Desktop (Global)",
+  "Type": "App",
+  "Id": "Hf0O4Gpa7UClBmPIDUqtEg",
+  "Reference": "ca1pA65B0kSvFr35lXS4qQ/Hf0O4Gpa7UClBmPIDUqtEg",
+  "Created": "2025-01-03T11:45:58.3013926Z",
+  "Updated": "2025-01-08T10:41:44.5441984Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
