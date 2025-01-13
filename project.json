@@ -5,7 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "ReporterForUiPath.Activities": "[3.0.1]",
-    "UiPath.System.Activities": "[24.10.6]",
+    "UiPath.System.Activities": "24.10.7",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.6]"
   },
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.6.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.189610303",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -114,6 +114,55 @@
         "testCaseId": "05f2ac34-4ea9-4231-a7cd-bb80356914c1",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18514_06.xaml"
+        "fileName": "OAMP-T18511_Create Work Order (Control Centre - in Maximo).xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "812d2efe-163d-4fb4-a0c6-6ed597c48991",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18532.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "da14a496-bfb2-4131-923a-507dda51db4c",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18540.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bd82b7ca-03fd-4383-a81b-c0211d3bf305",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18536.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8818f031-1671-4909-9587-2e247579d71e",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18533.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "04c297d2-ed6d-4933-84e1-e0a3201b19ea",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18535.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1dd5217d-81cd-427b-a22e-f6b4cf5f36eb",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18512.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "164d492d-ba45-4b60-a313-b9ecb3df0ac2",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_01.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "6a775e6d-28a2-4702-8696-58497e9ec915",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18514_02.xaml"
       }
     ],
     "saveToCloud": false
