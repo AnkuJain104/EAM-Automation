@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uRUt1AwSEECPU0tbjO3rMA" Reference="ca1pA65B0kSvFr35lXS4qQ/j9hiDSCyP0mg5TIUPB5zBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="01d54387-2569-4e65-9686-1e924e36b419" CvElementArea="1125, 625, 78, 42" CvType="Button" DesignTimeRectangle="1125, 625, 78, 42" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="b15504c4-b0b3-4b8d-8220-03bdf9f44dfe" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="01d54387-2569-4e65-9686-1e924e36b419" CvTextArea="1129, 487, 34, 18" CvTextArgument="To?" CvType="Text" DesignTimeRectangle="1129, 487, 34, 18" ElementType="Text" Guid="27bae2f8-1101-465f-a65d-27a0c949fff5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomRight" X="-18" Y="31" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="e09fd71c5a024953779497959337c695.png" xmlns="">0aVABHxg22kqFmcBqL33KbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

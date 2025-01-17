@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="wQHceh-4n0K7hBdbHxSkVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="fda0a3df-625e-4054-a502-6f0f92bebe7c" CvTextArea="214, 576, 66, 12" CvTextArgument="KML-JP-03" CvType="Text" DesignTimeRectangle="214, 576, 66, 12" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="4dbe3243-9903-4bab-b0c9-668466070556" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="6adb3af8c727fa07895349c3069b39d3.png" xmlns="">0xeVQkgojVEGG3QYi1XzD1w</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

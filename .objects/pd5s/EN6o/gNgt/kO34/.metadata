@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Log",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "kO34nkdE5UqGm2zQYMvr0w",
+  "Reference": "ca1pA65B0kSvFr35lXS4qQ/kO34nkdE5UqGm2zQYMvr0w",
+  "ParentRef": "ca1pA65B0kSvFr35lXS4qQ/gNgtguhX2ku6Io13BEpY5Q",
+  "Created": "2025-01-09T09:13:14.7071121Z",
+  "Updated": "2025-01-09T09:13:14.7071121Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
