@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gnvZexMjOkyKzL8c0MGBqw" Reference="ca1pA65B0kSvFr35lXS4qQ/tfkUuFMdIEa0ubnO2dKJPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4352bb4f-a85c-4350-8b36-687065a11f0a" CvTextArea="565, 579, 120, 19" CvTextArgument="2000455017" CvType="Text" DesignTimeRectangle="565, 579, 120, 19" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="6ae3f3ef-a086-4bff-8483-a1434843200f" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4352bb4f-a85c-4350-8b36-687065a11f0a" CvTextArea="154, 369, 198, 24" CvTextArgument="Find Navigation Item" CvType="Text" DesignTimeRectangle="154, 369, 198, 24" ElementType="Text" Guid="6776233b-f6e0-4130-9350-2275f89ddb72" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="62cce80cc3408d00e5c7eb74880a5cc9.png" xmlns="">0iQwWAOBT3EqcImo-7Kls5g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
