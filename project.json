@@ -7,7 +7,7 @@
     "ReporterForUiPath.Activities": "[3.0.1]",
     "UiPath.System.Activities": "24.10.7",
     "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.6]"
+    "UiPath.UIAutomation.Activities": "[24.12.4-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -132,6 +132,48 @@
         "testCaseId": "6a775e6d-28a2-4702-8696-58497e9ec915",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18514_02.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cb130f3b-7c32-459d-b699-156daedccf6f",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T16724.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d7e99302-2a74-4e18-a159-71c15bd49972",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18530.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "82b879ea-d093-472f-a263-17d22dab5546",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18515.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8ae4ea01-4eaf-4c96-bc9d-476321560f87",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18518.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e9f9fa19-3352-497f-a587-717ad0319301",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18519.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ac2d88a0-af0f-4035-b0f1-a798b8e08d5d",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18523.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "99e390b7-20a5-4b98-999d-c5b5ca57083e",
+        "testCaseType": "TestCase",
+        "fileName": "OAM-T18524.xaml"
       }
     ],
     "saveToCloud": false

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Planner'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JQHFLLwJa0-L-S2q5Xfuww",
+  "Reference": "ca1pA65B0kSvFr35lXS4qQ/JQHFLLwJa0-L-S2q5Xfuww",
+  "ParentRef": "ca1pA65B0kSvFr35lXS4qQ/gNgtguhX2ku6Io13BEpY5Q",
+  "Created": "2025-01-09T15:46:09.0093628Z",
+  "Updated": "2025-01-09T15:46:09.0093628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

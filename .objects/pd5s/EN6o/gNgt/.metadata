@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SW Desktop (Global)",
+  "Type": "Screen",
+  "Id": "gNgtguhX2ku6Io13BEpY5Q",
+  "Reference": "ca1pA65B0kSvFr35lXS4qQ/gNgtguhX2ku6Io13BEpY5Q",
+  "ParentRef": "ca1pA65B0kSvFr35lXS4qQ/EN6o1wG00kSp6A5ffoDAag",
+  "Created": "2025-01-08T10:37:28.0798243Z",
+  "Updated": "2025-01-17T08:50:16.0816855Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

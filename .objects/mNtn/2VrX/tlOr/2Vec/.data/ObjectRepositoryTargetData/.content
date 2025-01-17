@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BEkySLU5lUSwbbNJJYf0xg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ffd2903f-48e5-4fac-914e-c1ad207f804b" CvElementArea="26, 303, 20, 20" CvType="Icon" DesignTimeRectangle="24, 301, 24, 24" DesignTimeScaleFactor="1.5" ElementType="Icon" Guid="f2c7bd20-2d89-43dd-8fa2-c97e44bef355" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADrSURBVEhL7ZMxDkVAEIbdx1YklApOoFIo3MQBXEXPPTQSBR23mJd/kpXFWF7yVM+ffMnM/LP7B+G4rktP4iil6EnegEv+LCCOYxqGgUEt7ey5HVAUBc3zTGVZMqgxk3ZNbgVUVcUX5nm+zlBjBs/c3WMN8H2fmqahrusoiqKDjxm8tm3J87yDD04D9Puu65qDpB0ADzt931OSJAdfDMiyjB8fknwJaFkWStN0MxcDwjDkEEjyJSCcCYJgM7d+A8jsx3HkGYTXZ3qQ2Wu+CjB7s5Z6zRtw2musAdM08cE7wn8g3WEN+AVvwAWKPuy+7Ry1j2qeAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ffd2903f-48e5-4fac-914e-c1ad207f804b" CvElementArea="24, 337, 24, 23" CvType="Icon" DesignTimeRectangle="22, 335, 28, 27" ElementType="Icon" Guid="cbe07450-2c02-4de4-abdb-eb339b18fc42" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHySURBVEhL7ZU9aypBFIbzKyxERCwsxF4QFNTOSkHEwsLCQvAfiJWFhYWFjaCIoJWWglgIFopaScgnCbkfJBCS3JuLooKF4Hs5B0ZWM+56iTeVCw87e85xnpndmfFMp9PhKzkJj85JeHQ0hT+fHhEOh7lttVqRTqfR7/cxnU6Z0WiEWq22qdHiYGEmk8FisUCn00E2m0U0GkUsFuP41e0N6Gq32zCZTNJ+BAcJH358507tdvsmTm3lczAYxPPrC8bjMQwGwya+y0FCugqFAs8sHo9zvFQqMcpam82G+28PKJfLW3ElmsJkMskigZqQ8Hq9WK/XcDqdH3KEpnAf+4TEYDBALpeT5v6LMJVK8eqV5T4lrFQq0lwoFMLb+29pTlU4n8/hcrmkuUgkguVyyffdXCAQwGw2+xAnVIWXN9fSDgW0gGhQfr9/K55IJHB+ebEVE6gKi8UiGo2GNCcQUofDsYnV63XeRso6garQ5/Pxa6MjTZYXKGfodrt5W9D2UNYINBcNzbDb7UKv10vzSsxmMy6ur/YuJkJTaDQacXt/h+FwCIvFIq0h6C3QdyM+dbQRNPJer4fJZIJ8Ps+HucfjYQl9w2azidVqhVarxQOU9SE4SCigf4hqtcqzpYXy6887tylGh7fsN7v8k/AYnIRHRoe/+oBso+mt22IAAAAASUVORK5CYII=" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a05a44a8baffb9b5c95c5161b9bc77c2.png" xmlns="">0QxyBRrzTIk6sM6If2tGdOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

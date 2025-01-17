@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Work Group",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "JTzU0TxvQEaa9qnrVDFP1w",
+  "Reference": "ca1pA65B0kSvFr35lXS4qQ/JTzU0TxvQEaa9qnrVDFP1w",
+  "ParentRef": "ca1pA65B0kSvFr35lXS4qQ/gNgtguhX2ku6Io13BEpY5Q",
+  "Created": "2025-01-09T08:42:21.0456255Z",
+  "Updated": "2025-01-09T08:42:21.0456255Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
