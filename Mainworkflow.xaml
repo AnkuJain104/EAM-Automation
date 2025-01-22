@@ -83,36 +83,30 @@
       <AssemblyReference>UiPath.Workflow</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Mainworkflow" sap:VirtualizedContainerService.HintSize="598,733" sap2010:WorkflowViewState.IdRef="Sequence_1">
-    <Sequence.Variables>
-      <Variable x:TypeArguments="x:Int32" Name="testreportid" />
-    </Sequence.Variables>
+  <Sequence DisplayName="Mainworkflow" sap:VirtualizedContainerService.HintSize="710,616" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="450,710" sap2010:WorkflowViewState.IdRef="Sequence_3">
+    <Sequence sap:VirtualizedContainerService.HintSize="450,593" sap2010:WorkflowViewState.IdRef="Sequence_3">
       <Sequence.Variables>
-        <Variable x:TypeArguments="x:String" Name="testSuiteID" />
+        <Variable x:TypeArguments="x:Int32" Name="testreportid" />
       </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ra:CreateReport ContinueOnError="{x:Null}" DisplayName="Create Report" sap:VirtualizedContainerService.HintSize="416,165" sap2010:WorkflowViewState.IdRef="CreateReport_2" ReportLocation="C:\Users\anku.j\Documents\UiPath\TestAutomationProject\Report" ReportName="Test" isCreated="[testreportid]" />
-      <ra:StartSuite ContinueOnError="{x:Null}" DisplayName="Start Suite" sap:VirtualizedContainerService.HintSize="416,117" sap2010:WorkflowViewState.IdRef="StartSuite_2" ReportId="[testreportid]" SuiteName="Test Login" suiteId="[testSuiteID]" />
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="TestCase - Invoke Workflow File (TestCase.xaml)" sap:VirtualizedContainerService.HintSize="416,177" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="TestCase.xaml">
+      <ra:CreateReport ContinueOnError="{x:Null}" DisplayName="Create Report" sap:VirtualizedContainerService.HintSize="416,165" sap2010:WorkflowViewState.IdRef="CreateReport_3" ReportLocation="C:\Users\anku.j\Documents\UiPath\EAM-Automation\Report" ReportName="EAM Automation Report" isCreated="[testreportid]" />
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="AssetManagement Workflow - Invoke Workflow File (AssetManagement Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,177" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_5" UnSafe="False" WorkflowFileName="AssetManagement Workflow.xaml">
         <ui:InvokeWorkflowFile.Arguments>
-          <InArgument x:TypeArguments="x:Int32" x:Key="In_ReportID">[testreportid]</InArgument>
-          <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
+          <InArgument x:TypeArguments="x:Int32" x:Key="Main_ReportID">[testreportid]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Testcase2 - Invoke Workflow File (Testcase2.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="Testcase2.xaml">
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Scheduler Workflow - Invoke Workflow File (Scheduler Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Scheduler Workflow.xaml">
         <ui:InvokeWorkflowFile.Arguments>
-          <InArgument x:TypeArguments="x:Int32" x:Key="In_ReportID">[testreportid]</InArgument>
-          <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
+          <InArgument x:TypeArguments="x:Int32" x:Key="Main_ReportID">[testreportid]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
     </Sequence>
