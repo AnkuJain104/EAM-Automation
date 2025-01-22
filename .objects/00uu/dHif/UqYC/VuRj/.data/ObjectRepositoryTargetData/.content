@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0mYOgVtJkUOOBnniUFJc-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1070, 434, 221, 34" DesignTimeScaleFactor="1" Guid="1392ed69-a198-4b57-82c8-88999106e9d8" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAN0AAAAiCAYAAADbANzWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJwSURBVHhe7ZxbcuIwEEWzf17ZDSvgg01QbGMy2BpdiYYWtICkajRFzTnm4qtWt52fi/Ooykcy5inN85zNr+znZMdJpcxUTwWVJNWsbrWemL/ia8xXfG+kfz0fFr3yler1pvRby3TKi7yRX5d7lHyldAmdNlRTuexJ56+q9n7l0ny+QA7o+bAmW/cO5pnX+X3nH1Oum9ty1C7I52fZHR9KX0lgfk31/mnW423KedXUqYwWaVvO3o121YN55t97/pG+8rvQPRQcVYs/33TK4Toej6pcn3Qa04PxVLJ2DVqdUIdq9ROhOu3Uw/vewTzz7zyvnkcqFJPvpdvlRc2RqOe70D2jXOdM5HV+JiPyvq8nI/K+rycj8r6vJyPyvq8nI/K+rycj8r6vJyPyvq8nI/K+rycj8r6vJyPyvq8nI/K+7yeqtKvbtUKn7ypfDl3L7YVzrvPpkVp8ofpoxqvFF6qPZrxafKH6aMarxReqj2a8Wnyh+mjGq8UXqo9mvFp8ofpoxqvFF6qPZrxafKH6aMarxReqj2a8Wnyh+mjG61XslyXCe/HtJx0A/BwF8HA4FE/oAAZA6AAGQ+gABkPoAAZD6AAGQ+gABkPoAAZD6AAGQ+gABkPoAAZD6AAGQ+gABkPoAAZD6AAGQ+gABkPoAAYT/o8UAPh7EDqAwRA6gMEQOoDBEDqAwRA6gMEQOoDBWOj097omdCp4btcA8ByfG3mTQqfwdUNn3tcA4HsoZJahbuisQZuC0AG8Ti8vqt/9TGfN+/0+LZfLtFqt0nq9TovFIn1+fhaP0P8q5UCZeCTlZrPZFK+Z3W7XhHC73ea9VfoDUabMXMU0ULAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="3">
+          <Target CVScreenId="c4d09bd6-376b-47b3-a6cf-0f1f265c6d76" CvElementArea="1074, 401, 214, 33" CvType="InputBox" DesignTimeRectangle="1074, 400, 214, 34" ElementType="InputBox" Guid="5dfc96f9-c622-46f2-9c1c-954c70d3e4c1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="c4d09bd6-376b-47b3-a6cf-0f1f265c6d76" CvTextArea="601, 446, 71, 10" CvTextArgument="ATEX NUMBER" CvType="Text" DesignTimeRectangle="601, 446, 71, 10" ElementType="Text" Guid="959c1bf8-0bbe-499a-b3ca-c9c1cf2dcc5b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="c4d09bd6-376b-47b3-a6cf-0f1f265c6d76" CvTextArea="349, 446, 27, 10" CvTextArgument="ATEX" CvType="Text" DesignTimeRectangle="349, 446, 27, 10" ElementType="Text" Guid="3e1f65bc-fb31-4037-bfd6-d95823257526" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bfc4490f251af87a61b318f04a78cf08.png" xmlns="">03VqS5qBYcEypBKFBqy9uKw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

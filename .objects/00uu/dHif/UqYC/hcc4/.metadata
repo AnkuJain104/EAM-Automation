@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset tab-Service Address",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "hcc4g_TlqkSEIDEqtI3GWw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/hcc4g_TlqkSEIDEqtI3GWw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:43.324912Z",
+  "Updated": "2025-01-08T08:48:43.324912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-specification-SWL_KG-field",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "c2vKk-h2SkemMVCbg4h2Yw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/c2vKk-h2SkemMVCbg4h2Yw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-10T14:20:46.194623Z",
+  "Updated": "2025-01-10T14:21:41.3281305Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

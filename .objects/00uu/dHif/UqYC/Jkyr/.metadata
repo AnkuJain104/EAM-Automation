@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Asset(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JkyrxLR0lkGpv6xxyl-XFg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/JkyrxLR0lkGpv6xxyl-XFg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:43.491587Z",
+  "Updated": "2025-01-08T08:48:43.491587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

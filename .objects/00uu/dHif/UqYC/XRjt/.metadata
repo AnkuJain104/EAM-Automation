@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset(T&D)-Description",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "XRjtW19LjE6DoGaP-pH2mw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/XRjtW19LjE6DoGaP-pH2mw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-13T08:09:37.7062156Z",
+  "Updated": "2025-01-13T08:11:16.8766943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

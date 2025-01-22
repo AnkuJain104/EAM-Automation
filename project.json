@@ -132,6 +132,54 @@
         "testCaseId": "6a775e6d-28a2-4702-8696-58497e9ec915",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18514_02.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e021ba26-d2a0-4ee5-8a98-dab173f78cd4",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18195.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a9fcd5d8-7d7e-4467-adf4-90722c070386",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18196.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0bb32764-0077-4ca0-8567-7aff49301b76",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18198.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "83277f36-9c24-4c80-98ec-9fc3840c5b36",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18203.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4bb0df43-d840-41fc-827f-2be38909a69e",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18202.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "39ea7e03-899a-4951-a177-833c054e11c7",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18190.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "51bf69de-caf7-4299-af22-17f6eb6b80d6",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18199.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c02d9aa9-2359-4eaf-9ae1-49b5ee56b0a6",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18200.xaml"
       }
     ],
     "saveToCloud": false

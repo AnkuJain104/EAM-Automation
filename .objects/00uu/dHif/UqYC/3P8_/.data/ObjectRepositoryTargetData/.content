@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KZDYv74z9ESzAHmrq-cAfA" Reference="Xc-565InekWGf1ajPaNvWg/3P8_xlXP40q8YDe8w6p99w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1255, 478, 88, 37" DesignTimeScaleFactor="1" Guid="99181ffc-679e-4fc0-be4a-8a7229459292" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFgAAAAlCAYAAADGKS4rAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD+SURBVGhD7dtbDoIwEEZh9s91hVy6D6gZdEypiJLw++I5yYRW+/TF+ESLaZqizTiO64QQNnufYRiYD9P3/dPL1mZZRLq0eZ4fq3tfAy/LwnwYz9f25BcsKMUGWBDA4gAWB7A4gMUBLA5gQSmq5XuALwpgcQCLA1gcwOIAFgewOIDFASwOYHEAiwNYHMDiABYHsDiAf1iKDbAggMUBLA5gcYfA/qU9/U3B/I1BOm4XOEdMD9G5vgJOA/tcG2Db5ICAvuZO78bP5G3+g5umWafrulhV1Tq2t2dd18zBmJmvy7KMbduudkV6D8PvZ/idg/zzf57UaW/czM66XQgh3gCq2fzS8PpgPwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="69a42f40-4779-40ea-ad5d-472341c4c63a" CvTextArea="340, 515, 81, 12" CvTextArgument="BEAR_TMP_MON" CvType="Text" DesignTimeRectangle="342, 492, 80, 12" ElementType="Text" Guid="36b6398e-0c9f-45db-99b6-84bd2d534d53" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="69a42f40-4779-40ea-ad5d-472341c4c63a" CvTextArea="594, 516, 343, 10" CvTextArgument="DOES THE ASSET HAVE BEARING TEMPERATURE MONITORING FITTED?" CvType="Text" DesignTimeRectangle="594, 492, 343, 10" ElementType="Text" Guid="8ae87462-d219-434b-adf8-f61b549d7775" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="69a42f40-4779-40ea-ad5d-472341c4c63a" CvTextArea="1037, 516, 21, 10" CvTextArgument="ALN" CvType="Text" DesignTimeRectangle="1037, 492, 21, 10" ElementType="Text" Guid="a40a6486-a770-4bed-90bc-aef7011786dd" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6c15b2b9d4c3299459dd1fb144cfb2ba.png" xmlns="">0l2-MJASDFEuTHbA_zoIuQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

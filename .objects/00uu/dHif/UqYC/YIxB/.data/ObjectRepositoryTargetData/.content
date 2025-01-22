@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vw788rLZz0iX6CPm9xhX-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1087, 624, 221, 37" DesignTimeScaleFactor="1" Guid="6699c3f5-4ca6-4824-91dc-b65ee24b45b0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAN0AAAAlCAYAAADGBexuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADdSURBVHhe7d0xCoNAAERRry+op7LxEqIexA0rGJDEwgSmeg+GkDXtR0ihzbIsxcxyawoQJToIEx2EiQ7CRAdhooOwZt/3Yma/7yl3OggTHYSJDsJEB2Gigz99+3Ol7o7oIEx0ECY6CBMdhIkOwkQHYaKDMNFBmOggTHQQJjoIEx2EiQ7CRAdhooMw0UGY6CBMdBAmOggTHYSJDsJEB2G30U3TVLquK33fl2EYStu2x2f9XlevnTvPzOxztZtxHI+u6qP5jneOr+t6WT2b5/n9juTzfNu2y2/M7OmW8gJoo41KbXbfagAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="28be9306-d092-47f8-b24e-877ddcd5f8f6" CvTextArea="342, 638, 65, 12" CvTextArgument="MAN_RIDING" CvType="Text" DesignTimeRectangle="342, 638, 65, 12" ElementType="Text" Guid="382674b1-960f-462c-bc39-f4d4e16d388d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="28be9306-d092-47f8-b24e-877ddcd5f8f6" CvTextArea="594, 637, 109, 13" CvTextArgument="MAN RIDING (YES/NO)" CvType="Text" DesignTimeRectangle="594, 637, 109, 13" ElementType="Text" Guid="6039ab31-5e0f-4635-9481-103a1137e96a" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="28be9306-d092-47f8-b24e-877ddcd5f8f6" CvTextArea="874, 638, 21, 10" CvTextArgument="ALN" CvType="Text" DesignTimeRectangle="874, 638, 21, 10" ElementType="Text" Guid="df499359-acca-463f-8f5c-dd761093a8f8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="333598660cbf6064480a2c45f7f6bc75.png" xmlns="">0iikdLtzRbU2fNWKeDPhP6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

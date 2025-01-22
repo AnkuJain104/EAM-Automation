@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-status-changed-as -Operating",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "lURDw666GkW8sq5_ZBHX4g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/lURDw666GkW8sq5_ZBHX4g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-14T08:17:42.1690059Z",
+  "Updated": "2025-01-14T08:18:17.0822118Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset -DARMDIA field",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "CPtB8GHMVEC9jSfPN3uatg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/CPtB8GHMVEC9jSfPN3uatg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:43.0842664Z",
+  "Updated": "2025-01-08T08:48:43.0842664Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

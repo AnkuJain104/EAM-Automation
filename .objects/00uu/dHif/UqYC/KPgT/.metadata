@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SUPPLIER",
+  "Type": "Element",
+  "Id": "KPgTwVN2jUe_ZQPaRdPlvg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/KPgTwVN2jUe_ZQPaRdPlvg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:46.0254815Z",
+  "Updated": "2025-01-08T08:48:46.0254815Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
