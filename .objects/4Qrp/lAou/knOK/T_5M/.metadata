@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset Value_000001060529",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "T_5MzoTaE0WAP8PffG39LA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/T_5MzoTaE0WAP8PffG39LA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-17T13:48:55.103622Z",
+  "Updated": "2025-01-17T13:49:15.8007225Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
