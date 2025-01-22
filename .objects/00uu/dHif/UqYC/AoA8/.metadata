@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset tab-Location-Description",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "AoA81DRn1kOSG2PLOfwP1g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/AoA81DRn1kOSG2PLOfwP1g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:43.1735226Z",
+  "Updated": "2025-01-08T08:48:43.1735226Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Assets-EXP-LIFE field -Numeric Value",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "fx6N0QedkEWO6l3GhinokQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/fx6N0QedkEWO6l3GhinokQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:43.7933271Z",
+  "Updated": "2025-01-08T08:48:43.7933271Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

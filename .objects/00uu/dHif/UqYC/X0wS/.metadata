@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Location",
+  "Type": "Element",
+  "Id": "X0wSEQePIEaWiOl-p7QUZg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/X0wSEQePIEaWiOl-p7QUZg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:45.1790438Z",
+  "Updated": "2025-01-08T08:48:45.1790438Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

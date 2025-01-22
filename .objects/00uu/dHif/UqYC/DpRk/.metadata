@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Move-modify -asset-Attributes",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DpRk3eiDsk2WsM3ffzzkGw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/DpRk3eiDsk2WsM3ffzzkGw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-13T12:38:41.878493Z",
+  "Updated": "2025-01-13T12:39:14.2531528Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

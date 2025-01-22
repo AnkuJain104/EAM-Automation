@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-specification-CABLE_CONN value",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "q7TOODoiJ0OJQAGzVx30Cw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/q7TOODoiJ0OJQAGzVx30Cw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-17T17:12:05.6235341Z",
+  "Updated": "2025-01-17T17:12:20.0172527Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

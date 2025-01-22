@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-specification-enter POWERKW field",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "5kA_Shkd8EOIzanny7I8JA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/5kA_Shkd8EOIzanny7I8JA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T20:12:23.3624145Z",
+  "Updated": "2025-01-08T20:13:16.8866823Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5LIuUaeKMEOnI1BBzxZc2A" Reference="Xc-565InekWGf1ajPaNvWg/1UX4RMOtokq7gpblC3hAow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1084, 554, 216, 35" DesignTimeScaleFactor="1" Guid="467221b9-51d8-4b2f-8dee-21dffe2c2b69" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANgAAAAjCAYAAAD2dcQ3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD7SURBVHhe7d1RaoNAFIbR7B8Ud+MKBHeh4jp0ytgOCCmFkHv7knPgJ3nJ40c0TJJHAUKd53lt27YiMAh2HMf1KDAI1uKq9n0XGESql4bNsiwCg0jt/qtyiQjB7u9g67oKDLIIDBIJDBIJDBIJDBIJDBIJDBIJDILdj0o5yQHB7oE5yQHBBAaJBAaJBAb/xKeIkEhgkEhgkEhgkEhgkEhgkEhgkEhgkEhgkEhgkEhgkOgpsPuPJgLvuQKb57l0XVf6vi/DMFzPzez1TdP0k9a3cRzLo36tua4era/F1UezT13r4Z3Vjtrcg8EL2p87/LW7p8B+e4HZpyxWKV80YTvPQ+SDzAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bd9fa72e-636c-45c3-87a8-eb3b50268e02" CvTextArea="341, 564, 52, 10" CvTextArgument="SEALPROT" CvType="Text" DesignTimeRectangle="341, 564, 52, 10" ElementType="Text" Guid="ff32ab1e-10e6-48d2-b164-fa5b9d338ac6" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="bd9fa72e-636c-45c3-87a8-eb3b50268e02" CvTextArea="594, 563, 155, 13" CvTextArgument="LEAK PROTECTION FITTED OY/NO" CvType="Text" DesignTimeRectangle="594, 563, 155, 13" ElementType="Text" Guid="45dc52f3-fd45-4479-a51c-e59528c2b809" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="bd9fa72e-636c-45c3-87a8-eb3b50268e02" CvTextArea="865, 564, 20, 10" CvTextArgument="ALN" CvType="Text" DesignTimeRectangle="865, 564, 20, 10" ElementType="Text" Guid="a26ee7d5-a819-4a4a-ab10-3957431f4ce6" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="74172e138f0432caa881bd7eea59a1e0.png" xmlns="">0LMjQoorZiU2ogaju1nLnwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

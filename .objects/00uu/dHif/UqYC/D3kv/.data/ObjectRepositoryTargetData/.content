@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AH25ahGq-0ybsQBWr4Fhpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="403, 541, 115, 27" DesignTimeScaleFactor="1" Guid="9438322a-0423-4712-9c54-b7c13b1cbc50" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHMAAAAbCAYAAABP5LDRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOHSURBVGhD7Zi/S1tBHMC7u3TomL0UHBwdHBw79h9ooSkGTEEopYuDUIcMGRy01VYH6WLBDg4OFhwspGMhQxGathRLfyiIRWN+YLRe+Vz8xruXi4kv+JKGGz7ce3ffu/e8T75397xWKBSUpzfwMnsIL7OH8DJ7iKYy9/f3nfWe7qOhzGw2q2ZmZtT4+Lhmbm5OZTIZtbe354z3dB6nTMQNDg6qeDyuUqmUmpycVIlEQtel02m1s/unro+n89TJnJqaUrFYTG1sbFj1sL6+roUuLy/XtXk6jyWTpRVZq6urVpDJ4uKiGh4eVls/fjvbW+H9ZknFHp6q6w9O1a3Hf9X37aIzDmi796xyYcxlePrmSN19flS739opqDvpE/1OZpzwOlPWfVxt3YYlkz2SpfWifZG2oaGh0Nn5czdvyWESmcxGssLKRFJ8tqJLs55xbqdOavU8f3T+2Iox+S9lcmrloMMe2ewEy/5JrKutGchkMpmkYJuZsQikLiiTfrSDTDJiGJM6EYVIyfygUDJTns8Yck29jC11lPKckZdHtQw2++n3Hq32M7M+aqzMRBCHnVZkgqutFSQ7+OORx2QEpclkmfXBmOR8Rfc1J1YmnxhXZkoMk07M/dljHcP1u49VUVJPKeNR75JJX8aS55jvEjWWTE6xSGq2zLKvTk9PO9svC5PDMvshV9JZJJkBIkUE6gw4y1yBiROp5rhMbiOZMubb7PkSS5z8wIDrVmWa731j5HzFiBpLJt+RiFpZWbGCBES2ewD6ul1dZpko7pmcxIuqLDPrKIVGmckPgNLMBsZD7kUyATFPXtn9RCzjh83Mz7+qPwyuo8aSiSy+IxGKNDNDReTAwIBKJpNtfWsyIa7TrFkPTBZtyDczRdpliWbyJKsouZc6154JjGO2mWMw7s1HSsdUn1fRpfl+ZCB19NX1Z3umWR81lkxAGp8mZB+nVtkfEUwdIrleWlqy+nk6T51MAalra2tqYmJCC1xYWKhlKp8lfX19XmiX0VBmMxDa39+vhfp/73UHoWUCIsfGxtSnL9+c7Z5oaUsmy24ul9Pfpfl8XhWLRXVwcOCM9Vw9oWQeHh5qkCcS5d4V74mG0DLlulwuW/deaOcILVOkyXWpVKplaDDeEw1tZaYIpOTey+wsoQ9ASBPYN0HuXfGeqye0zOAyK1mJ1GCsJxraykwRKveUXmanKKh/9EWrdOoiOvgAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c51572f7-092d-4594-bef5-80e2a4169cc4" CvTextArea="431, 577, 73, 12" CvTextArgument="Open Drilldown" CvType="Text" DesignTimeRectangle="431, 577, 73, 12" ElementType="Text" Guid="ce4a78f6-f3a3-4d4e-9f84-0e6c49f9a90b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="c51572f7-092d-4594-bef5-80e2a4169cc4" CvTextArea="430, 608, 64, 10" CvTextArgument="Classification" CvType="Text" DesignTimeRectangle="430, 608, 64, 10" ElementType="Text" Guid="b276d96e-d81a-4c07-8c83-115ebd0da8e1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="01ae39b311271023526aa87cd1026c8a.png" xmlns="">0MW3hidqxJUO3EZB2Wn8d2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

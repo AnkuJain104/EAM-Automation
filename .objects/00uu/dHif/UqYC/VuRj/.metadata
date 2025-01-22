@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ATEX",
+  "Type": "Element",
+  "Id": "VuRjtUIUw0eOg1G56OET5A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/VuRjtUIUw0eOg1G56OET5A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:44.0156278Z",
+  "Updated": "2025-01-08T08:48:44.0156278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

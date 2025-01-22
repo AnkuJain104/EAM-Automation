@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0r3Axz1MAUugTivIafTREw" Reference="Xc-565InekWGf1ajPaNvWg/49SYzldxhEGClkGVbLXuMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="964562d3-126e-452a-b7e5-5bf58e8f442b" CvElementArea="1080, 404, 34, 34" CvType="Button" DesignTimeRectangle="1073, 324, 34, 33" DesignTimeScaleFactor="1" ElementType="Button" Guid="cae8ff2d-f094-4aec-9098-a8c133235966" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="964562d3-126e-452a-b7e5-5bf58e8f442b" CvElementArea="1137, 405, 156, 34" CvTextArgument="Type" CvType="InputBox" DesignTimeRectangle="1130, 325, 156, 34" ElementType="InputBox" Guid="9e44410f-22b9-458f-85ae-e1b58711be35" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="964562d3-126e-452a-b7e5-5bf58e8f442b" CvTextArea="1137, 448, 37, 10" CvTextArgument="Moved?" CvType="Text" DesignTimeRectangle="1129, 368, 37, 10" ElementType="Text" Guid="f2185f87-a645-4fc0-a81f-6739560cb613" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e5873a44-2145-474f-b1be-16d4cb6dd10d" CvTextArea="797, 248, 19, 10" CvTextArgument="Site" CvType="Text" DesignTimeRectangle="797, 248, 19, 10" ElementType="Text" Guid="386214b6-f764-4657-9dae-82272ee37a1a" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="98a30bebf7cbacc667f2dbb230c1afda.png" xmlns="">003EJMc3ltEOs93zjY6j6Rg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

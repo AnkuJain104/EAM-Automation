@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-Specification-Head-open arrow",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "mR4G9ntuOkCw6n9y_HL-MQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/mR4G9ntuOkCw6n9y_HL-MQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T17:36:20.5600825Z",
+  "Updated": "2025-01-08T17:36:29.2284044Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

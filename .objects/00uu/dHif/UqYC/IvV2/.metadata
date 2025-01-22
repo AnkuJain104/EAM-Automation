@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Add-Precautions-Row",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "IvV2zqOD1kKwGMwpMAEVhg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/IvV2zqOD1kKwGMwpMAEVhg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-21T09:19:12.595561Z",
+  "Updated": "2025-01-21T09:28:04.6479344Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

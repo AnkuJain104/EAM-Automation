@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-Move-Modify-Description'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Td2LEvi_yUu6FCygHowThw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/Td2LEvi_yUu6FCygHowThw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-13T12:00:18.7845191Z",
+  "Updated": "2025-01-13T12:01:02.2753732Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
