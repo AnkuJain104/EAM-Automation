@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EyUdVcCuuEae67wx6ndV9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d50a0936-6d47-4028-8004-5dd16b425991" CvElementArea="1044, 633, 278, 35" CvType="InputBox" DesignTimeRectangle="1044, 633, 279, 35" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="c91b686d-52f6-40ab-8873-53b191744a93" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="3">
+          <Target CVScreenId="d50a0936-6d47-4028-8004-5dd16b425991" CvTextArea="1044, 618, 95, 11" CvTextArgument="Alphanumeric Value" CvType="Text" DesignTimeRectangle="1044, 618, 95, 11" ElementType="Text" Guid="c7d8ddef-6e61-4883-8396-921631b9b7e7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="d50a0936-6d47-4028-8004-5dd16b425991" CvTextArea="1045, 674, 69, 10" CvTextArgument="Numeric Value" CvType="Text" DesignTimeRectangle="1045, 674, 69, 10" ElementType="Text" Guid="d4595c81-b8fb-47fd-86d5-0c5cb973ea9c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="d50a0936-6d47-4028-8004-5dd16b425991" CvTextArea="1045, 561, 51, 10" CvTextArgument="Date Value" CvType="Text" DesignTimeRectangle="1045, 561, 51, 10" ElementType="Text" Guid="0a626067-fce2-47d6-951c-f6aca697c452" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3024590cc7df63442dee7f6752068365.png" xmlns="">0-3kWleLEI0WD5OOYC13qjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

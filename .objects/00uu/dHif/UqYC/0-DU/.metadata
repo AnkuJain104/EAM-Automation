@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Precaution-Random-No",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "0-DUJB-PUUebUevYBn8FOw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/0-DUJB-PUUebUevYBn8FOw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-21T10:49:06.9663219Z",
+  "Updated": "2025-01-21T17:05:59.0150553Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

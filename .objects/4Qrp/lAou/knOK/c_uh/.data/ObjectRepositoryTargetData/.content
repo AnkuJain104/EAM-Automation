@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r1asRR_EfEyPHKSvm1h1Kw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5d129002-3ac0-44c8-85c5-efd0b2f6e337" CvElementArea="49, 386, 1763, 68" CvType="InputBox" DesignTimeRectangle="49, 386, 1763, 68" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="6fbebfc9-5645-4f15-bf19-d00e76f7a5bb" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5d129002-3ac0-44c8-85c5-efd0b2f6e337" CvTextArea="78, 411, 197, 24" CvTextArgument="Enter your password" CvType="Text" DesignTimeRectangle="78, 411, 197, 24" ElementType="Text" Guid="2f7de3cb-ecae-42cc-a1be-697838c040eb" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cae1a7e900e8c76e3a3adf882031e3d4.png" xmlns="">0yOUD8gffB0qRyZcWiBcfeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

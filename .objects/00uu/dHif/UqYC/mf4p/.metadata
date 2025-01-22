@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MAN_RIDING",
+  "Type": "Element",
+  "Id": "mf4potQ0MkKdZDSZZrwN1A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/mf4potQ0MkKdZDSZZrwN1A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-10T14:17:14.2284077Z",
+  "Updated": "2025-01-10T14:17:14.2284077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
