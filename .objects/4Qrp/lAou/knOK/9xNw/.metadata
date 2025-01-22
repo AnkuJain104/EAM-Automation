@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset_Select Value",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9xNw_DSQikmfJLrOoq8Inw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/9xNw_DSQikmfJLrOoq8Inw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-17T11:08:31.24831Z",
+  "Updated": "2025-01-17T13:45:19.4801759Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

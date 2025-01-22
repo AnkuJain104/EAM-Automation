@@ -81,13 +81,13 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="EAM_MainWorkflow" sap:VirtualizedContainerService.HintSize="633.9999999999999,662" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="EAM_MainWorkflow" sap:VirtualizedContainerService.HintSize="600.6666666666666,841.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="450,639.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap:VirtualizedContainerService.HintSize="520.6666666666666,818.6666666666666" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:Int32" Name="testreportid" />
       </Sequence.Variables>
@@ -96,17 +96,28 @@
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ra:CreateReport ContinueOnError="{x:Null}" DisplayName="Create Report" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="CreateReport_1" ReportLocation="C:\Users\local.admin\Documents\UiPath\EAM-Automation\Report" ReportName="EAM Automation Report1" isCreated="[testreportid]" />
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Planner_WorkFlow - Invoke Workflow File (Planner_WorkFlow.xaml)" sap:VirtualizedContainerService.HintSize="416,220.66666666666666" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="Planner_WorkFlow.xaml">
+      <ra:CreateReport ContinueOnError="{x:Null}" DisplayName="Create Report" sap:VirtualizedContainerService.HintSize="486.6666666666667,168" sap2010:WorkflowViewState.IdRef="CreateReport_1" ReportLocation="C:\Users\Gobinatha.s\Documents\UiPath\EAM-Automation\Report" ReportName="EAM Automation Report1" isCreated="[testreportid]" />
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Planner_WorkFlow - Invoke Workflow File (Planner_WorkFlow.xaml)" sap:VirtualizedContainerService.HintSize="486.6666666666667,237.33333333333334" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" UnSafe="False" WorkflowFileName="Planner_WorkFlow.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <InArgument x:TypeArguments="x:Int32" x:Key="ReportID_In">[testreportid]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Scheduler Workflow - Invoke Workflow File (Scheduler Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" UnSafe="False" WorkflowFileName="Scheduler Workflow.xaml">
-        <ui:InvokeWorkflowFile.Arguments>
-          <InArgument x:TypeArguments="x:Int32" x:Key="ReportID_In">[testreportid]</InArgument>
-        </ui:InvokeWorkflowFile.Arguments>
-      </ui:InvokeWorkflowFile>
+      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="486.6666666666667,330.6666666666667" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+        <ui:CommentOut.Body>
+          <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,228" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Scheduler Workflow - Invoke Workflow File (Scheduler Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_5" UnSafe="False" WorkflowFileName="Scheduler Workflow.xaml">
+              <ui:InvokeWorkflowFile.Arguments>
+                <InArgument x:TypeArguments="x:Int32" x:Key="ReportID_In">[testreportid]</InArgument>
+              </ui:InvokeWorkflowFile.Arguments>
+            </ui:InvokeWorkflowFile>
+          </Sequence>
+        </ui:CommentOut.Body>
+      </ui:CommentOut>
     </Sequence>
   </Sequence>
 </Activity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E36cPUKlNke3bQeNiSqpYA" Reference="ca1pA65B0kSvFr35lXS4qQ/XD7Z5pO2T0yybVKNyFoaXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8dd3821f-ee9b-48ad-b468-ed8f541843c7" CvTextArea="1146, 568, 300, 19" CvTextArgument="AIR RELEASE VALVE INSPECTION" CvType="Text" DesignTimeRectangle="1146, 568, 300, 20" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="7267876a-5bc1-4734-841b-e043361e7cee" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Selector, FuzzySelector, TextNative, CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="8dd3821f-ee9b-48ad-b468-ed8f541843c7" CvTextArea="958, 616, 170, 24" CvTextArgument="Set Chart Options" CvType="Text" DesignTimeRectangle="958, 616, 170, 24" ElementType="Text" Guid="53da0459-3736-45c0-9537-3df1f413b10b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0ee50cc92afb39d8510283eeb06a617a.png" xmlns="">02lU-cut4N0Wp-C9hy7Izwg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
