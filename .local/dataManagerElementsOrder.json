@@ -1,0 +1,410 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T5911_Create Work Order.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "valueo&Sequence_6",
+        "valueOfWorkGroup&Sequence_6",
+        "valueOfWorkOrder&Sequence_6",
+        "testid&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestCase.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testid&Sequence_1",
+        "Result&Sequence_2",
+        "Ele_Exists&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CreateOrder_5925.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "WorkOrderValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Mainworkflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testreportid&Sequence_1",
+        "testSuiteID&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18514_01.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Planner_WorkOrderCreation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "WorkGroup_Value&Sequence_10",
+        "JobPlan_Value&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "valueOfWorkOrder",
+        "JobPlanValue",
+        "descriptionValue"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Planner1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testreportid&Sequence_1",
+        "testSuiteID&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WorkOrderCreation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testid&Sequence_1",
+        "valueOfWorkOrder&Sequence_6",
+        "valueOfWorkGroup&Sequence_6",
+        "JobPlanValue&Sequence_6",
+        "descriptionValue&Sequence_6",
+        "WorkOderID&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18514_02.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18514_03.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WorkMgt_Planner_WorkFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testreportid&Sequence_2",
+        "testSuiteID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18512.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "descriptionVaueForLocation&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18521.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18531.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "DDValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18572.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "OwnerValue&Sequence_2",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "DDValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18530.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "WorkOderID2&Sequence_2",
+        "WorkOderID3&Sequence_2",
+        "WorkOderID1&Sequence_3",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "TestCase_Id&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteId",
+        "In_ReportId"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18530_01.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "WorkOderID3&Sequence_2",
+        "WorkOderID2&Sequence_2",
+        "WorkOderID4&Sequence_2",
+        "WorkOderID5&Sequence_2",
+        "WorkOderID6&Sequence_2",
+        "WorkOderID7&Sequence_2",
+        "WorkOderID1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportId",
+        "In_SuiteId"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18530_02.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_3",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "WorkOderID3&Sequence_2",
+        "WorkOderID2&Sequence_2",
+        "WorkOderID4&Sequence_2",
+        "WorkOderID5&Sequence_2",
+        "WorkOderID6&Sequence_2",
+        "WorkOderID7&Sequence_2",
+        "WorkOderID1&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportId",
+        "In_SuiteId"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18520.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_4",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2",
+        "WO_ValueDescription&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18516.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_3",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2",
+        "textValue1&Sequence_2",
+        "textValue2&Sequence_2",
+        "textValue3&Sequence_2",
+        "textValue4&Sequence_2",
+        "RightSidetextValue1&Sequence_2",
+        "RightSidetextValue2&Sequence_2",
+        "RightSidetextValue3&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18210.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2",
+        "craftValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AssetMgt_MiscBTSAdmin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testSuiteID&Sequence_2",
+        "testreportid&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="tIJRxjDTWE6ZqqtHl-aLxA" Reference="Xc-565InekWGf1ajPaNvWg/27chqX9IxEqSY6NNeoHI9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="lSAiEY0ho0--7dI2AVCemw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="767, 576, 320, 41" DesignTimeScaleFactor="1.5" Guid="b20df571-4a64-4751-88b7-6cbb8d3cc13c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAUAAAAApCAYAAABEHPCMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAADuSURBVHhe7dRrasJAGEBR97+BbNaMRQulTkQtolXuOfCFPIYhP4a7OwBE7eYXABUCCGQJIJAlgECWAAJZAghkCSCQJYBAlgACWQIIZAkgkCWAQJYAAlkCCGQJIJAlgECWAAJZAghkCSCQJYBAlgACWQIIZAkgkCWAQJYAAlkCCGQJIJAlgECWAAJZAghkCSCQJYBAlgACWQIIZAkgkCWAQNYmgMuyGGPMR85fbQLIc4wxbs5sXdef98f7b+OwP11/rbtj//82/8+nzaPm/V49XCaAb+TaQd2P8+gdOdzwGAF8I5eCdv68/TavB+73BTb8ywDdjvxuAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1143, 695, 467, 68" DesignTimeScaleFactor="1.5" Guid="d56e1981-927e-4f10-9ff1-12f25c5848d2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAdMAAABECAYAAADa6t/iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEpSURBVHhe7dexCcAwEARB9d/Aq1s5d2LEZmYGLvkGll8HAEjW+wAA3BFTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFAAiMQWASEwBIBJTAIjEFACitfc+X5sZMzOz367ymQJAJKYAEIkpAERiCgCRmAJAJKYAEIkpAEQPuwo3GGK4lI0AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="e481ee56-b6d9-44fe-a1bf-596626bc3eb9" CvTextArea="674, 505, 98, 13" CvTextArgument="Returned Work" CvType="Text" DesignTimeRectangle="675, 505, 97, 13" ElementType="Text" Guid="d71478cf-f3a2-4a36-ba2d-80bc01ac04a8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="b95f1f22-3e0d-439d-8843-b631bb6c0538" CvTextArea="1141, 654, 112, 24" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="1141, 654, 112, 24" ElementType="Text" Guid="622900b0-3b69-41fc-9f77-23ed6d568eb0" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="b95f1f22-3e0d-439d-8843-b631bb6c0538" CvTextArea="999, 592, 147, 21" CvTextArgument="Returned Work" CvType="Text" DesignTimeRectangle="999, 592, 147, 21" ElementType="Text" Guid="2b08ffcc-d891-44da-9a8c-2047a4f2403d" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="525899ad44501d08f348691245eab279.png" xmlns="">0JPjgnGG1-kWi6OPBXvALGw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="6f48d5c4e0af987ca3bed4fbb327b40e.png" xmlns="">0Cr91Eq9F80iE919_0FBbnQ</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
