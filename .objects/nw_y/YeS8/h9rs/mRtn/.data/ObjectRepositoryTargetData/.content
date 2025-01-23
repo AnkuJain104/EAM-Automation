@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_rK-gr7KS0-pUCPjgfAn3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="945, 502, 170, 63" DesignTimeScaleFactor="1.5" Guid="ca4da7f8-681f-46bd-8e3a-9b71849dc383" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAKoAAAA/CAYAAABw3VNyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAF/SURBVHhe7dfdboJAFEZR3//ev3cFbYYWOk4KlWpNv7JWcmQYDd5sUXdXCLBrN+AvEioRhEoEoRJBqEQQKhGESgShEkGoRBAqEYRKBKESQahEECoRhEoEoRJBqEQQKhGESgShEkGoRBAqEYRKBKESQahEECoRhEoEoRJBqEQQKhGESgShEkGoRBAqEYRKBKESQahEECoRhEoEoRJBqEQQKhGESgShEkGoRBAqEYRKBKESQahEECpPcblcbo7tuu/7aa/ev5dQeVgb39K667op2jWEylOU+Mq0d9E21HF/LaHyVHNf622cc6+bI1ReZm2ctW9DbT8J9fn428Rsc+oW2k7K8+35uFev77UY6tzFfvJG/D9jA22kc9q411gMtVaHeTqdrufz+Xo8Hs2GpzSw3++HY2mirMuUdZnD4TC9tuyP5z/RhNoNU5L86n45tw+/TahEGEJ9z3MpxPK7ov94/Bx4lYdCbf8Frp1Htdfb2mzJ7vbeOCU4zBjufMDwGm+IZQeDPNGQHgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6beba141-bd65-469b-ad3e-25a8e0231888" CvTextArea="945, 396, 319, 25" CvTextArgument="Non-Released High Priority Work" CvType="Text" DesignTimeRectangle="945, 396, 319, 25" ElementType="Text" Guid="cefda1dd-d260-4aa7-be75-8acb52049a64" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="6beba141-bd65-469b-ad3e-25a8e0231888" CvTextArea="954, 456, 115, 21" CvTextArgument="Work Order" CvType="Text" DesignTimeRectangle="954, 456, 115, 21" ElementType="Text" Guid="720ff5de-5882-4b51-a6a9-73210acf65ed" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="6beba141-bd65-469b-ad3e-25a8e0231888" CvTextArea="91, 184, 299, 24" CvTextArgument="IBM Maximo Application Suite" CvType="Text" DesignTimeRectangle="91, 184, 299, 24" ElementType="Text" Guid="a599d56f-59a8-4ffe-9249-4b2cfa14b286" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cbe4108fdb42f9248f79c54336fc3f6c.png" xmlns="">0nmfXt3CcfEa8xbnD8krhbQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
