@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F9HnBv9c3UyB-asS-0DrrQ" Reference="Xc-565InekWGf1ajPaNvWg/x62BHQChgUKiJbwXQl3jCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0d4a24fd-415d-4a6f-be08-f2cd444afd70" CvTextArea="59, 346, 77, 15" CvTextArgument="Assets (T&amp;D)" CvType="Text" DesignTimeRectangle="59, 346, 77, 15" DesignTimeScaleFactor="1" ElementType="Text" Guid="f84f70d0-c262-4ecd-8a2a-cd319d412b97" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6129e851-ff9b-4db6-a88e-ecd80e7a0780" CvTextArea="58, 312, 138, 16" CvTextArgument="My Recent Applications" CvType="Text" DesignTimeRectangle="58, 312, 138, 16" ElementType="Text" Guid="1c819dc5-b34e-493c-bfeb-954d4da58530" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f85e1c921d898de538f6a2491fb08313.png" xmlns="">057WHsd7jI0S7_IZkV6kaIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

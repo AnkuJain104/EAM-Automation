@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UoJHl1nrA0aUCLchU0Lhqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="04869941-dd5c-4f75-ada6-540227a38779" CvElementArea="99, 253, 312, 64" CvTextArea="129, 276, 257, 25" CvTextArgument="Change Request Progress" CvType="Button" DesignTimeRectangle="99, 253, 312, 64" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="d467926e-542f-48e4-a746-adfe5d5c5c85" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9ceed7df5f0b30be20765e4541b54569.png" xmlns="">0t-WGJ7ue20CNte1X-ra6RQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

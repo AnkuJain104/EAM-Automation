@@ -1,0 +1,17 @@
+﻿{
+  "Name": "New Hazard",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "6S_FawbtSEaXDsYkLDutaQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/6S_FawbtSEaXDsYkLDutaQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-15T08:34:50.2784247Z",
+  "Updated": "2025-01-15T08:35:33.6287939Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

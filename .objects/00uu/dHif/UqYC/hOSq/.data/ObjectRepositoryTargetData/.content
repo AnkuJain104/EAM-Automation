@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3kf1U2Q58Um6bY2R8YrodA" Reference="Xc-565InekWGf1ajPaNvWg/hOSqrBu2CUqO_9AE6KhbwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="97d7e07e-a7c3-43c0-be31-56abd5d2f9ba" CvTextArea="507, 464, 81, 10" CvTextArgument="ABBOTTS CLOSE" CvType="Text" DesignTimeRectangle="507, 464, 81, 10" DesignTimeScaleFactor="1" ElementType="Text" Guid="4b493198-8364-48ae-b722-3ce731776534" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="97d7e07e-a7c3-43c0-be31-56abd5d2f9ba" CvTextArea="227, 464, 157, 10" CvTextArgument="ABBOTTS CLOSE BINSTEAD WPS" CvType="Text" DesignTimeRectangle="227, 464, 157, 10" ElementType="Text" Guid="b36652af-e342-4873-ac8c-2ed6b4018d0b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="97d7e07e-a7c3-43c0-be31-56abd5d2f9ba" CvTextArea="752, 464, 51, 10" CvTextArgument="BINSTEAD" CvType="Text" DesignTimeRectangle="752, 464, 51, 10" ElementType="Text" Guid="26ef32f0-6325-435e-adcd-9f5e7601b8d4" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9fb0bae8736879791518db6dfea5e8fa.png" xmlns="">0rwKXIyL4UUqSj9agWEXLnA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

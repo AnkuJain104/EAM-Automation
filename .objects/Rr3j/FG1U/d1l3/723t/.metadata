@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Save Failure Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "723t1nqRPUebdfCBi6IdeQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/723t1nqRPUebdfCBi6IdeQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-22T04:39:59.1971416Z",
+  "Updated": "2025-01-22T04:39:59.1971416Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

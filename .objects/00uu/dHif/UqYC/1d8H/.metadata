@@ -1,0 +1,13 @@
+﻿{
+  "Name": "NUMERIC(1)",
+  "Type": "Element",
+  "Id": "1d8HhZBoSkK9k5Jtz10kzw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/1d8HhZBoSkK9k5Jtz10kzw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-08T08:48:45.5944076Z",
+  "Updated": "2025-01-08T08:48:45.5944076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

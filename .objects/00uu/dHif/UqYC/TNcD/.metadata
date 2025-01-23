@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Asset-specification-VOLTSUP-close arrow",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "TNcDrNdc2k6UY5oIUu12BA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/TNcDrNdc2k6UY5oIUu12BA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-09T12:46:28.3219362Z",
+  "Updated": "2025-01-09T12:47:25.1089316Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

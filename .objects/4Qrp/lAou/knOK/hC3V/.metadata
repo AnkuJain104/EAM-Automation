@@ -1,0 +1,17 @@
+﻿{
+  "Name": "To Search Icon in craete communication pop-up",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "hC3VfGBB5U29CX5LvA3oCw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/hC3VfGBB5U29CX5LvA3oCw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-17T11:08:29.4947395Z",
+  "Updated": "2025-01-20T06:31:13.9801136Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

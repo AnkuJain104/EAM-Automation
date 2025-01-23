@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mouse Scroll 'Communication'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9j413gE7A0KxSBbq-SAy8A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/9j413gE7A0KxSBbq-SAy8A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-17T11:42:35.2714766Z",
+  "Updated": "2025-01-17T11:42:35.2714766Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

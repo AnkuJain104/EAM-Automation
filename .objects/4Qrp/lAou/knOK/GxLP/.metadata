@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Work Order(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GxLPNTR_DE26frsP-SQuow",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/GxLPNTR_DE26frsP-SQuow",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-21T01:47:34.1539887Z",
+  "Updated": "2025-01-21T01:47:34.1539887Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

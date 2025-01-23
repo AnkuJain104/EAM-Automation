@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Arrow button to move fourth page",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "icuQYHrb5UaNJr7TnTEW1w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/icuQYHrb5UaNJr7TnTEW1w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-09T15:05:42.029305Z",
+  "Updated": "2025-01-09T15:07:45.8491316Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

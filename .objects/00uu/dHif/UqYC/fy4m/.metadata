@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Asset-specification-Type-condvalue",
+  "Type": "Element",
+  "Id": "fy4mmY7niEKvQ_wwDbunKw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/fy4mmY7niEKvQ_wwDbunKw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-13T20:32:41.4856763Z",
+  "Updated": "2025-01-13T20:32:41.4856763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
