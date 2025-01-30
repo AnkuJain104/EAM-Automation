@@ -86,6 +86,10 @@
         "JobPlan_Value&Sequence_10"
       ],
       "ArgumentsSectionElementsOrder": [
+        "WO_Number",
+        "PersonGroup",
+        "Asset_Num",
+        "WO_Description",
         "valueOfWorkOrder",
         "JobPlanValue",
         "descriptionValue"
@@ -126,13 +130,17 @@
       "Path": "OAMP-T18514_02.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
         "valueOfWorkOrder&Sequence_2",
         "valueOfWorkGroup&Sequence_2",
         "JobPlanValue&Sequence_2",
         "descriptionValue&Sequence_2",
         "WorkOderID&Sequence_2"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
@@ -166,8 +174,6 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "TestCase_ID&Sequence_1",
-        "descriptionVaueForLocation&Sequence_2",
-        "DescriptionValueForReturned&Sequence_2",
         "valueOfWorkOrder&Sequence_2",
         "valueOfWorkGroup&Sequence_2",
         "JobPlanValue&Sequence_2",
@@ -175,7 +181,9 @@
         "WorkOderID&Sequence_2",
         "laborValue&Sequence_2",
         "workOrderID&Sequence_2",
-        "WOAfterFilter&Sequence_2"
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [
         "In_ReportID",
@@ -240,6 +248,7 @@
         "DDValue&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [
+        "Asset_Num",
         "In_ReportID",
         "In_SuiteID"
       ],
@@ -403,6 +412,90 @@
         "testreportid&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18208.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2",
+        "craftValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18209.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_3",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2",
+        "craftValue&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportId",
+        "In_SuiteId"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Reusable Workflows/WorkOrderCreation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "WO_Number",
+        "WO_Description",
+        "Asset_Num",
+        "PersonGroup"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EAM_MainWorkflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testreportid&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Asset Managetment Workflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testSuiteID&Sequence_3",
+        "testreportid&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ReportID_In"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
