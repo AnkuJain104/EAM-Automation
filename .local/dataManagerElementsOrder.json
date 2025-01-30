@@ -498,6 +498,154 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18140.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18536.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_46",
+        "SchedulerUser&Sequence_46",
+        "SC_Password&Sequence_46",
+        "Asset_Num&Sequence_46",
+        "PersonGroup&Sequence_46",
+        "WO_Description&Sequence_46",
+        "Craft_Value&Sequence_46",
+        "WO_Number&Sequence_46",
+        "SC_TargetStartDate&Sequence_46",
+        "SC_TargetFinishDate&Sequence_46",
+        "res&Sequence_46",
+        "ExtractedText&Sequence_46",
+        "expectedTexts&Sequence_46",
+        "Searched_WO_Number&Sequence_46",
+        "SelectedChartType&Sequence_46"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18532.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18533.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "Craft_Value&Sequence_7",
+        "WO_Number&Sequence_7",
+        "SC_TargetStartDate&Sequence_7",
+        "SC_TargetFinishDate&Sequence_7",
+        "res&Sequence_7",
+        "ExtractedText&Sequence_7",
+        "expectedTexts&Sequence_7",
+        "Searched_WO_Number&Sequence_7",
+        "SelectedChartType&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18535_01.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "outputElement&Sequence_1",
+        "outputElement_1&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "Craft_Value&Sequence_7",
+        "WO_Number&Sequence_7",
+        "SC_TargetStartDate&Sequence_7",
+        "SC_TargetFinishDate&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18535_02.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "outputElement&Sequence_1",
+        "outputElement_1&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "Craft_Value&Sequence_7",
+        "WO_Number&Sequence_7",
+        "SC_TargetStartDate&Sequence_7",
+        "SC_TargetFinishDate&Sequence_7",
+        "DDValue&Sequence_50",
+        "itemTexts&Sequence_50",
+        "drop&Sequence_50",
+        "down&Sequence_50"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

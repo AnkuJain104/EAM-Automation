@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="HEX7T0jiVUeHjudh1C3BPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="mw6k88c6H0qNWphY2FHefA" Reference="Xc-565InekWGf1ajPaNvWg/vEFaXI3N7kmkCo6QjwlxiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d1a5990c-318f-47af-ac02-b4ef56c98158" CvElementArea="226, 249, 64, 45" CvTextArea="244, 264, 29, 13" CvTextArgument="FPM" CvType="Button" DesignTimeRectangle="226, 249, 64, 45" DesignTimeScaleFactor="1" ElementType="Button" Guid="5f9c0fb1-80c8-4102-9bde-0d700fb05917" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="a619a64afd5f6eb222c1a2ef805a49a7.png" xmlns="">0HZBBoXhHZEW-6VIAfmrxtw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d1a5990c-318f-47af-ac02-b4ef56c98158" ContentHash="HEX7T0jiVUeHjudh1C3BPA" CvElementArea="226, 249, 64, 45" CvTextArea="244, 264, 29, 13" CvTextArgument="FPM" CvType="Button" DesignTimeRectangle="226, 249, 64, 45" DesignTimeScaleFactor="1" ElementType="Button" Guid="5f9c0fb1-80c8-4102-9bde-0d700fb05917" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/vEFaXI3N7kmkCo6QjwlxiA" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a619a64afd5f6eb222c1a2ef805a49a7.png" xmlns="">0DnaEbmUJI0KpJL267CH6ew</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
