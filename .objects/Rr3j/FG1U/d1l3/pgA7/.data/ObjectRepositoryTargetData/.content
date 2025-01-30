@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-0RWDukIbUm4XRLaIGNsMA" Reference="Xc-565InekWGf1ajPaNvWg/pgA78k1N-Em9trPn0j1SRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="22376fa4-a22e-466b-9b2d-28bbab9c8353" ContentHash="1vDAXDKxH0Wq50_vOSW0sw" CvTextArea="1044, 399, 102, 21" CvTextArgument="Organization" CvType="Text" DesignTimeRectangle="1044, 399, 102, 21" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="606bf651-0b73-48ee-95ee-a29fa3b94130" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/pgA78k1N-Em9trPn0j1SRg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c8dca1e55c3634d26e652ad007c1ff2d.png" xmlns="">09y5aNr-5nkm0dLAjZ6jE4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

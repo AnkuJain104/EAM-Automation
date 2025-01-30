@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Dun & Bradstreet",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KFrOEOz5dECXqQ04Hc3BDg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/KFrOEOz5dECXqQ04Hc3BDg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T04:16:33.3101867Z",
+  "Updated": "2025-01-24T04:16:33.3101867Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

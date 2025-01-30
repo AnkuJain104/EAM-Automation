@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wait For Info",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-M7B6_V7RUCeqZMuuU0yPw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/-M7B6_V7RUCeqZMuuU0yPw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-29T11:24:17.2318204Z",
+  "Updated": "2025-01-29T11:24:17.2318204Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

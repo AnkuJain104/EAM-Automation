@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Common Actions",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "hvmEQM3lokSFsbtsNb26yw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/hvmEQM3lokSFsbtsNb26yw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-26T11:38:02.3524789Z",
+  "Updated": "2025-01-26T11:38:02.3524789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

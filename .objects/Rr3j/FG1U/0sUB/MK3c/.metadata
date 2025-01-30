@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'Failure Class'",
+  "Type": "Element",
+  "Id": "MK3co18NHESq1DZzNy8mGw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/MK3co18NHESq1DZzNy8mGw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/0sUBAcAHV0yZzzwnYiKVvQ",
+  "Created": "2025-01-22T13:26:20.018505Z",
+  "Updated": "2025-01-22T13:26:20.018505Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Job Plan(4)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "70gI719MUkiWXkKyj9sz8A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/70gI719MUkiWXkKyj9sz8A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-27T11:16:37.5427096Z",
+  "Updated": "2025-01-27T11:16:37.5427096Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

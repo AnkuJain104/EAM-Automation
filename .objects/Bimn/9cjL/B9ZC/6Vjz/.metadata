@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Job Plans (T&D)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "6VjzjyawP0qmZ-K9H_dBUA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/6VjzjyawP0qmZ-K9H_dBUA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/B9ZCq31cmkW26HIgtwfqyA",
+  "Created": "2025-01-29T14:30:21.9354207Z",
+  "Updated": "2025-01-29T14:30:21.9354207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

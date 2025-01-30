@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Job Plans (T&D)'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "V1Wp-FAZa0-1-uIzTp2W_A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/V1Wp-FAZa0-1-uIzTp2W_A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T02:50:34.651693Z",
+  "Updated": "2025-01-24T02:50:34.651693Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

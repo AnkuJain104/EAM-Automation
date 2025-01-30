@@ -1,0 +1,14 @@
+﻿{
+  "Name": "vmware-view.exe SW Desk…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "gf4_LZ0-1EO_gLUvJqbwuA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/gf4_LZ0-1EO_gLUvJqbwuA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-22T09:16:52.8869606Z",
+  "Updated": "2025-01-22T09:16:52.8869606Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

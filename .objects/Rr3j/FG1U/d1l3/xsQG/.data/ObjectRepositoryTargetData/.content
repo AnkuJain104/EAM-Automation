@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qC4SP3n-6Uq5ceaES2NT9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7658221c-f8d1-41d5-91b0-b695f6f3f0ac" CvElementArea="477, 862, 69, 34" CvType="CheckBox" DesignTimeRectangle="477, 862, 69, 34" DesignTimeScaleFactor="1.5" ElementType="CheckBox" Guid="11176182-bc46-4e24-94ba-5961203d0dbe" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7658221c-f8d1-41d5-91b0-b695f6f3f0ac" CvTextArea="477, 820, 450, 21" CvTextArgument="Add document to the document library for others to use?" CvType="Text" DesignTimeRectangle="477, 820, 450, 21" ElementType="Text" Guid="35a7bc26-f306-4022-bed7-d8b0a6eecbd3" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a52309f6bcb36dbd56f22e7ec4601593.png" xmlns="">0cRqdeKIISU-ZnEOc1dGV4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Routes'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6fzIefewCkqnPE2dihli_w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/6fzIefewCkqnPE2dihli_w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-26T11:37:44.3801552Z",
+  "Updated": "2025-01-26T11:37:44.3801552Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

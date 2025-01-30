@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ikK7vtokcUiothNJ278HHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="jiCUGiolHEubsesDgevtUQ" Reference="Xc-565InekWGf1ajPaNvWg/YFD32dbF00KY4yOGACVOAw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ce28e2d5-dd93-4133-a779-2375eed2646e" CvElementArea="701, 468, 407, 66" CvType="InputBox" DesignTimeRectangle="701, 468, 407, 66" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="3d945bba-0f77-4f60-934d-300d150638b4" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="2d5ce9d9-849b-4121-a711-dd8cfa15efd6" CvTextArea="666, 705, 102, 22" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="666, 705, 102, 22" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="18f56e6e-6a29-4b47-9bd2-a4cfa4cbab3d" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="ce28e2d5-dd93-4133-a779-2375eed2646e" CvTextArea="708, 424, 102, 22" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="708, 424, 102, 22" ElementType="Text" Guid="cf683ef9-6de2-47be-98f6-1bdc02fd9af4" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="2d5ce9d9-849b-4121-a711-dd8cfa15efd6" CvTextArea="301, 705, 88, 22" CvTextArgument="Sequence" CvType="Text" DesignTimeRectangle="301, 705, 88, 22" ElementType="Text" Guid="5919e560-606e-4bb8-81dc-719c6bb350ae" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="18091a2753a68b3cf809513bd992be56.png" xmlns="">04Zz1bWOf10antjvW4aJisQ</imageRef>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="33" Y="34" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="84b908e3c1dbf1e98a66b3a43f75db7e.png" xmlns="">0e5pUw-PmNkyoE5s9PA03iQ</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">TypeInto</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>

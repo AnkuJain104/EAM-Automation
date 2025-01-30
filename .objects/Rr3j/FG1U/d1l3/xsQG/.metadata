@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add document to the doc…",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "xsQGM48E1US0A6wgq7aHYQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/xsQGM48E1US0A6wgq7aHYQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T04:42:41.6326831Z",
+  "Updated": "2025-01-24T04:42:41.6326831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

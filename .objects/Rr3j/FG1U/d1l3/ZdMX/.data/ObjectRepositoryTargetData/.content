@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="grHswnIjd0Ogmg9XLwxBBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="fd465803-65a9-47e3-9821-55577ee69886" CvTextArea="499, 426, 132, 18" CvTextArgument="* Failure Class" CvType="Text" DesignTimeRectangle="499, 426, 132, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="04ea286a-33f4-4fc4-aad9-7fc240e196f5" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fd465803-65a9-47e3-9821-55577ee69886" CvTextArea="520, 352, 138, 21" CvTextArgument="Failure Codes" CvType="Text" DesignTimeRectangle="520, 352, 138, 21" ElementType="Text" Guid="fc34e435-c050-44e7-99fa-482952b10b96" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a88527c955a990a581b22203886096c9.png" xmlns="">0_UU0bjmqU0uh4jqyQlxp1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

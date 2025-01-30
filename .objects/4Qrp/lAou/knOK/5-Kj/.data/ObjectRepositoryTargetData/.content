@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2Dgsru7sJEqP8MwyeiaRCw" Reference="Xc-565InekWGf1ajPaNvWg/5-KjNQHbcE6YRkh0dydlww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="bd90a692-833c-400c-84ba-0bb771c27e3b" CvTextArea="520, 438, 72, 18" CvTextArgument="534708" CvType="Text" DesignTimeRectangle="520, 438, 72, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="c5894079-056d-4ecf-9b9c-8086f1a8dc2f" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bd90a692-833c-400c-84ba-0bb771c27e3b" CvTextArea="102, 255, 129, 36" CvTextArgument="Routes" CvType="Text" DesignTimeRectangle="102, 255, 129, 36" ElementType="Text" Guid="9f95a300-2e89-432e-995a-7430f7db9a25" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="bd90a692-833c-400c-84ba-0bb771c27e3b" CvTextArea="166, 370, 81, 19" CvTextArgument="List View" CvType="Text" DesignTimeRectangle="166, 370, 81, 19" ElementType="Text" Guid="df1cceac-ec7e-4fa1-96de-873798d6ad79" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="bd90a692-833c-400c-84ba-0bb771c27e3b" CvTextArea="154, 432, 198, 23" CvTextArgument="Find Navigation Item" CvType="Text" DesignTimeRectangle="154, 432, 198, 23" ElementType="Text" Guid="f9dc229c-2f5b-4bb4-bf1c-dd911ba184c2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="daa062e9a25c0c1edc38a1dd3d61c3c7.png" xmlns="">0-8WmhmfSdkCcO4qURvZEPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

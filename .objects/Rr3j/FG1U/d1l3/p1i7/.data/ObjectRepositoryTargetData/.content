@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cdLnSVvw9EmuAUx58motNg" Reference="Xc-565InekWGf1ajPaNvWg/p1i7OYnWgU-5zvmLQRaT9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="28a9005e-8cb8-4ee0-8105-c80c06ec63a9" CvElementArea="253, 437, 173, 57" CvType="InputBox" DesignTimeRectangle="253, 437, 173, 57" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="aa9694c6-19a8-4c1d-852f-ad4c1f12ad42" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="28a9005e-8cb8-4ee0-8105-c80c06ec63a9" CvTextArea="256, 397, 46, 16" CvTextArgument="Asset" CvType="Text" DesignTimeRectangle="256, 397, 46, 16" ElementType="Text" Guid="67f71cb1-1e3e-46e8-9677-0aaabbe82986" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="42" Y="26" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="8e745117853781e21c0f7060825a42cf.png" xmlns="">07zvvvOQw20m2b80cnJyomA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

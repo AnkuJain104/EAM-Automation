@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Add New Web Page'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "SvSHh_tk1kGbdnAA3fc77g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/SvSHh_tk1kGbdnAA3fc77g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T04:34:40.9269838Z",
+  "Updated": "2025-01-24T04:34:40.9269838Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

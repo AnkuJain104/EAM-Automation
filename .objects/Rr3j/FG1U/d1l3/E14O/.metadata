@@ -1,0 +1,14 @@
+﻿{
+  "Name": "clock icon(2)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "E14OicQZJE6JJtN3ZDJKZg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/E14OicQZJE6JJtN3ZDJKZg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T04:58:10.946774Z",
+  "Updated": "2025-01-24T04:58:10.946774Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

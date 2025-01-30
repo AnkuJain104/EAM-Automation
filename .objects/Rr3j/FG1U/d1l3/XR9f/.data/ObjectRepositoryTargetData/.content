@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MklH_kDGAEKiT8WCyEAmqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="03ee3f37-5932-4d66-8e49-5e4d514b72ab" CvTextArea="1182, 669, 220, 25" CvTextArgument="Refrigerant level is low" CvType="Text" DesignTimeRectangle="1182, 669, 220, 25" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="3de4300a-4968-4a76-98eb-d9b85b245717" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="21" Y="37" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="5c6875976730b5b2d40df36b6a2e0323.png" xmlns="">0nOjEPeAOfkOHlgwYLmNhPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

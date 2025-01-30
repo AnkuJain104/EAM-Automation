@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Waiting to be scheduled(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "poAXRIrVOEaY8RrjHIVSig",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/poAXRIrVOEaY8RrjHIVSig",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-29T08:37:50.2040864Z",
+  "Updated": "2025-01-29T08:37:50.2040864Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

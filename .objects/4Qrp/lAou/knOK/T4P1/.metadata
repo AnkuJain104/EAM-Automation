@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Person Group",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "T4P1LZzuHkaE8rDFoiJ2KQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/T4P1LZzuHkaE8rDFoiJ2KQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-27T11:13:31.9625567Z",
+  "Updated": "2025-01-27T11:13:31.9625567Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

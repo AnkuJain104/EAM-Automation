@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Change Status'(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yv629dAyhkW2aLn5Ayo1yQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/yv629dAyhkW2aLn5Ayo1yQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-29T11:50:11.0489017Z",
+  "Updated": "2025-01-29T11:50:11.0489017Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

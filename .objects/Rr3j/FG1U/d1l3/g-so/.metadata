@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Revise Job Plan'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "g-soK-LT-0m1Ahdxp4fBPA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/g-soK-LT-0m1Ahdxp4fBPA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-26T13:37:49.4054642Z",
+  "Updated": "2025-01-26T13:37:49.4054642Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

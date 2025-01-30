@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Common Actions",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eAXD5cZht0qv2VFOj0y3cA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/eAXD5cZht0qv2VFOj0y3cA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-26T13:35:43.855694Z",
+  "Updated": "2025-01-26T13:35:43.855694Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

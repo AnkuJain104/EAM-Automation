@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xhQuwdCnLE22mU4OrrdEXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9dbb2587-5ba7-47a5-8f30-e3b32c80b628" CvElementArea="496, 456, 617, 63" CvType="InputBox" DesignTimeRectangle="496, 456, 617, 63" DesignTimeScaleFactor="1.5" ElementType="InputBox" Guid="0f753126-90db-41c5-8e35-0149364632c2" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9dbb2587-5ba7-47a5-8f30-e3b32c80b628" CvTextArea="498, 426, 133, 18" CvTextArgument="* Failure Class" CvType="Text" DesignTimeRectangle="498, 426, 133, 18" ElementType="Text" Guid="5fcccb5d-d4d1-46c9-aaa0-d4fa22fff7e2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ed1dbca275bef38983a7afd89c83c67c.png" xmlns="">0VscZVQFmqEWMdDHPB4UXBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

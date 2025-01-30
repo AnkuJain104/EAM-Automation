@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="FvQpQzCdMEmzncDZ1CFnIA" Reference="Xc-565InekWGf1ajPaNvWg/p0CXj8gRw0-wMMknZtR2SA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="Uyje21j69k-Ea7htibs1kA" Reference="Xc-565InekWGf1ajPaNvWg/p0CXj8gRw0-wMMknZtR2SA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1973f76c-f910-49eb-8065-40b07feb9c13" CvTextArea="1203, 568, 298, 19" CvTextArgument="AIR RELEASE VALVE INSPECTION" CvType="Text" DesignTimeRectangle="1218, 699, 336, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="dd21e3d2-edc7-415c-9e1d-b25544acdc0c" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="2ccdb403-0902-400a-ba2d-7ede378ebf49" CvTextArea="1008, 456, 113, 21" CvTextArgument="Work Order" CvType="Text" DesignTimeRectangle="1008, 456, 113, 21" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="38084e98-dbe0-4e47-b7ea-88c2a71bca90" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="1973f76c-f910-49eb-8065-40b07feb9c13" CvTextArea="1011, 616, 170, 24" CvTextArgument="Set Chart Options" CvType="Text" DesignTimeRectangle="1032, 747, 173, 22" ElementType="Text" Guid="c588378b-972f-430a-8271-a787f2841ae4" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="2ccdb403-0902-400a-ba2d-7ede378ebf49" CvTextArea="999, 397, 100, 21" CvTextArgument="New Work" CvType="Text" DesignTimeRectangle="999, 397, 100, 21" ElementType="Text" Guid="765230c1-eaf8-4731-9584-880ae11aae4f" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="2ccdb403-0902-400a-ba2d-7ede378ebf49" CvTextArea="91, 184, 299, 25" CvTextArgument="IBM Maximo Application Suite" CvType="Text" DesignTimeRectangle="91, 184, 299, 25" ElementType="Text" Guid="d547fe52-a506-4da8-b692-3aea14dc6e7c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="2ccdb403-0902-400a-ba2d-7ede378ebf49" CvTextArea="1011, 616, 170, 24" CvTextArgument="Set Chart Options" CvType="Text" DesignTimeRectangle="1011, 616, 170, 24" ElementType="Text" Guid="21fce68c-23f6-48f2-a1ce-f030efb2a105" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="3fe6833747165a714d93b9784d993d67.png" xmlns="">0kUvUV-6y4kSeuxjB0b-D3A</imageRef>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="33" Y="65" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="676ea5a896e11e87a58489f6dfd833ef.png" xmlns="">08T7mMxlfXUGb90lk8iILHQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>

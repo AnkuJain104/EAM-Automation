@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Font serif(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "WBM-DLgRx0atlbRhs1d6Bg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/WBM-DLgRx0atlbRhs1d6Bg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-29T11:22:07.0627625Z",
+  "Updated": "2025-01-29T11:22:07.0627625Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

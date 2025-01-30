@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'vmware-view.exe SW Desk…'(1)",
+  "Type": "Element",
+  "Id": "O1l25u_6KkS8fgJVCno9Ag",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/O1l25u_6KkS8fgJVCno9Ag",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/d1l3KHDz-kyQZLevTUqYsQ",
+  "Created": "2025-01-24T03:18:54.4305001Z",
+  "Updated": "2025-01-24T03:18:54.4305001Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

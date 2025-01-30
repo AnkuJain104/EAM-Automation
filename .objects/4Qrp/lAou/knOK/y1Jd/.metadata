@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Work Order",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "y1Jd-BC-pUW6ZI9NIqn5sg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/y1Jd-BC-pUW6ZI9NIqn5sg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-27T16:49:15.7576759Z",
+  "Updated": "2025-01-27T16:49:15.7576759Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
