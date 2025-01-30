@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New Work",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "o2tXGzKFmUu2KF-vAyj35g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/o2tXGzKFmUu2KF-vAyj35g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-30T12:14:09.1418195Z",
+  "Updated": "2025-01-30T12:14:09.1418195Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

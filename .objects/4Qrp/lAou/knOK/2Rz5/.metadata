@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Memo",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2Rz5uwwF8UCeIp-Qf2HA8w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/2Rz5uwwF8UCeIp-Qf2HA8w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-30T12:14:53.6243078Z",
+  "Updated": "2025-01-30T12:14:53.6243078Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

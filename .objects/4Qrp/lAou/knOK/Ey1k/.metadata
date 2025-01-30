@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Work Order Tracking_(T&…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Ey1kodUKb0uJpC-njYc9ug",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/Ey1kodUKb0uJpC-njYc9ug",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-30T12:14:35.9360157Z",
+  "Updated": "2025-01-30T12:14:35.9360157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

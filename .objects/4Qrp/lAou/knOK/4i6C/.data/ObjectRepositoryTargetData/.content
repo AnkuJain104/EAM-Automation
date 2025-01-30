@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Lsn64d6-v0ykUYg0z2oCww" Reference="ca1pA65B0kSvFr35lXS4qQ/uGgB9SkLkku6netit6XbOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c4367ad8-48fd-4f7b-b2c3-060e48bc0e8f" CvTextArea="1073, 487, 99, 13" CvTextArgument="HARDHAM WSW" CvType="Text" DesignTimeRectangle="1073, 487, 99, 13" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="7364e816-bd20-4327-aa66-f296c05b756f" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="c4367ad8-48fd-4f7b-b2c3-060e48bc0e8f" CvTextArea="775, 414, 75, 16" CvTextArgument="Description" CvType="Text" DesignTimeRectangle="775, 414, 75, 16" ElementType="Text" Guid="38b988e3-5983-4203-8f71-936d69f4b1f8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="df0c48f2c17cc82d4a6f2caab8d5e4eb.png" xmlns="">df0c48f2c17cc82d4a6f2caab8d5e4eb.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

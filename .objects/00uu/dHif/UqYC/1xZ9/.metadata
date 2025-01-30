@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Assets-INSTBY field open arrow(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1xZ9LGUBz0aH41_u43YWQQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/1xZ9LGUBz0aH41_u43YWQQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-30T12:15:36.2541755Z",
+  "Updated": "2025-01-30T12:15:36.2541755Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

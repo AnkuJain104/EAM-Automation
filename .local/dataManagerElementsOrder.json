@@ -828,6 +828,22 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAM-T18524.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserName&Sequence_1",
+        "Password&Sequence_1",
+        "WorkOrder&Sequence_1",
+        "TestCaseID&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

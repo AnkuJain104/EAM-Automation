@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Approved",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "E7biqdkwvkC81dv1igJHkQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/E7biqdkwvkC81dv1igJHkQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-30T12:12:02.8438724Z",
+  "Updated": "2025-01-30T12:12:02.8438724Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

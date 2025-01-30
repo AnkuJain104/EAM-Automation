@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Asset-specification-SUPPLIER(1)",
+  "Type": "Element",
+  "Id": "3OXrNcddm0iJNVpcteUKUA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/3OXrNcddm0iJNVpcteUKUA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-30T12:15:40.1391971Z",
+  "Updated": "2025-01-30T12:15:40.1391971Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

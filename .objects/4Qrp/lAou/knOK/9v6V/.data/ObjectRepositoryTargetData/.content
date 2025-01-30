@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TlaQw8Rov02lJ-f13bzrXw" Reference="ca1pA65B0kSvFr35lXS4qQ/-QqRy0sNWkynjDoD6r8O1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="76d7981e-717a-439f-8dfd-16be209759fc" CvElementArea="99, 253, 133, 65" CvTextArea="130, 276, 79, 21" CvTextArgument="Planner" CvType="Button" DesignTimeRectangle="99, 253, 133, 65" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="c38fffb4-936e-45c1-897c-181f482b8784" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="76d7981e-717a-439f-8dfd-16be209759fc" CvElementArea="227, 252, 157, 67" CvTextArea="253, 276, 103, 21" CvTextArgument="Scheduler" CvType="Button" DesignTimeRectangle="227, 252, 157, 67" ElementType="Button" Guid="322643d0-17e9-4f2e-8156-43636c9ebd31" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0829d3403a3a8987808bd2eedb7f1816.png" xmlns="">0829d3403a3a8987808bd2eedb7f1816.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

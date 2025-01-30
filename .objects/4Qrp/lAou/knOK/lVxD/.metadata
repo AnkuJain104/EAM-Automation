@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Label 'No Data Found.''",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "lVxDNgeGnEeqOAPMHR763A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/lVxDNgeGnEeqOAPMHR763A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/knOKS_0I6UiYqEU4SKlwkA",
+  "Created": "2025-01-30T12:14:34.002657Z",
+  "Updated": "2025-01-30T12:14:34.002657Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "value of person group",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Jq98jWVUNk6XOvbXKP-ZcQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/Jq98jWVUNk6XOvbXKP-ZcQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-30T12:12:42.4295402Z",
+  "Updated": "2025-01-30T12:12:42.4295402Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

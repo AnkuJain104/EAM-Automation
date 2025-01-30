@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K9eQICExgUyc92VJNFZhFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="e94cb04c-8049-43fc-8006-fc43ac239f07" CvElementArea="305, 369, 18, 16" CvType="ArrowButton" DesignTimeRectangle="305, 369, 18, 16" DesignTimeScaleFactor="1" ElementType="ArrowButton" Guid="51a99f7f-a6ca-49b6-afd5-8191d09e9c21" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="3">
+          <Target CVScreenId="e94cb04c-8049-43fc-8006-fc43ac239f07" CvTextArea="356, 370, 38, 10" CvTextArgument="INSTBY" CvType="Text" DesignTimeRectangle="356, 370, 38, 10" ElementType="Text" Guid="871fb3a1-f179-434f-ac34-84a8eca24806" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e94cb04c-8049-43fc-8006-fc43ac239f07" CvTextArea="280, 406, 33, 10" CvTextArgument="Detaile" CvType="Text" DesignTimeRectangle="280, 406, 33, 10" ElementType="Text" Guid="2a9752db-f776-4b1e-a91f-706c1d324bd7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="e94cb04c-8049-43fc-8006-fc43ac239f07" CvElementArea="277, 468, 353, 33" CvType="InputBox" DesignTimeRectangle="277, 468, 353, 33" ElementType="InputBox" Guid="a00ccb45-1d74-452d-97e8-97e415a1d7d2" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b2ee4c661c2f73c013aa02f100290217.png" xmlns="">0fOtFFIfWjEyzhRe9ndp4aA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
