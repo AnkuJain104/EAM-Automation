@@ -83,7 +83,7 @@
       <AssemblyReference>UiPath.Workflow</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Mainworkflow" sap:VirtualizedContainerService.HintSize="710,616" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Mainworkflow" sap:VirtualizedContainerService.HintSize="636,616" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -104,7 +104,7 @@
           <InArgument x:TypeArguments="x:Int32" x:Key="Main_ReportID">[testreportid]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Scheduler Workflow - Invoke Workflow File (Scheduler Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="Scheduler Workflow.xaml">
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Scheduler Workflow - Invoke Workflow File (Scheduler Workflow.xaml)" sap:VirtualizedContainerService.HintSize="416,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_6" UnSafe="False" WorkflowFileName="Scheduler Workflow.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <InArgument x:TypeArguments="x:Int32" x:Key="Main_ReportID">[testreportid]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>

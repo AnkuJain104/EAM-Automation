@@ -1,14 +1,17 @@
 ﻿{
-  "Name": "Drilldown(1)",
+  "Name": "DrilldownPopup_Drilldown_Label",
   "Type": "Element",
   "TaxonomyType": "Label",
   "Id": "7UBbtcPX3EaimoO4bFDsXg",
   "Reference": "Xc-565InekWGf1ajPaNvWg/7UBbtcPX3EaimoO4bFDsXg",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
   "Created": "2025-01-22T07:04:06.5913674Z",
-  "Updated": "2025-01-22T07:04:06.5913674Z",
+  "Updated": "2025-01-27T06:41:45.3336033Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

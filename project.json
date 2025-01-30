@@ -5,9 +5,9 @@
   "main": "Main.xaml",
   "dependencies": {
     "ReporterForUiPath.Activities": "[3.0.1]",
-    "UiPath.System.Activities": "24.10.7",
+    "UiPath.System.Activities": "24.12.1-preview",
     "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.8]"
+    "UiPath.UIAutomation.Activities": "[24.12.4-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -222,6 +222,18 @@
         "testCaseId": "115fd213-0860-4b89-8b7e-27055ac59240",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18160.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d8ba024b-a6d1-4afd-afff-4cbbe37647b0",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18167.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "57b201af-00f0-462b-9996-16549c769b07",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18162.xaml"
       }
     ],
     "saveToCloud": false

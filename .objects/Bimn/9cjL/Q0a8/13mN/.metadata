@@ -1,0 +1,17 @@
+﻿{
+  "Name": "DrilldownPopup_LocationHierarchy_Label",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "13mNidI8dUaD39G1c39_ug",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/13mNidI8dUaD39G1c39_ug",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
+  "Created": "2025-01-23T16:44:35.3226668Z",
+  "Updated": "2025-01-27T06:42:06.6810492Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

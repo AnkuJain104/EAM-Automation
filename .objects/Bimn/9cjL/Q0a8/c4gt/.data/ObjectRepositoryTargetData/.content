@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="KAbW6Mdg6kukgxc0cxDcWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="ffV0lctHm0acuDf64RwD-w" Reference="Xc-565InekWGf1ajPaNvWg/c4gtRWGLTE2sCj_eOQeVaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="cac3b672-2416-4b4e-84e6-9449adb88afc" CvTextArea="530, 617, 84, 12" CvTextArgument="MOTHBALLED" CvType="Text" DesignTimeRectangle="530, 617, 84, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="72bd9113-7a3c-4c07-adbe-2078d3894c96" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="9d0250a48cd422cfaca612e26699ce36.png" xmlns="">0beRireJXq02_XjVI83F0UA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="cac3b672-2416-4b4e-84e6-9449adb88afc" ContentHash="KAbW6Mdg6kukgxc0cxDcWw" CvTextArea="530, 617, 84, 12" CvTextArgument="MOTHBALLED" CvType="Text" DesignTimeRectangle="530, 617, 84, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="72bd9113-7a3c-4c07-adbe-2078d3894c96" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/c4gtRWGLTE2sCj_eOQeVaQ" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9d0250a48cd422cfaca612e26699ce36.png" xmlns="">0YQBZctL2C0WBrW2c4ipsow</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

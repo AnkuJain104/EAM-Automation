@@ -1,0 +1,17 @@
+﻿{
+  "Name": "NewParent_InputBox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "qnn1eGHX6EO5XVxwBQDzHA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/qnn1eGHX6EO5XVxwBQDzHA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
+  "Created": "2025-01-23T16:11:30.5629778Z",
+  "Updated": "2025-01-27T06:23:44.4340625Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

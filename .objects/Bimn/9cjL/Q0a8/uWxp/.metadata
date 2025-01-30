@@ -1,0 +1,17 @@
+﻿{
+  "Name": "NewParent_SelectValue_Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "uWxpUbjA_EKImJQXzJ4ppw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/uWxpUbjA_EKImJQXzJ4ppw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
+  "Created": "2025-01-23T16:10:17.5579709Z",
+  "Updated": "2025-01-27T06:23:32.1045106Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

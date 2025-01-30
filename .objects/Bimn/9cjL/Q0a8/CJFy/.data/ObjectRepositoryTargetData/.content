@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ndps-zut1Uik9O8b6o2rYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="6JVDC3sUPkqBiJC44OlCbw" Reference="Xc-565InekWGf1ajPaNvWg/CJFyu0zv_EuYGfQTW5LU-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6588a3b8-17cd-4d9b-a814-d4b06f5f270b" CvElementArea="340, 385, 126, 41" CvType="InputBox" DesignTimeRectangle="340, 385, 126, 41" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="8ce1d979-9882-4a2e-88b0-0a8773ccecdc" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6588a3b8-17cd-4d9b-a814-d4b06f5f270b" ContentHash="ndps-zut1Uik9O8b6o2rYQ" CvElementArea="340, 385, 126, 41" CvType="InputBox" DesignTimeRectangle="340, 385, 126, 41" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="8ce1d979-9882-4a2e-88b0-0a8773ccecdc" ImageBase64="" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/CJFyu0zv_EuYGfQTW5LU-Q" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target CVScreenId="6588a3b8-17cd-4d9b-a814-d4b06f5f270b" CvTextArea="343, 363, 60, 13" CvTextArgument="*Location" CvType="Text" DesignTimeRectangle="343, 363, 60, 13" ElementType="Text" Guid="38158ea9-998c-4d34-8409-308f93b09461" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="a264d260327a5d8acb9765bf93fc896d.png" xmlns="">09Azlb3lRhUGhwOfCi2VY7Q</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="a264d260327a5d8acb9765bf93fc896d.png" xmlns="">0xos-oDe6E0Oe33bdavabNw</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

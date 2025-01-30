@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jt_8cZgVVE6Cmm9oclLfBA" Reference="Xc-565InekWGf1ajPaNvWg/uWxpUbjA_EKImJQXzJ4ppw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="da98ffe2-4124-4d55-9b0f-8d80e4a3b3ff" ContentHash="vyDTlTJgeEe2rNNDxjFbuw" CvElementArea="1038, 522, 19, 22" CvType="ArrowButton" DesignTimeRectangle="1038, 522, 19, 22" DesignTimeScaleFactor="1" ElementType="ArrowButton" Guid="2d630c4a-852e-4053-8377-875ed5f6ff78" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/uWxpUbjA_EKImJQXzJ4ppw" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="da98ffe2-4124-4d55-9b0f-8d80e4a3b3ff" CvTextArea="899, 486, 70, 12" CvTextArgument="New Parent" CvType="Text" DesignTimeRectangle="899, 486, 70, 12" ElementType="Text" Guid="01c17729-1537-423f-a5da-e1bd1d45e4d6" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="add65ab4e625457a5ba946a2a733da28.png" xmlns="">0WVk0X4F1LUCibOhStQ4-zw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

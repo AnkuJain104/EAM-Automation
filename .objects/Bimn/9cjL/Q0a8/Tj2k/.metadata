@@ -1,0 +1,17 @@
+﻿{
+  "Name": "ViewOrModifyParentsPopup_OK_Button",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Tj2kVGqJLUaHSZrT58Rgkg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/Tj2kVGqJLUaHSZrT58Rgkg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/Q0a8fjhWo0yKjjI65M9fuQ",
+  "Created": "2025-01-23T16:58:22.5410881Z",
+  "Updated": "2025-01-23T16:58:52.7163182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
