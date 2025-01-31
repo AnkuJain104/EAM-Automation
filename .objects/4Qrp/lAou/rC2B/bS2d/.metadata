@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Label 'Waiting to be SC'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "bS2dCdqIoEu45T23teE_tA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/bS2dCdqIoEu45T23teE_tA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:43.1499952Z",
+  "Updated": "2025-01-30T17:17:43.1499952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ADS002",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "5XdnZWSw2kaVq0uALMS_uw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/5XdnZWSw2kaVq0uALMS_uw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:41.5806029Z",
+  "Updated": "2025-01-30T17:17:41.5806029Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
