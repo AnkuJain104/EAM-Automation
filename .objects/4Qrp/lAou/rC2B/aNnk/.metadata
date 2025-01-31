@@ -1,0 +1,14 @@
+﻿{
+  "Name": " WOLEAD bcc button",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "aNnklZ4rCkCN4bd6PDVoiQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/aNnklZ4rCkCN4bd6PDVoiQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-31T07:40:08.1156042Z",
+  "Updated": "2025-01-31T07:40:08.1156042Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

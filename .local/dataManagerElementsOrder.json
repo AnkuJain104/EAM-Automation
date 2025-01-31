@@ -646,6 +646,68 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAM-T16724.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "wordsInfo&Sequence_1",
+        "TestCaseID&Sequence_1",
+        "WorkOrder&Sequence_1",
+        "Password&Sequence_1",
+        "UserName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAM-T18515.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "UserName&Sequence_1",
+        "Password&Sequence_1",
+        "WorkOrder&Sequence_1",
+        "TestCaseID&Sequence_1",
+        "PersonGroup&Sequence_2",
+        "ValueOfPersonGroup&Sequence_2",
+        "DDvalue&Sequence_2",
+        "TestCaseID&Sequence_3",
+        "TestCaseID&Sequence_4",
+        "TestCaseID&Sequence_5",
+        "TestCaseID&Sequence_6",
+        "TestCaseID&Sequence_7",
+        "TestCaseID&Sequence_8",
+        "TestCaseID&Sequence_9",
+        "TestCaseID&Sequence_10",
+        "TestCaseID&Sequence_11",
+        "TestCaseID&Sequence_12"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAM-T18518.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCaseID&Sequence_1",
+        "WorkOrder&Sequence_1",
+        "UserName&Sequence_1",
+        "PassWord&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

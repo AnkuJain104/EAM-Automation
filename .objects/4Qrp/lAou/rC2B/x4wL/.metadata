@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Log(1)",
+  "Type": "Element",
+  "Id": "x4wLivxfJUKdeqeljv8GaQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/x4wLivxfJUKdeqeljv8GaQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:43.3030838Z",
+  "Updated": "2025-01-30T17:17:43.3030838Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

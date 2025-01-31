@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Originator Button for TO",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "bvSDIVOMgUaE9pS4odQ59g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/bvSDIVOMgUaE9pS4odQ59g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:43.8313168Z",
+  "Updated": "2025-01-30T17:17:43.8313168Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
