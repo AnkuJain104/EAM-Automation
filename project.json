@@ -7,7 +7,7 @@
     "ReporterForUiPath.Activities": "[3.0.1]",
     "UiPath.System.Activities": "24.10.7",
     "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.6]"
+    "UiPath.UIAutomation.Activities": "[24.12.5-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -141,12 +141,6 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "39ea7e03-899a-4951-a177-833c054e11c7",
-        "testCaseType": "TestCase",
-        "fileName": "OAMP-T18190.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "51bf69de-caf7-4299-af22-17f6eb6b80d6",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18199.xaml"
@@ -156,6 +150,48 @@
         "testCaseId": "c02d9aa9-2359-4eaf-9ae1-49b5ee56b0a6",
         "testCaseType": "TestCase",
         "fileName": "OAMP-T18200.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f506d299-aa68-4095-ae77-83188bdd54a9",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18190.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a5ca6dfe-d576-4ca5-94d6-d7246a606930",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18189.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2daff617-b899-4a26-9b38-7822f4f6a3b7",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18194.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "39ea7e03-899a-4951-a177-833c054e11c7",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18188_01.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0fb7a5d4-8c85-4432-a538-7a64bd2f0ff7",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18188_01 - Copy (1).xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "545cba08-9539-47a3-ab88-d65f117ceb8a",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18188_02.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "12be3e80-b152-4e6a-bf83-243ba3199fc4",
+        "testCaseType": "TestCase",
+        "fileName": "OAMP-T18188_03.xaml"
       }
     ],
     "saveToCloud": false

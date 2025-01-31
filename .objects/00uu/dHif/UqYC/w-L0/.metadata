@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Hazardous Material-Health-Enter",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "w-L0uR5BxE2R2Hd7LblvSw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/w-L0uR5BxE2R2Hd7LblvSw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-23T12:27:53.4904679Z",
+  "Updated": "2025-01-29T09:18:19.0431582Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

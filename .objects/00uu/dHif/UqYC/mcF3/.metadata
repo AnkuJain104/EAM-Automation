@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Can-Have-Tag-outs?-Toggle",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "mcF35xKFf0eEQUkd1TpcYg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/mcF35xKFf0eEQUkd1TpcYg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-23T13:29:13.4072156Z",
+  "Updated": "2025-01-29T08:23:01.271719Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Description Textbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "DtKhcDyC_kS076984hQMuQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/DtKhcDyC_kS076984hQMuQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-30T07:28:08.6041844Z",
+  "Updated": "2025-01-30T07:28:34.9991471Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

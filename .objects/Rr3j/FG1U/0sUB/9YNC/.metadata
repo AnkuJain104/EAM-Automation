@@ -1,13 +1,17 @@
 ﻿{
-  "Name": "Element 'vmware-view.exe SW Desk…'",
+  "Name": "Element 'Record has been saved'",
   "Type": "Element",
+  "TaxonomyType": "Element",
   "Id": "9YNCfOLqZ0ehxiytUFz9HA",
   "Reference": "Xc-565InekWGf1ajPaNvWg/9YNCfOLqZ0ehxiytUFz9HA",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/0sUBAcAHV0yZzzwnYiKVvQ",
   "Created": "2025-01-15T15:52:24.152951Z",
-  "Updated": "2025-01-15T15:52:24.152951Z",
+  "Updated": "2025-01-29T19:01:11.5229111Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

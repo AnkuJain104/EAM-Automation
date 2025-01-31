@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Hazardous Material-Contact",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "KMX2n7-SyEmzqFcg8KuNYw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/KMX2n7-SyEmzqFcg8KuNYw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-23T12:56:21.6467132Z",
+  "Updated": "2025-01-29T09:16:21.6692995Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

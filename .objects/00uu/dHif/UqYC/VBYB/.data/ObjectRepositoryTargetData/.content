@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="AYVYRrAmskKo7j3dTEESCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="jjJ-SRMiuUuQRysaSCPFfg" Reference="Xc-565InekWGf1ajPaNvWg/VBYBDroLWUKxTlTgC3zYMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="770a64c1-62ad-4958-b22f-b6c20a90e41c" CvTextArea="333, 534, 76, 10" CvTextArgument="000000506494" CvType="Text" DesignTimeRectangle="333, 534, 76, 10" DesignTimeScaleFactor="1" ElementType="Text" Guid="575a1154-8387-4b82-b732-636a4a51be80" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="770a64c1-62ad-4958-b22f-b6c20a90e41c" ContentHash="AYVYRrAmskKo7j3dTEESCw" CvTextArea="333, 534, 76, 10" CvTextArgument="000000506494" CvType="Text" DesignTimeRectangle="333, 534, 76, 10" DesignTimeScaleFactor="1" ElementType="Text" Guid="575a1154-8387-4b82-b732-636a4a51be80" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/VBYBDroLWUKxTlTgC3zYMA" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="2">
           <Target CVScreenId="770a64c1-62ad-4958-b22f-b6c20a90e41c" CvTextArea="464, 534, 260, 11" CvTextArgument="CONTROL PANEL STORM TANK NO1-CONTROL PANEL" CvType="Text" DesignTimeRectangle="464, 534, 260, 11" ElementType="Text" Guid="78114a30-44be-4ecd-b957-3c0fac96e8da" SearchSteps="CV" TargetType="ComputerVisionBased" />
           <Target CVScreenId="770a64c1-62ad-4958-b22f-b6c20a90e41c" CvTextArea="754, 534, 58, 10" CvTextArgument="OPERATING" CvType="Text" DesignTimeRectangle="754, 534, 58, 10" ElementType="Text" Guid="9169b390-152e-45dd-82e8-a869c07130ed" SearchSteps="CV" TargetType="ComputerVisionBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="cfe7f26268e798fb33fabf238f88e3e3.png" xmlns="">0xE5uXv-MsUWc4gkQvazbuw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="cfe7f26268e798fb33fabf238f88e3e3.png" xmlns="">0u7qea5MwgE2ckHdd1qKR1Q</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

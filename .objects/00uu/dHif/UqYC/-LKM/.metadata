@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Hazardous-Toggle-On",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "-LKMTaijl0W5j-2jswopqQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/-LKMTaijl0W5j-2jswopqQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-23T13:03:00.5402903Z",
+  "Updated": "2025-01-29T09:19:02.2082428Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Unit of MeasureSWLKG",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "9YF9BSzPpEOdK-CMJKpcqA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/9YF9BSzPpEOdK-CMJKpcqA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-31T08:28:01.8238103Z",
+  "Updated": "2025-01-31T08:28:37.0479027Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

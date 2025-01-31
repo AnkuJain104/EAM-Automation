@@ -1,13 +1,17 @@
 ﻿{
   "Name": "TESTCERT(2)",
   "Type": "Element",
+  "TaxonomyType": "Element",
   "Id": "KZwHrxCpjESovR1UCEv9pA",
   "Reference": "Xc-565InekWGf1ajPaNvWg/KZwHrxCpjESovR1UCEv9pA",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
   "Created": "2025-01-12T16:12:52.8470445Z",
-  "Updated": "2025-01-12T16:12:52.8470445Z",
+  "Updated": "2025-01-29T10:05:37.6186884Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

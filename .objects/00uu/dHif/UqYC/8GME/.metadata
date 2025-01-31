@@ -1,13 +1,17 @@
 ﻿{
   "Name": "ATEX NUMBER",
   "Type": "Element",
+  "TaxonomyType": "Element",
   "Id": "8GMEJegEjUGzWUQTZLu08w",
   "Reference": "Xc-565InekWGf1ajPaNvWg/8GMEJegEjUGzWUQTZLu08w",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
   "Created": "2025-01-08T08:48:44.0360153Z",
-  "Updated": "2025-01-08T08:48:44.0360153Z",
+  "Updated": "2025-01-29T08:21:08.183013Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

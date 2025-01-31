@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Search-Hazard-Description",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ncsM5VMEvU-Y3HwWTZ5-Xg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/ncsM5VMEvU-Y3HwWTZ5-Xg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-29T11:34:00.6255812Z",
+  "Updated": "2025-01-29T11:34:48.4894399Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

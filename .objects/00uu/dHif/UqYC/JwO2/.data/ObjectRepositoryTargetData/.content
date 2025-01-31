@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="0E4LPQ5NwEOKVIF14I-Aow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="4uLAzhB8ZUCZDJQEpLwW3w" Reference="Xc-565InekWGf1ajPaNvWg/JwO2k1cb_U6ljrS2mfZygg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="dfe74eac-124b-4ae8-bc7d-d268f0416759" CvTextArea="1237, 154, 91, 11" CvTextArgument="Return With Value" CvType="Text" DesignTimeRectangle="1237, 154, 91, 11" DesignTimeScaleFactor="1" ElementType="Text" Guid="9ff173cb-2161-4439-909f-89f10db5397e" ScopeSelectorArgument="&lt;wnd app='vmware-view.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="dfe74eac-124b-4ae8-bc7d-d268f0416759" ContentHash="0E4LPQ5NwEOKVIF14I-Aow" CvTextArea="1237, 154, 91, 11" CvTextArgument="Return With Value" CvType="Text" DesignTimeRectangle="1237, 154, 91, 11" DesignTimeScaleFactor="1" ElementType="Text" Guid="9ff173cb-2161-4439-909f-89f10db5397e" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/JwO2k1cb_U6ljrS2mfZygg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="2">
           <Target CVScreenId="dfe74eac-124b-4ae8-bc7d-d268f0416759" CvTextArea="1176, 154, 34, 11" CvTextArgument="Return" CvType="Text" DesignTimeRectangle="1176, 154, 34, 11" ElementType="Text" Guid="5275b3af-7a89-4f64-9cdb-49a9f9e874e4" SearchSteps="CV" TargetType="ComputerVisionBased" />
           <Target DesignTimeRectangle="1194, 188, 24, 28" Guid="d441497e-a9f8-4d80-9426-da704c6dc306" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAYAAAB75n/uAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHUSURBVEhL7ZQhqwJBEMffp9BoMBiMBg2CwWAwCAZBQRERFKPBYDAYTRcMBoMfwG4QVDAo2AVBRUQFg2C4YBv5D9yxe7t67/F44YHhF3Zmbv47Mzv3ZZom/SUfAVc+Aq64CpzPZ5rP5zQcDpnZbEaHw0Ebq+OlwOPxoH6/T8lkklKpFJVKJSqXy5ROpymRSFCv19N+50QrcL/fOXEwGOTbO/2LxYLC4TDF43GOdfpFFIHT6USFQoG5Xq+STwS+Wq3GFb1rmSKAtuRyOe69aG+329RqtSQbRBBrGIZkF5EEcBPcfDQaSUEgFAqR3+9X7GhhJpOh7Xar+IAkgGAIrFYrPuOG6PdyuaRAIEA+n88+W+3bbDaUzWZpOp3aeUQkAQQVi0Var9d8RjKv10sej0fBSrjb7fh16aoGrhUg0WQysSuwzngMiEEF+Xz+exVYMxiPx1IQeDUDVIkZQMjpA5IAwAJBxPmKms0m1et1yXa73Ti20+lIdhFFAFXg6eGNW4PUAV+j0eAt/9EegMvlwpsciUS0m4wZYYtjsZhSqROtAMC/qNvtchL8eyqVClWrVRaORqNv2yLyUsDieDzy0AeDAYPnuN/vtbE6XAV+y0fAlf8uYNITzGSD/qU/kmUAAAAASUVORK5CYII=" SearchSteps="Image" TargetType="ImageBased" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="619a11b374eb2d93fadacdd5ab2b3943.png" xmlns="">0veizhwE9gUCtVFuf1h6w0w</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="619a11b374eb2d93fadacdd5ab2b3943.png" xmlns="">0wHR4VyVc4UqdyBg2ZTmd3g</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

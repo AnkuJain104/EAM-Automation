@@ -1,13 +1,17 @@
 ﻿{
   "Name": "IMPELLER TYPE",
   "Type": "Element",
+  "TaxonomyType": "Element",
   "Id": "KY7WWI8WOU6hrgLBa539wA",
   "Reference": "Xc-565InekWGf1ajPaNvWg/KY7WWI8WOU6hrgLBa539wA",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
   "Created": "2025-01-08T17:48:49.0507128Z",
-  "Updated": "2025-01-08T17:48:49.0507128Z",
+  "Updated": "2025-01-29T09:22:13.4468192Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

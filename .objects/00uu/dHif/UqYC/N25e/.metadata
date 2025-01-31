@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click-New-Hazard",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "N25efXZzRUOfeO_n5Te4lQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/N25efXZzRUOfeO_n5Te4lQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-29T18:04:41.048098Z",
+  "Updated": "2025-01-29T18:05:25.2630322Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

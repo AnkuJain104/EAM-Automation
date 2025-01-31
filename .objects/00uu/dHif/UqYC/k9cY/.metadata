@@ -1,13 +1,17 @@
 ﻿{
   "Name": "18196 Asset-specification-COND",
   "Type": "Element",
+  "TaxonomyType": "Element",
   "Id": "k9cYANf94EmeYEXDW1jrxg",
   "Reference": "Xc-565InekWGf1ajPaNvWg/k9cYANf94EmeYEXDW1jrxg",
   "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
   "Created": "2025-01-08T12:00:18.5267694Z",
-  "Updated": "2025-01-08T12:00:18.5267694Z",
+  "Updated": "2025-01-29T07:39:33.9526621Z",
   "CreatedBy": [
     "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
     "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

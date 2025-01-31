@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Precaution-Search-Y",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OFmCudstcU2uY7gJQc8IOw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/OFmCudstcU2uY7gJQc8IOw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/UqYCYdH2zUOoykvH9yE3Uw",
+  "Created": "2025-01-28T12:41:34.1217831Z",
+  "Updated": "2025-01-29T11:33:56.0393588Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

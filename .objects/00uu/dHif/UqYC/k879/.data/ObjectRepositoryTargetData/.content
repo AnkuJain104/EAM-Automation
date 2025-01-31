@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0ELf6IitDkaRUqhPU25Hlg" Reference="Xc-565InekWGf1ajPaNvWg/k879QAxhLESLlaCFeY0Skg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="70418663-fe95-4f6a-947b-3190b84f6887" ContentHash="YHtvLuqywkKiOhnIx6GPjA" CvElementArea="354, 496, 34, 32" CvType="ArrowButton" DesignTimeRectangle="354, 496, 34, 32" DesignTimeScaleFactor="1" ElementType="ArrowButton" Guid="3c44af9c-d235-45a5-be07-58e5846c0730" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/k879QAxhLESLlaCFeY0Skg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="258, 477, 47, 16" Guid="36b1f7ab-8c27-4ae6-ba54-d72545daf26a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC8AAAAQCAYAAACGCybUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFgSURBVEhL7ZLBSsNAEIZ9GA8efADvTaLHHHyKkhREjx48itboYxRsRcWzIEptiw+gJUoIK3jwsNqFHMfMuLNNlBSLlFjJ4Wdn/5nZ/XaSBaUUzKsq+LJUwZel/wkvxQs8B4ckJYTxR+EZ+FYNDrrJp/feg6btQP0kNjWzkIzbdG+zN/YK4UN3HSLXpRXF/lzAC28LwsVlEsbsT4LnCxzHIVGNzrPn2B4cPyZwE1jGsxptiKQE1d2l/IZvkzdMxr2r/ubP4eXVJdwvrZAwZp/hDYwWwg8HA7gLQ6pDOAOFvfoRDNXvPFAuN1GET89iwLhVN4/9mkMVwr+2LkDsbJMwZn+ayTO8lBGcNtbAqu3B7duI+rKTN1B68gSb1iA890z12xRpEnx22nRxGgslvoHnQHR/ETzvZw7PnxbleR6t++cdqmcfdXT9RA+ifeYfj/pBDp7Pzvb+Cv4vqYIvRwo+AI29esxfZ4d8AAAAAElFTkSuQmCC" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0a43a7329344efc316f5bfec9618f1b.png" xmlns="">0soqR8vmSqkOMuoR3dD81Ig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
