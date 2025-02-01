@@ -1,0 +1,15 @@
+﻿{
+  "Name": "View SLAs",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rMT15me-ZEO48fB7tPA9yQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/rMT15me-ZEO48fB7tPA9yQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:44.5574347Z",
+  "Updated": "2025-01-30T17:17:44.5574347Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

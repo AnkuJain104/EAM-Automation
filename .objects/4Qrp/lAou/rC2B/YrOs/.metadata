@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Communication(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "YrOsBqaeCkeCyy5USeGE7Q",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/YrOsBqaeCkeCyy5USeGE7Q",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-31T07:37:00.6013262Z",
+  "Updated": "2025-01-31T07:37:00.6013262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

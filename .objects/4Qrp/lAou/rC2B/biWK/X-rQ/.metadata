@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Home Icon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "X-rQqrNej0mVDM4YO1tABg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/X-rQqrNej0mVDM4YO1tABg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/biWKkJEQxkKz_m8TQamRpw",
+  "Created": "2025-01-30T17:17:42.4784517Z",
+  "Updated": "2025-01-30T17:17:42.4784517Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

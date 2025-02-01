@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Start Center(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "blL8crAII0mLQ_jt6Itu2Q",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/blL8crAII0mLQ_jt6Itu2Q",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-01-30T17:17:44.4166917Z",
+  "Updated": "2025-01-30T17:17:44.4166917Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
