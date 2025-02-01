@@ -646,6 +646,138 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18188_01.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testcaseid&Sequence_1",
+        "NewHazardNo&Sequence_1",
+        "HazardNo&Sequence_1",
+        "description&Sequence_1",
+        "movemodifydescription&Sequence_1",
+        "PrecautionNo&Sequence_1",
+        "UpdatedPre&Sequence_1",
+        "PrecautionNoCreated&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AssetManagement Workflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testSuiteID&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Main_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18188_02.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testcaseid&Sequence_1",
+        "NewHazardNo&Sequence_1",
+        "HazardNo&Sequence_1",
+        "description&Sequence_1",
+        "movemodifydescription&Sequence_1",
+        "PrecautionNo&Sequence_1",
+        "UpdatedPre&Sequence_1",
+        "Health&Sequence_1",
+        "Flammability&Sequence_1",
+        "Reactivity&Sequence_1",
+        "Contact&Sequence_1",
+        "PrecautionNoCreated&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18188_03.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testcaseid&Sequence_1",
+        "NewHazardNo&Sequence_1",
+        "HazardNo&Sequence_1",
+        "description&Sequence_1",
+        "movemodifydescription&Sequence_1",
+        "PrecautionNo&Sequence_1",
+        "UpdatedPre&Sequence_1",
+        "Health&Sequence_1",
+        "Flammability&Sequence_1",
+        "Reactivity&Sequence_1",
+        "Contact&Sequence_1",
+        "PrecautionNoCreated&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18195.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "username&Sequence_1",
+        "password&Sequence_1",
+        "testcaseid&Sequence_1",
+        "Typevalue18195&Sequence_1",
+        "Description18195&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18196.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "flowlnumericvalue&Sequence_1",
+        "testcaseid&Sequence_1",
+        "assetspecificationnumeric&Sequence_1",
+        "impeltypevalue&Sequence_1",
+        "instbyvalue&Sequence_1",
+        "izonecvalue&Sequence_1",
+        "liftmvalue&Sequence_1",
+        "modelfieldvalue&Sequence_1",
+        "powerkwvalue&Sequence_1",
+        "sealprot&Sequence_1",
+        "subtypvalue&Sequence_1",
+        "thermvalue&Sequence_1",
+        "weightvalue&Sequence_1",
+        "lenchtannvalue&Sequence_1",
+        "voltsupvalue&Sequence_1",
+        "beardeslif&Sequence_1",
+        "beartmpmonvalue&Sequence_1",
+        "impdiamm&Sequence_1",
+        "suppliervalue&Sequence_1",
+        "sewerage&Sequence_1",
+        "serialvalue&Sequence_1",
+        "serviceaddress&Sequence_1",
+        "cablelenmvalue&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

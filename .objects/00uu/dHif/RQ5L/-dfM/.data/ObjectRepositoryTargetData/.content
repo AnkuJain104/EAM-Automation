@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1IwbexQbu0CnLmaEtTKzZA" Reference="Xc-565InekWGf1ajPaNvWg/k9cYANf94EmeYEXDW1jrxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" ContentHash="q8XzCXGA_EG7MSwx00D5Ew" DesignTimeRectangle="1060, 590, 215, 37" DesignTimeScaleFactor="1" Guid="a70c5159-40c6-4514-89bc-936b95ad07b2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAlCAYAAADRJ3ynAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADeSURBVHhe7d1BqsIwGIXR7h+6rm6jC2kb+QMRnfh8mOvEc+AiBacfaRV0Oc+zlXq9rsvMXuwd473LuADmqIOq1uMC5ng8qMQFE4kLQsQFIeKCEHFBiLggRFwQIi4IEReEiAtCxAUh4oIQcUGIuCBEXBAiLvgCcUGIuCBEXBAiLggRF4SIC0LEBSFLfek1fnW31PWrAe/pJ9djXMAcbgsh5B6X2z6Yq//LyXEc/UJcME//QKOMwP4yTjizX9x/eOaCkKdnrm3b2rquZvbhqqVl3/dmZvPnthBCxAURrd0AA/dpqvWPT8kAAAAASUVORK5CYII=" Reference="Xc-565InekWGf1ajPaNvWg/k9cYANf94EmeYEXDW1jrxg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="3">
+          <Target CVScreenId="45bb8d43-868c-478e-8654-90d358f0e72d" CvTextArea="593, 602, 59, 10" CvTextArgument="CONDITION" CvType="Text" DesignTimeRectangle="593, 602, 59, 10" ElementType="Text" Guid="40da2c68-1d50-4f2d-969b-8a0eaa7e5ee3" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="45bb8d43-868c-478e-8654-90d358f0e72d" CvTextArea="909, 426, 51, 11" CvTextArgument="Date Value" CvType="Text" DesignTimeRectangle="909, 426, 51, 11" ElementType="Text" Guid="dfb771a6-08b7-4a51-9b69-8bfcb62f15f8" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="45bb8d43-868c-478e-8654-90d358f0e72d" CvTextArea="1063, 426, 95, 13" CvTextArgument="Alphanumeric Value" CvType="Text" DesignTimeRectangle="1063, 426, 95, 13" ElementType="Text" Guid="f7a5c8a2-aba3-400e-a48b-4e208b4cd8e7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0f836ddffd71f3bf9163169b474a3065.png" xmlns="">0EJ0DPuIxa0qwQRCJ-cXjZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
