@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m7vJ6UGQ00GlCkdYSlglBg" Reference="Xc-565InekWGf1ajPaNvWg/N3xdJ54DYE-mMfWXDo5Hrw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="44a1dcfb-061e-47e9-abea-381cd96ab513" ContentHash="xzCcqIFxt0GO-YmtpKnjSg" CvTextArea="782, 427, 74, 12" CvTextArgument="Is Mandatory??" CvType="Text" DesignTimeRectangle="782, 427, 74, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="713c7263-40dd-43dd-b947-46354a600b40" ImageBase64="" Reference="Xc-565InekWGf1ajPaNvWg/N3xdJ54DYE-mMfWXDo5Hrw" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="3">
+          <Target CVScreenId="44a1dcfb-061e-47e9-abea-381cd96ab513" CvTextArea="871, 427, 48, 12" CvTextArgument="Data Type" CvType="Text" DesignTimeRectangle="871, 427, 48, 12" ElementType="Text" Guid="21c1dd0f-99f9-4269-96db-a2d65db92f98" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="44a1dcfb-061e-47e9-abea-381cd96ab513" CvTextArea="935, 426, 51, 11" CvTextArgument="Date Value" CvType="Text" DesignTimeRectangle="935, 426, 51, 11" ElementType="Text" Guid="18f2a7cf-6ba9-4867-b220-18e28120163d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="44a1dcfb-061e-47e9-abea-381cd96ab513" CvTextArea="1089, 426, 95, 13" CvTextArgument="Alphanumeric Value" CvType="Text" DesignTimeRectangle="1089, 426, 95, 13" ElementType="Text" Guid="8b74406d-d40e-4138-a158-4a27bba7eadc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8f1b07f5b223080511f9a88425512a84.png" xmlns="">0fGSReaME00K-zypfg2YsfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
