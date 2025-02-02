@@ -778,6 +778,257 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18152.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "readonly_Attribute&Sequence_7",
+        "AssetStatus&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18153.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "readonly_Attribute&Sequence_7",
+        "AssetStatus&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18154.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "readonly_Attribute&Sequence_7",
+        "AssetStatus&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18155.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "readonly_Attribute&Sequence_7",
+        "AssetStatus&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18156.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_13",
+        "SchedulerUser&Sequence_13",
+        "SC_Password&Sequence_13",
+        "Asset_Num&Sequence_13",
+        "PersonGroup&Sequence_13",
+        "WO_Description&Sequence_13",
+        "readonly_Attribute&Sequence_13",
+        "AssetStatus&Sequence_13",
+        "LocationID&Sequence_13",
+        "Location_Level&Sequence_13",
+        "LocationType&Sequence_13",
+        "Location_Desc&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18157.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_7",
+        "SchedulerUser&Sequence_7",
+        "SC_Password&Sequence_7",
+        "Asset_Num&Sequence_7",
+        "PersonGroup&Sequence_7",
+        "WO_Description&Sequence_7",
+        "readonly_Attribute&Sequence_7",
+        "AssetStatus&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18167.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Out_L2LocationID&Sequence_1",
+        "Out_L3LocationID&Sequence_1",
+        "Application_Url&Sequence_13",
+        "SchedulerUser&Sequence_13",
+        "SC_Password&Sequence_13",
+        "Asset_Num&Sequence_13",
+        "PersonGroup&Sequence_13",
+        "WO_Description&Sequence_13",
+        "readonly_Attribute&Sequence_13",
+        "AssetStatus&Sequence_13",
+        "Location_Level&Sequence_13",
+        "LocationType&Sequence_13",
+        "Location_Desc&Sequence_13",
+        "UpdatedLocationLevel&Sequence_13",
+        "HierarchyLocationText&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Reusable Workflows/CreateNewLocationWorkflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "In_LocationLevel",
+        "In_LocationType",
+        "In_LocationDesc",
+        "LocationID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Reusable Workflows/EnterPlantCodeInformation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Reusable Workflows/LogFailureReporting.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Reusable Workflows/LogoutFunctionality.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18166.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Out_L4LocationID&Sequence_1",
+        "Out_L3LocationID&Sequence_1",
+        "Out_L5LocationID&Sequence_19",
+        "Out_L6LocationID&Sequence_19",
+        "Application_Url&Sequence_13",
+        "SchedulerUser&Sequence_13",
+        "SC_Password&Sequence_13",
+        "Asset_Num&Sequence_13",
+        "PersonGroup&Sequence_13",
+        "WO_Description&Sequence_13",
+        "readonly_Attribute&Sequence_13",
+        "AssetStatus&Sequence_13",
+        "Location_Level&Sequence_13",
+        "LocationType&Sequence_13",
+        "Location_Desc&Sequence_13",
+        "UpdatedLocationLevel&Sequence_13",
+        "variable1&Sequence_22"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18165.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_13",
+        "SchedulerUser&Sequence_13",
+        "SC_Password&Sequence_13",
+        "Asset_Num&Sequence_13",
+        "PersonGroup&Sequence_13",
+        "WO_Description&Sequence_13",
+        "readonly_Attribute&Sequence_13",
+        "AssetStatus&Sequence_13",
+        "LocationID&Sequence_13",
+        "Location_Level&Sequence_13",
+        "LocationType&Sequence_13",
+        "Location_Desc&Sequence_13",
+        "SecLocationID&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

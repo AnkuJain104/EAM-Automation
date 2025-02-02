@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-It8hik3Eki1Atbyx3h1gA" Reference="Xc-565InekWGf1ajPaNvWg/JvsNe8YcxUGC4AZ9z3xz1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="71dd7121-5196-40d6-ba1e-11d03e323a71" CvElementArea="74, 309, 18, 22" CvType="ArrowButton" DesignTimeRectangle="74, 309, 18, 22" DesignTimeScaleFactor="1" ElementType="ArrowButton" Guid="882122e3-e574-4a93-9cb1-941044c1a0e7" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="71dd7121-5196-40d6-ba1e-11d03e323a71" CvElementArea="24, 308, 22, 22" CvType="Icon" DesignTimeRectangle="22, 306, 26, 26" ElementType="Icon" Guid="1d417224-bf10-4ceb-992d-33bf8f1fa2d1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH8SURBVEhL7ZQ/a1phFMbzKRzEfyg4iLsgKKibm4KCg4KCgn4EcXJwcHBwERQVdNIlKbRp2qUJ1VRDWxBp0ial7dQ/SRcVBxefcg5cufa+9xps6dJc+OH1Ocf3977Xowc6nQ7/ggfR3vxnok+fvyAajfK9w+FAsVjE+XCAxWLBXIxH6Ha7mx4t7iUqlUq88PNnJyiXy0gkEkilUpxfXr0HXcdPT2CxWITrEDtF1zcfeTGXy7XJ6V7+njbz9dt3vH7zFgaDYZPL2Smiq1ar8UkymQznjUaDkfc6nU7eVLPZ3MolNEX5fJ4FErlcjnORiAgEArwxj8ejqGmK1FATEYPhOSqViiL/66JCoYDR+EKR7y1qt9vCGg3G7d1PRa4qms1m8Hq9wlosFsNqteLX32vhcBjz+VyRq4reXV4hHo8La0Q6ncZyuUQoFNrKaWAmk8lWRqiK6vU6+v2+sCaRzWZZ5na7N1mv1+Ofg7yPUBUFg0F+PPTXI6pLyE/k8/mwXq95zOU9hOYw0InOTl9Ar9cL63JsNhum06nqkGiKTCYTPlzfYDx6BbvdLuwh6NT0vRBGo1HYoykirFYrn4qmsFqt8qT5/X5enAbi0dEhP+LHT45hNpuFaxA7RRLJZBKdTodPR9Ift3cYDl6i1WohEokIPyPn3qI/5UG0Jzr8Ak76CFgRicCkAAAAAElFTkSuQmCC" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c1d786b1af90ed3939958894cf3df2da.png" xmlns="">0_Re2O24rxka6N46xV-41dA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

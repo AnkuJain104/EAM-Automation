@@ -142,7 +142,7 @@
       <AssemblyReference>UiPath.OCR.Contracts</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="645,15422" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="645,15260" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="18532" Name="TestCase_ID" />
       <Variable x:TypeArguments="x:String" Name="Out_L2LocationID" />
@@ -153,24 +153,13 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="OAMP-T18167_UAT_OAM_Asset_Desktop_Meters_TC015" sap:VirtualizedContainerService.HintSize="620,15399" sap2010:WorkflowViewState.IdRef="Sequence_14">
+    <Sequence DisplayName="OAMP-T18167_UAT_OAM_Asset_Desktop_Location_TC015" sap:VirtualizedContainerService.HintSize="620,15237" sap2010:WorkflowViewState.IdRef="Sequence_14">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="586,279" sap2010:WorkflowViewState.IdRef="CommentOut_1">
-        <ui:CommentOut.Body>
-          <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,168" sap2010:WorkflowViewState.IdRef="Sequence_26">
-            <sap:WorkflowViewStateService.ViewState>
-              <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-              </scg:Dictionary>
-            </sap:WorkflowViewStateService.ViewState>
-            <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="416,108" sap2010:WorkflowViewState.IdRef="StartTest_5" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAMP-T18167_UAT_OAM_Asset_Desktop_Meters_TC015" testId="[TestCase_ID]" />
-          </Sequence>
-        </ui:CommentOut.Body>
-      </ui:CommentOut>
+      <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="586,117" sap2010:WorkflowViewState.IdRef="StartTest_6" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAMP-T18167_UAT_OAM_Asset_Desktop_Location_TC015" testId="[TestCase_ID]" />
       <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="586,15037" sap2010:WorkflowViewState.IdRef="Sequence_19">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -928,7 +917,7 @@
                     <uix:NGetText.Target>
                       <uix:TargetAnchorable CVScreenId="aded1000-cfa0-4245-a4dc-4b800ca1b3bf" ContentHash="LmFCbC9KlUGsh3qyYEbAOw" CvTextArea="95, 295, 258, 13" CvType="AnyWordGroup" DesignTimeRectangle="95, 295, 258, 13" DesignTimeScaleFactor="1" ElementType="Text" Guid="936e0aa0-fa0f-4506-8bd4-406fd4ecc9f8" InformativeScreenshot="162c5991ec613b2857ed291730f1e944.png" Reference="Xc-565InekWGf1ajPaNvWg/6TVN25k2GUy7QiiP4Y5YRg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                         <uix:TargetAnchorable.Anchors>
-                          <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                          <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                             <uix:Target CVScreenId="aded1000-cfa0-4245-a4dc-4b800ca1b3bf" CvTextArea="55, 262, 86, 18" CvTextArgument="Drilldown" CvType="Text" DesignTimeRectangle="55, 262, 86, 18" ElementType="Text" Guid="6741f92a-2c84-4dd5-a2a4-6f69cd155675" SearchSteps="CV" TargetType="ComputerVisionBased" />
                           </scg:List>
                         </uix:TargetAnchorable.Anchors>

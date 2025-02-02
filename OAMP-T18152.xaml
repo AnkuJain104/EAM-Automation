@@ -134,7 +134,7 @@
       <AssemblyReference>Microsoft.Extensions.DependencyModel</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="629,11536" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap:VirtualizedContainerService.HintSize="645,11536" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="18532" Name="TestCase_ID" />
     </Sequence.Variables>
@@ -143,13 +143,13 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence DisplayName="OAMP-T18152_UAT_OAM_Asset_Desktop_Meters_TC01" sap:VirtualizedContainerService.HintSize="588,11513" sap2010:WorkflowViewState.IdRef="Sequence_5">
+    <Sequence DisplayName="OAMP-T18152_UAT_OAM_Asset_Desktop_Location_TC01" sap:VirtualizedContainerService.HintSize="588,11513" sap2010:WorkflowViewState.IdRef="Sequence_5">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="554,117" sap2010:WorkflowViewState.IdRef="StartTest_4" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAMP-T18152_UAT_OAM_Asset_Desktop_Meters_TC01" testId="[TestCase_ID]" />
+      <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="554,117" sap2010:WorkflowViewState.IdRef="StartTest_4" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAMP-T18152_UAT_OAM_Asset_Desktop_Location_TC01" testId="[TestCase_ID]" />
       <Sequence sap2010:Annotation.AnnotationText="" sap:VirtualizedContainerService.HintSize="554,11313" sap2010:WorkflowViewState.IdRef="Sequence_6">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
