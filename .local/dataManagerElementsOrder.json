@@ -1029,6 +1029,121 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18198.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "asslocfieldvalue&Sequence_1",
+        "testcaseid&Sequence_1",
+        "assetspecificationnumeric&Sequence_1",
+        "condvalue&Sequence_1",
+        "instbyvalue&Sequence_1",
+        "manriding&Sequence_1",
+        "swlkgvalue&Sequence_1",
+        "testcert&Sequence_1",
+        "powerkwvalue&Sequence_1",
+        "testby&Sequence_1",
+        "subtypvalue&Sequence_1",
+        "thermvalue&Sequence_1",
+        "weightvalue&Sequence_1",
+        "lenchtannvalue&Sequence_1",
+        "voltsupvalue&Sequence_1",
+        "beardeslif&Sequence_1",
+        "beartmpmonvalue&Sequence_1",
+        "impdiamm&Sequence_1",
+        "suppliervalue&Sequence_1",
+        "sewerage&Sequence_1",
+        "serialvalue&Sequence_1",
+        "serviceaddress&Sequence_1",
+        "description&Sequence_1",
+        "assettypevalue&Sequence_1",
+        "cablelenmvalue&Sequence_1",
+        "locationvalue&Sequence_1",
+        "prloadvalue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18199.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "description&Sequence_1",
+        "newassetno&Sequence_1",
+        "UpdateDescription&Sequence_1",
+        "AssetStatus&Sequence_1",
+        "testcaseid&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18200.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "description&Sequence_1",
+        "newassetno&Sequence_1",
+        "UpdateDescription&Sequence_1",
+        "assettypevalue&Sequence_1",
+        "testcaseid&Sequence_1",
+        "UpdateAssetType&Sequence_1",
+        "AssetStatus&Sequence_1",
+        "UpdatedAssetTypeValue&Sequence_1",
+        "TypeValue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18202.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "condvalue&Sequence_1",
+        "description&Sequence_1",
+        "locationvalue&Sequence_1",
+        "movemodifydescription&Sequence_1",
+        "locationvalue1&Sequence_1",
+        "newassetno&Sequence_1",
+        "testcaseid&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18203.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "condvalue&Sequence_1",
+        "description&Sequence_1",
+        "updatedescription&Sequence_1",
+        "newassetno&Sequence_1",
+        "testcaseid&Sequence_1",
+        "password&Sequence_1",
+        "AssetStatus&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
