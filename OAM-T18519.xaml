@@ -115,7 +115,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OAM_T18519" sap:VirtualizedContainerService.HintSize="633.9999999999999,7198" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OAM_T18519" sap:VirtualizedContainerService.HintSize="633.9999999999999,7035.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="seralag" Name="UserName" />
       <Variable x:TypeArguments="x:String" Default="SWpassword$2024" Name="PassWord" />
@@ -127,27 +127,16 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="518,281.3333333333333" sap2010:WorkflowViewState.IdRef="CommentOut_1">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,169.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_7">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="StartTest_8" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Palnning" TestName="OAM-T18519_Schedule Work Order (Planner Reviews - Invalid &amp; Cancel / Start Centre) " testId="[TestCaseID]">
-            <ra:StartTest.TestDescription>
-              <InArgument x:TypeArguments="x:String">
-                <Literal x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="Literal`1_1">
-                  <Literal.Result>
-                    <OutArgument x:TypeArguments="x:String" />
-                  </Literal.Result>Create Order</Literal>
-              </InArgument>
-            </ra:StartTest.TestDescription>
-          </ra:StartTest>
-        </Sequence>
-      </ui:CommentOut.Body>
-    </ui:CommentOut>
+    <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="518,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_9" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Palnning" TestName="OAM-T18519_Schedule Work Order (Planner Reviews - Invalid &amp; Cancel / Start Centre) " testId="[TestCaseID]">
+      <ra:StartTest.TestDescription>
+        <InArgument x:TypeArguments="x:String">
+          <Literal x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="Literal`1_1">
+            <Literal.Result>
+              <OutArgument x:TypeArguments="x:String" />
+            </Literal.Result>Create Order</Literal>
+        </InArgument>
+      </ra:StartTest.TestDescription>
+    </ra:StartTest>
     <Sequence sap:VirtualizedContainerService.HintSize="518,6894" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Side Menu Hover",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "1d80hH1Ko0-9-i8KRak9Xg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/1d80hH1Ko0-9-i8KRak9Xg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-04T10:36:40.8860804Z",
+  "Updated": "2025-02-04T10:37:49.368447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

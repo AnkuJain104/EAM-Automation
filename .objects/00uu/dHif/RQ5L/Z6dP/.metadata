@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Log Description",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Z6dPIhC89EWTEfBL-KQyXQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/Z6dPIhC89EWTEfBL-KQyXQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-04T10:38:19.1776694Z",
+  "Updated": "2025-02-04T10:39:06.5609098Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
