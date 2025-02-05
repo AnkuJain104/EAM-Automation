@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Scheduler(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "g2E62vN8Fk6y248A2PkYsg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/g2E62vN8Fk6y248A2PkYsg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-05T02:43:17.2282784Z",
+  "Updated": "2025-02-05T02:43:17.2282784Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

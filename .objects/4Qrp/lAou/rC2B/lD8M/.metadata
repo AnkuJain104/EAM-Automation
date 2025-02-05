@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Location(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "lD8MNU5IjUWZ_az7p6rH-g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/lD8MNU5IjUWZ_az7p6rH-g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-05T04:29:09.8605869Z",
+  "Updated": "2025-02-05T04:29:09.8605869Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

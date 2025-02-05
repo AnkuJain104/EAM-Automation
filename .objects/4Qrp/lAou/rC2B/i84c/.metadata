@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Waiting on plant cond(1)(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "i84cdeOWREGQYP6SDeiYeg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/i84cdeOWREGQYP6SDeiYeg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-05T04:30:30.826596Z",
+  "Updated": "2025-02-05T04:30:30.826596Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
