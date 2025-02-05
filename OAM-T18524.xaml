@@ -115,7 +115,7 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Sequence1" sap:VirtualizedContainerService.HintSize="631.9999999999999,9835.333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence1" sap:VirtualizedContainerService.HintSize="631.9999999999999,9672.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="seralag" Name="UserName" />
       <Variable x:TypeArguments="x:String" Default="SWpassword$2024" Name="Password" />
@@ -127,19 +127,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="486.6666666666667,281.3333333333333" sap2010:WorkflowViewState.IdRef="CommentOut_1">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,169.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_15">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="StartTest_6" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="test1" TestDescription="createorder" TestName="OAM-T18524_Schedule Work Order (Planner Reviews - Valid &amp; Waiting for Plant Conditions / Start Centre)" testId="[TestCaseID]" />
-        </Sequence>
-      </ui:CommentOut.Body>
-    </ui:CommentOut>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)(1)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="486.6666666666667,9531.333333333334" sap2010:WorkflowViewState.IdRef="NApplicationCard_3" ScopeGuid="70700fe8-3755-44de-a742-b20ed54c2de4" Version="V2">
+    <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="484,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_7" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="test1" TestDescription="createorder" TestName="OAM-T18524_Schedule Work Order (Planner Reviews - Valid &amp; Waiting for Plant Conditions / Start Centre)" testId="[TestCaseID]" />
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)(1)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,9531.333333333334" sap2010:WorkflowViewState.IdRef="NApplicationCard_3" ScopeGuid="70700fe8-3755-44de-a742-b20ed54c2de4" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Meter",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "G6cf56sOdEioSZXrGezo6w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/G6cf56sOdEioSZXrGezo6w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-05T05:06:01.4639772Z",
+  "Updated": "2025-02-05T05:06:01.4639772Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

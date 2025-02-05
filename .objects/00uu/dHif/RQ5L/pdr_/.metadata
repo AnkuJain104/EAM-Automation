@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Revision Description",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "pdr_7yZ0bEuewlL95a8S7g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/pdr_7yZ0bEuewlL95a8S7g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-05T06:26:19.3492402Z",
+  "Updated": "2025-02-05T06:26:19.3492402Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -115,7 +115,7 @@
       <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OAM_T18523" sap:VirtualizedContainerService.HintSize="631.9999999999999,9740.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OAM_T18523" sap:VirtualizedContainerService.HintSize="631.9999999999999,9576.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="seralag" Name="UserName" />
       <Variable x:TypeArguments="x:String" Default="SWpassword$2024" Name="Password" />
@@ -127,31 +127,20 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="588.6666666666666,281.3333333333333" sap2010:WorkflowViewState.IdRef="CommentOut_3">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,169.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_9">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="StartTest_8" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Palnning" TestDescription="Create Order" TestName="OAM-T18523_Schedule Work Order (Planner Reviews - Valid &amp; waiting for Info / Start Centre) " testId="[TestCaseID]" />
-        </Sequence>
-      </ui:CommentOut.Body>
-    </ui:CommentOut>
-    <Sequence sap:VirtualizedContainerService.HintSize="588.6666666666666,9436.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_5">
+    <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="588.6666666666666,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_9" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Palnning" TestDescription="Create Order" TestName="OAM-T18523_Schedule Work Order (Planner Reviews - Valid &amp; waiting for Info / Start Centre) " testId="[TestCaseID]" />
+    <Sequence sap:VirtualizedContainerService.HintSize="588.6666666666666,9435.333333333334" sap2010:WorkflowViewState.IdRef="Sequence_5">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="554.6666666666666,9354" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" ScopeGuid="70700fe8-3755-44de-a742-b20ed54c2de4" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="554.6666666666666,9352.666666666666" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" ScopeGuid="70700fe8-3755-44de-a742-b20ed54c2de4" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520.6666666666666,9060" sap2010:WorkflowViewState.IdRef="Sequence_6">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="520.6666666666666,9058.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_6">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -224,7 +213,7 @@
                 </ui:InvokeWorkflowFile.Arguments>
               </ui:InvokeWorkflowFile>
               <ra:StepStatus ActualResult="{x:Null}" CodeBlock="{x:Null}" ContinueOnError="{x:Null}" ExpectedResult="{x:Null}" statusInfo="{x:Null}" DisplayName="Step Status" sap:VirtualizedContainerService.HintSize="486.6666666666667,168" sap2010:WorkflowViewState.IdRef="StepStatus_17" ReportId="[In_ReportID]" Status="Compare" StepDescription="User should be able to successfully create a work order as a planner" StepName="work order has been successfully created as a planner" TakeScreenshot="True" TestId="[TestCaseID]" />
-              <uix:NGetText DelayAfter="5" DisplayName="Get Text 'Location'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486.6666666666667,192.66666666666666" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="70700fe8-3755-44de-a742-b20ed54c2de4" TextString="[WorkOrder]" Version="V4">
+              <uix:NGetText DelayAfter="5" DisplayName="Get Text 'Location'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="486.6666666666667,191.33333333333334" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="70700fe8-3755-44de-a742-b20ed54c2de4" TextString="[WorkOrder]" Version="V4">
                 <uix:NGetText.Target>
                   <uix:TargetAnchorable CVScreenId="e75b4a7c-1089-46c6-81b8-cf980fd87e9e" ContentHash="Hf-Y3T-kJkaq3waEOjqPDg" CvTextArea="520, 477, 118, 18" CvTextArgument="2000596798" CvType="Text" DesignTimeRectangle="520, 477, 118, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="d1f342ca-780a-4a2a-8cd1-6acd504f9aa6" InformativeScreenshot="a225cbaed81fbe7e22fcef690e8de496.png" Reference="Xc-565InekWGf1ajPaNvWg/hb2QN0oSFkuLPOwwGNJ1Ng" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                     <uix:TargetAnchorable.Anchors>

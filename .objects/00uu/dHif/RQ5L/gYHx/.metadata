@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Inputbox(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gYHxUzJqk0608u3PzVqbMg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/gYHxUzJqk0608u3PzVqbMg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-05T04:55:18.230801Z",
+  "Updated": "2025-02-05T04:55:18.230801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

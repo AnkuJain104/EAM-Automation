@@ -121,7 +121,7 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="OAM_T18510" sap:VirtualizedContainerService.HintSize="633.9999999999999,8709.333333333334" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OAM_T18510" sap:VirtualizedContainerService.HintSize="633.9999999999999,8488.666666666666" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="TestCaseID" />
       <Variable x:TypeArguments="x:String" Name="WorkOrder" />
@@ -133,19 +133,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="486.6666666666667,281.3333333333333" sap2010:WorkflowViewState.IdRef="CommentOut_2">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="450,169.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_12">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="416,109.33333333333333" sap2010:WorkflowViewState.IdRef="StartTest_10" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Planner" TestDescription="Schedule Work Order (Planner Reviews - Invalid &amp; Correct / Start Centre)" TestName="OAM-T18518_Schedule Work Order (Planner Reviews - Invalid &amp; Correct / Start Centre)" testId="[TestCaseID]" />
-        </Sequence>
-      </ui:CommentOut.Body>
-    </ui:CommentOut>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,8324.666666666666" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" ScopeGuid="446eacc6-d406-45dd-86c1-a80f4b7c54a0" Version="V2">
+    <ra:StartTest ContinueOnError="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="484,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_11" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TagName="Planner" TestDescription="Schedule Work Order (Planner Reviews - Invalid &amp; Correct / Start Centre)" TestName="OAM-T18518_Schedule Work Order (Planner Reviews - Invalid &amp; Correct / Start Centre)" testId="[TestCaseID]" />
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,8347.333333333334" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" ScopeGuid="446eacc6-d406-45dd-86c1-a80f4b7c54a0" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
@@ -590,7 +579,7 @@
               <uix:NClick.Target>
                 <uix:TargetAnchorable CVScreenId="45fb5d83-869d-4fc6-b0e5-e665a69f7e21" ContentHash="amN4PPQopkal42Oj1GYXug" CvElementArea="455, 252, 157, 62" CvTextArea="481, 276, 102, 21" CvTextArgument="Scheduler" CvType="Button" DesignTimeRectangle="455, 252, 157, 62" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="321bbdb0-d16d-48ed-8b0b-e7e52f424f65" InformativeScreenshot="84ef0eecca5a2f9f98a1b62b9131db65.png" Reference="Xc-565InekWGf1ajPaNvWg/oAEracCWRUCYn_O36EMn2w" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                   <uix:TargetAnchorable.Anchors>
-                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                       <uix:Target CVScreenId="45fb5d83-869d-4fc6-b0e5-e665a69f7e21" CvElementArea="328, 253, 133, 59" CvTextArea="357, 276, 79, 21" CvTextArgument="Planner" CvType="Button" DesignTimeRectangle="328, 253, 133, 59" ElementType="Button" Guid="1026596c-535a-45d3-a721-24f4a9479371" SearchSteps="CV" TargetType="ComputerVisionBased" />
                     </scg:List>
                   </uix:TargetAnchorable.Anchors>
