@@ -1352,6 +1352,74 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18163.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "Application_Url&Sequence_13",
+        "SchedulerUser&Sequence_13",
+        "SC_Password&Sequence_13",
+        "Asset_Num&Sequence_13",
+        "PersonGroup&Sequence_13",
+        "WO_Description&Sequence_13",
+        "readonly_Attribute&Sequence_13",
+        "AssetStatus&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18063.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCaseID&Sequence_1",
+        "UserName&Sequence_2",
+        "Password&Sequence_2",
+        "Route&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Planner_WorkFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testSuiteID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ReportID_In",
+        "SuiteID_In"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18514_05.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_3",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

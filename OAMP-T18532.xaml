@@ -455,10 +455,10 @@
                   </ui:FindImageMatches>
                   <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click Asset Field" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,225" sap2010:WorkflowViewState.IdRef="NClick_11" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V4">
                     <uix:NClick.Target>
-                      <uix:TargetAnchorable CVScreenId="473e16fa-2644-448a-bc37-509b53f32931" ContentHash="T5yY0DSwm0CiPv8Cff6ugQ" CvElementArea="476, 518, 18, 21" CvType="ArrowButton" DesignTimeRectangle="722, 718, 29, 33" DesignTimeScaleFactor="1.5" ElementType="ArrowButton" Guid="a5736983-0a0f-47d2-943d-3daf0f60f390" ImageBase64="" InformativeScreenshot="1e47a2f350ad2d21ec25a85ac6e1ca41.png" Reference="Xc-565InekWGf1ajPaNvWg/hZI1h6M3_E-99sCDF-gGVg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+                      <uix:TargetAnchorable CVScreenId="3061e6c0-b9a0-402f-8b21-5ae18b8bb8a2" ContentHash="YipBMIApT06cWkaZZY9sYA" CvElementArea="1512, 760, 28, 32" CvType="ArrowButton" DesignTimeRectangle="1512, 760, 28, 32" DesignTimeScaleFactor="1.5" ElementType="ArrowButton" Guid="92ac4d1a-9dcc-4bb0-a01f-66176303520b" InformativeScreenshot="fcb30be36a3e2079f8902fa4a60eae50.png" Reference="Xc-565InekWGf1ajPaNvWg/jEhugB0gYE-bQ3d5eE7ArQ" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                         <uix:TargetAnchorable.Anchors>
                           <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                            <uix:Target CVScreenId="473e16fa-2644-448a-bc37-509b53f32931" CvTextArea="339, 487, 34, 12" CvTextArgument="Asset" CvType="Text" DesignTimeRectangle="518, 672, 51, 19" ElementType="Text" Guid="065c4edb-8766-46ef-a211-ccce9e1b45fc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+                            <uix:Target CVScreenId="3061e6c0-b9a0-402f-8b21-5ae18b8bb8a2" CvTextArea="1305, 705, 51, 18" CvTextArgument="Asset" CvType="Text" DesignTimeRectangle="1305, 705, 51, 18" ElementType="Text" Guid="332f0f16-3ee7-4374-9555-8daa528bcbd3" SearchSteps="CV" TargetType="ComputerVisionBased" />
                           </scg:List>
                         </uix:TargetAnchorable.Anchors>
                       </uix:TargetAnchorable>
@@ -469,10 +469,10 @@
                           <InArgument x:TypeArguments="x:Boolean" />
                         </uix:VerifyExecutionOptions.Retry>
                         <uix:VerifyExecutionOptions.Target>
-                          <uix:TargetAnchorable CVScreenId="473e16fa-2644-448a-bc37-509b53f32931" ContentHash="T5yY0DSwm0CiPv8Cff6ugQ" CvElementArea="476, 518, 18, 21" CvType="ArrowButton" DesignTimeRectangle="722, 718, 29, 33" DesignTimeScaleFactor="1.5" ElementType="ArrowButton" Guid="a5736983-0a0f-47d2-943d-3daf0f60f390" ImageBase64="" InformativeScreenshot="1e47a2f350ad2d21ec25a85ac6e1ca41.png" Reference="Xc-565InekWGf1ajPaNvWg/hZI1h6M3_E-99sCDF-gGVg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+                          <uix:TargetAnchorable CVScreenId="3061e6c0-b9a0-402f-8b21-5ae18b8bb8a2" ContentHash="YipBMIApT06cWkaZZY9sYA" CvElementArea="1512, 760, 28, 32" CvType="ArrowButton" DesignTimeRectangle="1512, 760, 28, 32" DesignTimeScaleFactor="1.5" ElementType="ArrowButton" Guid="92ac4d1a-9dcc-4bb0-a01f-66176303520b" InformativeScreenshot="fcb30be36a3e2079f8902fa4a60eae50.png" Reference="Xc-565InekWGf1ajPaNvWg/jEhugB0gYE-bQ3d5eE7ArQ" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                             <uix:TargetAnchorable.Anchors>
                               <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                                <uix:Target CVScreenId="473e16fa-2644-448a-bc37-509b53f32931" CvTextArea="339, 487, 34, 12" CvTextArgument="Asset" CvType="Text" DesignTimeRectangle="518, 672, 51, 19" ElementType="Text" Guid="065c4edb-8766-46ef-a211-ccce9e1b45fc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+                                <uix:Target CVScreenId="3061e6c0-b9a0-402f-8b21-5ae18b8bb8a2" CvTextArea="1305, 705, 51, 18" CvTextArgument="Asset" CvType="Text" DesignTimeRectangle="1305, 705, 51, 18" ElementType="Text" Guid="332f0f16-3ee7-4374-9555-8daa528bcbd3" SearchSteps="CV" TargetType="ComputerVisionBased" />
                               </scg:List>
                             </uix:TargetAnchorable.Anchors>
                           </uix:TargetAnchorable>
@@ -705,12 +705,15 @@
                   </uix:NTypeInto>
                   <uix:NClick ActivateBefore="True" ClickType="Single" DelayAfter="5" DisplayName="Click 'AM0001'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,225" sap2010:WorkflowViewState.IdRef="NClick_23" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="0d784b76-bf2f-4a02-a4e2-c0021a090533" Version="V4">
                     <uix:NClick.Target>
-                      <uix:TargetAnchorable CVScreenId="89bc01ab-8cf0-4715-b682-97e1d5bf5984" ContentHash="nGUYkwfW_ECHcSLo2sd4TA" CvTextArea="206, 559, 52, 12" CvTextArgument="AM0001" CvType="Text" DesignTimeRectangle="237, 717, 78, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="1b903bae-bdcd-45a8-bdb8-b21811fd83ce" ImageBase64="" InformativeScreenshot="14eb7c298a38113b07ff33272fa482b9.png" Reference="Xc-565InekWGf1ajPaNvWg/EZ2gpMXCcEy--UbmQa1FCg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+                      <uix:TargetAnchorable CVScreenId="a7722208-33a5-4c98-94bc-103cb8ad93fd" ContentHash="SPWrWwWo4EOj-3qtEeo_yQ" CvElementArea="195, 493, 128, 42" CvType="InputBox" DesignTimeRectangle="195, 493, 128, 42" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="e9f808a6-899a-4d1d-a971-0b943bbc243f" InformativeScreenshot="bd87c94d23c582ce3c11f48f4962d19b.png" IsResponsive="True" Reference="Xc-565InekWGf1ajPaNvWg/EZ2gpMXCcEy--UbmQa1FCg" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                         <uix:TargetAnchorable.Anchors>
                           <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                            <uix:Target CVScreenId="89bc01ab-8cf0-4715-b682-97e1d5bf5984" CvElementArea="196, 495, 126, 40" CvType="InputBox" DesignTimeRectangle="218, 617, 194, 65" ElementType="InputBox" Guid="9585a4dc-429d-4833-a5fd-691fbb85b258" SearchSteps="CV" TargetType="ComputerVisionBased" />
+                            <uix:Target CVScreenId="a7722208-33a5-4c98-94bc-103cb8ad93fd" CvTextArea="197, 463, 52, 13" CvTextArgument="Job Plan" CvType="Text" DesignTimeRectangle="197, 463, 52, 13" ElementType="Text" Guid="014428f3-fc29-43a8-a1a4-e49c0f5f0098" SearchSteps="CV" TargetType="ComputerVisionBased" />
                           </scg:List>
                         </uix:TargetAnchorable.Anchors>
+                        <uix:TargetAnchorable.PointOffset>
+                          <uix:PointOffset Position="BottomLeft" X="31" Y="28" />
+                        </uix:TargetAnchorable.PointOffset>
                       </uix:TargetAnchorable>
                     </uix:NClick.Target>
                     <uix:NClick.VerifyOptions>
