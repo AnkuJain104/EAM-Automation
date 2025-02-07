@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Unclean condenser coils",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "HTJGhKKhCUKTOybxZVbo_Q",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/HTJGhKKhCUKTOybxZVbo_Q",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-06T14:35:00.9483091Z",
+  "Updated": "2025-02-06T14:35:00.9483091Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

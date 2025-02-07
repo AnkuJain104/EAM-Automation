@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XbRrNsaAekqMBnO0FXLDFw" Reference="Xc-565InekWGf1ajPaNvWg/smAKUYOyrE293ITg-dsM4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1146, 786, 38, 40" DesignTimeScaleFactor="1.5" Guid="936a7572-bc9c-4435-ba73-47d7e552021e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACYAAAAoCAYAAACSN4jeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHHSURBVFhH7dS9asJQGMZxr6JDh16AoJugHTIEGnoBgt6LoKCDQ0s/BhEUxEER8R6cBL0FtSSg4CAlXRRE0ae8ByL2QMTzEZSSP2QJZ/jxvsmJ4EaL8C9upRAmWggTLYSJFsJE+3+w7x8Xq9WKf60tYRhhvhwbby8f6PV6sG0bm82GP6acMIwm1e/3YRomMpkMOp0OZrMZdrsdf1QpYRgBCFIsFvH8ZMF4NNBoNNg7nQnDKFrncDhEPp9nOJpcrVbTulYpmNdoNEKhUEA0GmW4druN+XyuZa1KsPV6jclkglwuB8uykEqljjjVlGAU4bzJmaaJdDqNarXK1rrdbvnjF6cM8+LX2mq1lP5WbTB+rclkEs1mk01OJm0wynVdVCoVGIaBh7t7dgmPx2P+2EVpg9HEHMdBqVRiE4vFYscrRCZtMLrXyuUyEonEn3tN9gdQht3kX8mvLx6Po16vs3eqKcH49Xko2SviNCmY3/qm06kWFCUFWywWbFK613eaMIzuqsFgwCaVzWa1ru80YZj3wb+/fqLb7QaCooRhXsvlkiGDShq23+/PPqpJw4LOF3Y4HM4+QecLu3YhTDRfGP9N8U/Q+cKu3S8xixv7lAdUbgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="Image" TargetType="ImageBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3bcdcb2f-dd4b-406c-b5c3-f8b0585a36aa" CvTextArea="522, 759, 139, 19" CvTextArgument="* Classification" CvType="Text" DesignTimeRectangle="523, 745, 138, 19" ElementType="Text" Guid="98f3bf92-28bf-4975-af52-4a5ac44fb1a5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="3bcdcb2f-dd4b-406c-b5c3-f8b0585a36aa" CvElementArea="521, 791, 618, 63" CvType="InputBox" DesignTimeRectangle="522, 777, 615, 62" ElementType="InputBox" Guid="2ffb1077-7a60-46ca-98ae-8010e331a94e" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6a508e8d5ee5660093cfea1ba87212d0.png" xmlns="">0Pn7cvbB4cEGeldMM_bGSjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

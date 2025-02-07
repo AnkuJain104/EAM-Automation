@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EqEBgxgCP0-VFpHkuCTJRg" Reference="Xc-565InekWGf1ajPaNvWg/Z4HgX0r920SeimTS6FSRZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b4b13896-0a67-44dd-badc-06b4a62a16cc" CvTextArea="1183, 669, 219, 25" CvTextArgument="Refrigerant level is low" CvType="Text" DesignTimeRectangle="978, 634, 199, 24" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="77d65102-c19d-49e2-800d-25c32d0b57c6" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="b4b13896-0a67-44dd-badc-06b4a62a16cc" CvTextArea="1183, 597, 235, 21" CvTextArgument="Unclean condenser coils" CvType="Text" DesignTimeRectangle="976, 570, 215, 19" ElementType="Text" Guid="c46cb18d-bc30-48e8-8b51-9f4d2ed9bd2d" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="25" Y="39" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="840aca9ab8bc5ad31a372b4052012b8b.png" xmlns="">840aca9ab8bc5ad31a372b4052012b8b.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

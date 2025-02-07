@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Manage your asset lifec…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NPFglO2fq02n2FzHZ69Eqw",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/NPFglO2fq02n2FzHZ69Eqw",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-06T14:33:44.0102186Z",
+  "Updated": "2025-02-06T14:33:44.0102186Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
