@@ -1352,6 +1352,28 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18139.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Planner_WorkFlow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "testreportid&Sequence_2",
+        "testSuiteID&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ReportID_In",
+        "SuiteID_In"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

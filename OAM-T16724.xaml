@@ -116,7 +116,7 @@
       <AssemblyReference>Microsoft.Extensions.DependencyModel</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="OAM_T16724" sap:VirtualizedContainerService.HintSize="633.9999999999999,14320" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="OAM_T16724" sap:VirtualizedContainerService.HintSize="599.3333333333333,14320" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="wordsInfo" />
       <Variable x:TypeArguments="x:String" Name="TestCaseID" />
@@ -129,7 +129,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="484,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_10" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAM-T16724_Schedule Work Order (Planner Reviews - Invalid &amp; Waiting for Info / Start Centre)" testId="[TestCaseID]" />
+    <ra:StartTest ContinueOnError="{x:Null}" TagName="{x:Null}" TestDescription="{x:Null}" DisplayName="Start Test" sap:VirtualizedContainerService.HintSize="484,118.66666666666667" sap2010:WorkflowViewState.IdRef="StartTest_11" Priority="Low" ReportId="[In_ReportID]" SuiteId="[In_SuiteID]" TestName="OAM-T16724_Schedule Work Order (Planner Reviews - Invalid &amp; Waiting for Info / Start Centre)" testId="[TestCaseID]" />
     <uix:NApplicationCard AttachMode="ByInstance" DisplayName="SW Desktop (Global)" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="484,14178.666666666666" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="96df47ed-e72a-4d1d-92e0-fd429ebc8563" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
@@ -691,7 +691,7 @@
               <uix:NClick.Target>
                 <uix:TargetAnchorable CVScreenId="e0bed736-db8e-4a0f-b5c7-0354fa9130c4" ContentHash="T2XSM-4F2UC3eAsLlNwTVw" CvTextArea="478, 276, 103, 21" CvTextArgument="Scheduler" CvType="Text" DesignTimeRectangle="478, 276, 103, 21" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="9d2df73b-9e59-435f-9f73-14fe0a5faf15" InformativeScreenshot="a81ca52f99907a581b77c2bd554cb369.png" Reference="Xc-565InekWGf1ajPaNvWg/Ce8Efa12OUCuQSH4cPt1zw" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
                   <uix:TargetAnchorable.Anchors>
-                    <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                       <uix:Target CVScreenId="e0bed736-db8e-4a0f-b5c7-0354fa9130c4" CvTextArea="354, 277, 78, 19" CvTextArgument="Planner" CvType="Text" DesignTimeRectangle="354, 277, 78, 19" ElementType="Text" Guid="15100ba6-06d5-4c15-b871-0f03cd9670b0" SearchSteps="CV" TargetType="ComputerVisionBased" />
                     </scg:List>
                   </uix:TargetAnchorable.Anchors>
