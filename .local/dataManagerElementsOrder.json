@@ -1420,6 +1420,29 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "~OAMP-T18512.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCase_ID&Sequence_1",
+        "valueOfWorkOrder&Sequence_2",
+        "valueOfWorkGroup&Sequence_2",
+        "JobPlanValue&Sequence_2",
+        "descriptionValue&Sequence_2",
+        "WorkOderID&Sequence_2",
+        "laborValue&Sequence_2",
+        "workOrderID&Sequence_2",
+        "WOAfterFilter&Sequence_2",
+        "DescriptionValueForReturned&Sequence_2",
+        "descriptionVaueForLocation&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
