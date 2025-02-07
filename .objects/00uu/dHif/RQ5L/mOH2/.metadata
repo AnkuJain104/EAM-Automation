@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Assets (T&D)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mOH2fo2NFEy5cKzBfkZqBg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/mOH2fo2NFEy5cKzBfkZqBg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-07T07:45:28.5778907Z",
+  "Updated": "2025-02-07T07:45:28.5778907Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
