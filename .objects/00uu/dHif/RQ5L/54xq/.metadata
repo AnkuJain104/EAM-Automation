@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Preventive Maintenance",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "54xqHxBG6UKaE7Ok7Zp6qA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/54xqHxBG6UKaE7Ok7Zp6qA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-11T07:51:09.781214Z",
+  "Updated": "2025-02-11T07:51:09.781214Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
