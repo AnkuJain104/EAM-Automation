@@ -1356,8 +1356,13 @@
     {
       "Path": "OAMP-T18139.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
-      "ArgumentsSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "TestCaseID&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_SuiteID",
+        "In_ReportID"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
@@ -1371,6 +1376,22 @@
       "ArgumentsSectionElementsOrder": [
         "ReportID_In",
         "SuiteID_In"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OAMP-T18138.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TestCaseID&Sequence_1",
+        "UserName&Sequence_3",
+        "PassWord&Sequence_3",
+        "variable2&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_ReportID",
+        "In_SuiteID"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
