@@ -90,13 +90,13 @@
       <AssemblyReference>System.Linq.Async</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Planner_WorkFlow" sap:VirtualizedContainerService.HintSize="599.3333333333333,2782.6666666666665" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Planner_WorkFlow" sap:VirtualizedContainerService.HintSize="599.3333333333333,3137.3333333333335" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="520.6666666666666,2760" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <Sequence sap:VirtualizedContainerService.HintSize="520.6666666666666,3114.6666666666665" sap2010:WorkflowViewState.IdRef="Sequence_2">
       <Sequence.Variables>
         <Variable x:TypeArguments="x:String" Name="testSuiteID" />
         <Variable x:TypeArguments="x:Int32" Name="testreportid" />
@@ -312,7 +312,19 @@
           <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="OAMP-T18139 - Invoke Workflow File (OAMP-T18139.xaml)" sap:VirtualizedContainerService.HintSize="486.6666666666667,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_47" UnSafe="False" WorkflowFileName="OAMP-T18139.xaml">
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="OAMP-T18139 - Invoke Workflow File (OAMP-T18139.xaml)" sap:VirtualizedContainerService.HintSize="486.6666666666667,177.33333333333334" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_47" UnSafe="False" WorkflowFileName="OAMP-T18139.xaml">
+        <ui:InvokeWorkflowFile.Arguments>
+          <InArgument x:TypeArguments="x:Int32" x:Key="In_ReportID">[Main_ReportID]</InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
+        </ui:InvokeWorkflowFile.Arguments>
+      </ui:InvokeWorkflowFile>
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="OAMP-T18138 - Invoke Workflow File (OAMP-T18138.xaml)" sap:VirtualizedContainerService.HintSize="486.6666666666667,177.33333333333334" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_48" UnSafe="False" WorkflowFileName="OAMP-T18138.xaml">
+        <ui:InvokeWorkflowFile.Arguments>
+          <InArgument x:TypeArguments="x:Int32" x:Key="In_ReportID">[Main_ReportID]</InArgument>
+          <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
+        </ui:InvokeWorkflowFile.Arguments>
+      </ui:InvokeWorkflowFile>
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="OAMP-T18137 - Invoke Workflow File (OAMP-T18137.xaml)" sap:VirtualizedContainerService.HintSize="486.6666666666667,168" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_49" UnSafe="False" WorkflowFileName="OAMP-T18137.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <InArgument x:TypeArguments="x:Int32" x:Key="In_ReportID">[Main_ReportID]</InArgument>
           <InArgument x:TypeArguments="x:String" x:Key="In_SuiteID">[testSuiteID]</InArgument>
