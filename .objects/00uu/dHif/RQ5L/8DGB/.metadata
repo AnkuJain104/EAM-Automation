@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Find Navigation Item",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8DGBWR0ujkG_taYD_N5gsQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/8DGBWR0ujkG_taYD_N5gsQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-11T08:14:27.3907002Z",
+  "Updated": "2025-02-11T08:14:27.3907002Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

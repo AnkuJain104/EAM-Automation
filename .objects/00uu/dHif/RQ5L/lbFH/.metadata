@@ -1,0 +1,14 @@
+﻿{
+  "Name": "house icon(2)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "lbFHZ0y6_U2juT90ig6oMQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/lbFHZ0y6_U2juT90ig6oMQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-07T07:43:44.6158449Z",
+  "Updated": "2025-02-07T07:43:44.6158449Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
