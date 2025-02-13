@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nu Hide Table",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "WBxj-dyR9UGg1ZA6TKi5Ow",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/WBxj-dyR9UGg1ZA6TKi5Ow",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/RQ5L7f5haEiT4y1wyB_y-g",
+  "Created": "2025-02-13T07:09:18.7294553Z",
+  "Updated": "2025-02-13T07:09:18.7294553Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

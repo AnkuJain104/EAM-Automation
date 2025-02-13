@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4TNwlyZZXUOvPa9R4iu2ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f002dfcc-4ae8-447e-9556-704e00b9fca9" CvTextArea="105, 703, 334, 25" CvTextArgument="with other enterprise applications." CvType="Text" DesignTimeRectangle="105, 703, 334, 25" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="446b1ee7-c1fc-40ef-9b37-800026b672bf" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f002dfcc-4ae8-447e-9556-704e00b9fca9" CvTextArea="108, 544, 221, 27" CvTextArgument="Manage with Health" CvType="Text" DesignTimeRectangle="108, 544, 221, 27" ElementType="Text" Guid="d9830df5-d629-4992-9101-81ae88b21076" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="447de69fbf8e87448d2724c2245a22ff.png" xmlns="">0mzjK0oYonEa-GywqsyzZJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

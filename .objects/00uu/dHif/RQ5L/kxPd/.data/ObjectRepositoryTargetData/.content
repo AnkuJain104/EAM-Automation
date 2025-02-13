@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rPaMp7EDtE2RJWArsFbsxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5c4584e0-0713-4ed4-9b86-6d02301fcad6" CvTextArea="123, 396, 379, 25" CvTextArgument="Number of Change Requests per Status" CvType="Text" DesignTimeRectangle="123, 396, 379, 25" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="eda2b81e-b5b3-4d9f-9c9d-e23df6d57afe" ScopeSelectorArgument="&lt;wnd app='horizon-client.exe' cls='HwndWrapper*' title='SW Desktop (Global)' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5c4584e0-0713-4ed4-9b86-6d02301fcad6" CvElementArea="98, 253, 219, 65" CvTextArea="129, 276, 165, 25" CvTextArgument="Change Request" CvType="Button" DesignTimeRectangle="98, 253, 219, 65" ElementType="Button" Guid="4248dfe2-fb98-471d-b08d-71b365760a10" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="432c9d8e49f9c511197e5d1d899aafa7.png" xmlns="">078ayxC7oSECHAlE_BE4Egg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
