@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ASSET-LOC(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KGLmPNauwUW99nPq8vsg6g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/KGLmPNauwUW99nPq8vsg6g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:10:24.9641836Z",
+  "Updated": "2025-02-14T10:10:24.9641836Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

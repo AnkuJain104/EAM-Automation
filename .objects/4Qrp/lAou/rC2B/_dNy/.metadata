@@ -1,0 +1,13 @@
+﻿{
+  "Name": "house icon(4)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "_dNyobCwAEGTv82CesX3GA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/_dNyobCwAEGTv82CesX3GA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T11:04:07.5821276Z",
+  "Updated": "2025-02-14T11:04:07.5821276Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

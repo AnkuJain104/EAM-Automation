@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Assets (T&D)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "3TjYqMEpik6GXwsabg3d9Q",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/3TjYqMEpik6GXwsabg3d9Q",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:08:51.8217079Z",
+  "Updated": "2025-02-14T10:08:51.8217079Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

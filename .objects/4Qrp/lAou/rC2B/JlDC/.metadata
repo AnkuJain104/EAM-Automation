@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Start Center(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JlDCW5g_yUKKtQJQEUktUQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/JlDCW5g_yUKKtQJQEUktUQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:46:42.4526122Z",
+  "Updated": "2025-02-14T10:46:42.4526122Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

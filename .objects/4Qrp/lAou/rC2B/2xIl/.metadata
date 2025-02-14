@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Task",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2xIl1X0iT0uo5VrtRHjcrQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/2xIl1X0iT0uo5VrtRHjcrQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:51:36.2262701Z",
+  "Updated": "2025-02-14T10:51:36.2262701Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

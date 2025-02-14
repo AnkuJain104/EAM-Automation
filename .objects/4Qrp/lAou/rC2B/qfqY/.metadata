@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Common Actions(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "qfqYGqZHT0WyLi4lIwpuRg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/qfqYGqZHT0WyLi4lIwpuRg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:25:56.9996439Z",
+  "Updated": "2025-02-14T10:25:56.9996439Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

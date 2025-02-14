@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Manage your asset lifec…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "jlPn1lKYRkWkP0gICpMn2A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/jlPn1lKYRkWkP0gICpMn2A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T11:29:30.0102144Z",
+  "Updated": "2025-02-14T11:29:30.0102144Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
