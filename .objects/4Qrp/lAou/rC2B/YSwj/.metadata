@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ATSTATUS",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "YSwjIYraGECFbOHlE5IE6A",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/YSwjIYraGECFbOHlE5IE6A",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T13:40:11.4711696Z",
+  "Updated": "2025-02-14T13:40:11.4711696Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
