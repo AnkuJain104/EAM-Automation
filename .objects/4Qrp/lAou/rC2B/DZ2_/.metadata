@@ -1,0 +1,13 @@
+﻿{
+  "Name": "OK(1)(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DZ2_NxLqDk-MEF5onEBr4g",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/DZ2_NxLqDk-MEF5onEBr4g",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:57:45.1887282Z",
+  "Updated": "2025-02-14T10:57:45.1887282Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Asset(5)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "vZJqr6pvGUqsAv_LDT-xDg",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/vZJqr6pvGUqsAv_LDT-xDg",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:03:45.4257917Z",
+  "Updated": "2025-02-14T10:03:45.4257917Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

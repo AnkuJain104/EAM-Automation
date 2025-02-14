@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Job Plan(5)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "HEVqPalOY064dXoKF0kFaA",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/HEVqPalOY064dXoKF0kFaA",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T11:14:59.9073277Z",
+  "Updated": "2025-02-14T11:14:59.9073277Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Classification(3)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "NmAg9YFnJ0KeAB9guetOXQ",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/NmAg9YFnJ0KeAB9guetOXQ",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T10:36:48.4291499Z",
+  "Updated": "2025-02-14T10:36:48.4291499Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
