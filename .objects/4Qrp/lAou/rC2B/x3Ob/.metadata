@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Unit of Measure in Specification Tab",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "x3ObAb0BBk-SBHQINbPj5Q",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/x3ObAb0BBk-SBHQINbPj5Q",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T12:39:26.1914881Z",
+  "Updated": "2025-02-14T12:41:41.9319439Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

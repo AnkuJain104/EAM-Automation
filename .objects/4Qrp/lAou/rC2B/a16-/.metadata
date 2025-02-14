@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Alphanumaric Value",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "a16-R4zFyUijcs18Zj5m0w",
+  "Reference": "Xc-565InekWGf1ajPaNvWg/a16-R4zFyUijcs18Zj5m0w",
+  "ParentRef": "Xc-565InekWGf1ajPaNvWg/rC2B8eW2sUa16kUAwtX-jA",
+  "Created": "2025-02-14T12:48:02.9483306Z",
+  "Updated": "2025-02-14T12:48:02.9483306Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
